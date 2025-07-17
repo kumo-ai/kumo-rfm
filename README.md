@@ -1,2 +1,39 @@
-# kumo-rfm
-This repository is for tracking issues, feature requests, and feedback for KumoRFM.
+# KumoRFM: A foundation model for machine learning
+
+## How you can use this repo
+This repository is for tracking issues, feature requests, and feedback for KumoRFM.  
+You'll also find a collection of sample Jupyter Notebooks that you can download, study and modify in order to get hands-on with KumoRFM.
+
+## Introduction
+
+KumoRFM is built to simplify predictive modeling:
+- Generate accurate predictions for tasks like churn, fraud, recommendations and many more
+- Eliminate manual feature engineering and model training with zero-shot predictions
+- Use just your data and a few lines of code to get results in real-time
+
+## How KumoRFM works
+KumoRFM is a pretrained foundation model designed for machine learning. It accepts a set of data tables as input and is prompted by a predictive task expressed in Predictive Query Language. The model delivers accurate predictions in under a second, without requiring task- or dataset-specific training. Benchmarks show it outperforms traditional supervised models by 2% to 8%.
+
+[Blog](https://kumo.ai/company/news/kumo-relational-foundation-model/) | [Paper](https://kumo.ai/research/kumo_relational_foundation_model.pdf) | [Get an API key](https://kumorfm.ai/) 
+
+<div align="left">
+  <img src="https://kumo-sdk-public.s3.us-west-2.amazonaws.com/rfm-colabs/rfm-tasks.png"
+       alt="Versatility of KumoRFM"
+       width="600"
+</div>
+
+## Installation
+KumoRFM is available for Python 3.9 to Python 3.13.
+```
+pip install kumoai
+```
+
+## We love your feedback!
+As you work with KumoRFM, if you encounter any problems or things that are confusing or don't work quite right, please open a new [issue](https://github.com/kumo-ai/kumo-rfm/issues) :octocat:.
+
+Join our [slack channel](https://join.slack.com/t/kumoaibuilders/shared_invite/zt-39jecw428-WYcsbIPJIpc80S2U5hSdyw)!
+
+## Community contribution
+If you're considering contributing a sample notebook, please first open a new [issue](https://github.com/kumo-ai/kumo-rfm/issues) :octocat: and state your proposed notebook so we discuss them together before you invest a ton of time. We'll invite you to our Mountain View, CA office (in you are local here) or send you a Kumo Swag if your notebook is accepted.
+
+Thank you and excited to see what you'll build with KumoRFM!
