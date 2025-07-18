@@ -31,7 +31,7 @@ pip install kumoai
 ```
 
 ## We love your feedback! :heart:
-As you work with KumoRFM, if you encounter any problems or things that are confusing or don't work quite right, please open a new :octocat:[issue](https://github.com/kumo-ai/kumo-rfm/issues).
+As you work with KumoRFM, if you encounter any problems or things that are confusing or don't work quite right, please open a new :octocat:[issue](https://github.com/kumo-ai/kumo-rfm/issues). You can also submit general feedback and suggestions [here](https://docs.google.com/forms/d/e/1FAIpQLSfr2HYgJN8ghaKyvU0PSRkqrGd_BijL3oyQTnTxLrf8AEk-EA/viewform).
 
 Join our [slack channel](https://join.slack.com/t/kumoaibuilders/shared_invite/zt-39jecw428-WYcsbIPJIpc80S2U5hSdyw)!
 
