@@ -20,21 +20,22 @@ KumoRFM is built on two core innovations: (1) A pretrained graph transformer: A 
 <div align="center">
   <img src="https://kumo-sdk-public.s3.us-west-2.amazonaws.com/rfm-colabs/rfm-tasks.png"
        alt="Versatility of KumoRFM"
-       width="600"
+       width="600">
 </div>
 
+
 ## Installation
-KumoRFM is available for Python 3.9 to Python 3.13. You'll need an API key to use the model ([Get a free API key](https://kumorfm.ai/)).
+KumoRFM is available for Python 3.9 to Python 3.13. You'll need an API key to use the model ([get an API key](https://kumorfm.ai/)).
 ```
 pip install kumoai
 ```
 
 ## We love your feedback! :heart:
-As you work with KumoRFM, if you encounter any problems or things that are confusing or don't work quite right, please open a new [issue](https://github.com/kumo-ai/kumo-rfm/issues) :octocat:.
+As you work with KumoRFM, if you encounter any problems or things that are confusing or don't work quite right, please open a new :octocat:[issue](https://github.com/kumo-ai/kumo-rfm/issues).
 
 Join our [slack channel](https://join.slack.com/t/kumoaibuilders/shared_invite/zt-39jecw428-WYcsbIPJIpc80S2U5hSdyw)!
 
 ## Community contribution
-If you're considering contributing a sample notebook, please first open a new [issue](https://github.com/kumo-ai/kumo-rfm/issues) :octocat: and state your proposed notebook so we discuss them together before you invest a ton of time. We'll invite you to our Mountain View, CA office (in you are local here) or send you a Kumo Swag if your notebook is accepted.
+If you're considering contributing a sample notebook, please first open a new :octocat:[issue](https://github.com/kumo-ai/kumo-rfm/issues) :octocat: and state your proposed notebook so we discuss them together before you invest a ton of time. We'll invite you to our Mountain View, CA office (in you are local here) or send you a Kumo Swag if your notebook is accepted.
 
 Thank you and excited to see what you'll build with KumoRFM!
