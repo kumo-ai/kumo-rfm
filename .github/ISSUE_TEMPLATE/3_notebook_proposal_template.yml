@@ -1,0 +1,38 @@
+name: Notebook Proposal
+description: Propose a new Jupyter Notebook sample notebook
+labels:
+  - proposal
+  - notebook
+body:
+  - type: markdown
+    attributes:
+      value: "Thank you for your interest in contributing a demo notebook. Please fill out the following information to help us understand and evaluate your proposal."
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: "A short summary of the notebook and what it demonstrates."
+    validations:
+      required: true
+
+  - type: textarea
+    id: goals
+    attributes:
+      label: Learning Goals / Outcomes
+      description: "What will someone learn by going through this notebook? List the key takeaways or skills."
+    validations:
+      required: true
+
+  - type: textarea
+    id: requirements
+    attributes:
+      label: Requirements / Prerequisites
+      description: "List any libraries, datasets, or prerequisites needed for the notebook."
+
+  - type: input
+    id: contact_information
+    attributes:
+      label: Contact Information
+      description: "Best way to reach you if we need more information."
+      placeholder: "name@email.com"

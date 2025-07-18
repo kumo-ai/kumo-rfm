@@ -1,0 +1,24 @@
+name: General Feedback
+description: Share feedback or suggestions on KumoRFM
+labels:
+  - feedback
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: "Brief summary of your feedback."
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: "Optional: More context or suggestions."
+
+  - type: input
+    id: contact
+    attributes:
+      label: Contact (optional)
+      placeholder: "you@example.com"
