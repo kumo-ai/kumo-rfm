@@ -36,6 +36,6 @@ As you work with KumoRFM, if you encounter any problems or things that are confu
 Join our [slack channel](https://join.slack.com/t/kumoaibuilders/shared_invite/zt-39jecw428-WYcsbIPJIpc80S2U5hSdyw)!
 
 ## Community contribution
-If you're considering contributing a sample notebook, please first open a new :octocat:[issue](https://github.com/kumo-ai/kumo-rfm/issues) and state your proposed notebook so we discuss them together before you invest a ton of time. We'll invite you to our Mountain View, CA office (in you are local here) or send you a Kumo Swag if your notebook is accepted.
+If you're considering contributing a sample notebook, please first open a new :octocat:[issue](https://github.com/kumo-ai/kumo-rfm/issues) and state your proposed notebook so we discuss them together before you invest a ton of time. We'll invite you to our Mountain View, CA office (if you are local here) or send you a Kumo Swag if your notebook is accepted.
 
 Thank you and excited to see what you'll build with KumoRFM!
