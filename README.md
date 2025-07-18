@@ -2,11 +2,10 @@
 
 ## How you can use this repo
 This repository is for tracking issues, feature requests, and feedback for KumoRFM.  
-You'll also find a collection of sample Jupyter Notebooks that you can download, study and modify in order to get hands-on with KumoRFM.
+You'll also find a collection of sample Jupyter notebooks. You can download, study and modify in order to get hands-on with KumoRFM.
 
 ## Introduction
-
-KumoRFM is built to simplify predictive modeling:
+KumoRFM is built to simplify machine learning:
 - Generate accurate predictions for tasks like churn, fraud, recommendations and many more
 - Eliminate manual feature engineering and model training with zero-shot predictions
 - Use just your data and a few lines of code to get results in real-time
@@ -30,7 +29,7 @@ KumoRFM is available for Python 3.9 to Python 3.13.
 pip install kumoai
 ```
 
-## We love your feedback!
+## We love your feedback! :heart:
 As you work with KumoRFM, if you encounter any problems or things that are confusing or don't work quite right, please open a new [issue](https://github.com/kumo-ai/kumo-rfm/issues) :octocat:.
 
 Join our [slack channel](https://join.slack.com/t/kumoaibuilders/shared_invite/zt-39jecw428-WYcsbIPJIpc80S2U5hSdyw)!
