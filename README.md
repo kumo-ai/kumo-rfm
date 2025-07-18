@@ -17,14 +17,14 @@ KumoRFM is built on two core innovations: (1) A pretrained graph transformer: A 
 
 [Blog](https://kumo.ai/company/news/kumo-relational-foundation-model/) | [Paper](https://kumo.ai/research/kumo_relational_foundation_model.pdf) | [Get an API key](https://kumorfm.ai/) 
 
-<div align="left">
+<div align="center">
   <img src="https://kumo-sdk-public.s3.us-west-2.amazonaws.com/rfm-colabs/rfm-tasks.png"
        alt="Versatility of KumoRFM"
        width="600"
 </div>
 
 ## Installation
-KumoRFM is available for Python 3.9 to Python 3.13.
+KumoRFM is available for Python 3.9 to Python 3.13. You'll need an API key to use the model ([Get a free API key](https://kumorfm.ai/)).
 ```
 pip install kumoai
 ```
