@@ -5,15 +5,15 @@ This repository is for tracking issues, feature requests, and feedback for KumoR
 You'll also find a collection of sample Jupyter notebooks. You can download, study and modify in order to get hands-on with KumoRFM.
 
 ## Introduction
-KumoRFM is built to simplify machine learning:
+Use it to predict outcomes such as purchases, engagement, churn, fraud, revenue, and more:
 - Generate accurate predictions for tasks like churn, fraud, recommendations and many more
 - Eliminate manual feature engineering and model training with zero-shot predictions
 - Use just your data and a few lines of code to get results in real-time
 
 ## How KumoRFM works
-KumoRFM is a pretrained foundation model designed for machine learning. It accepts a set of data tables as input and is prompted by a predictive task expressed in Predictive Query Language. The model delivers accurate predictions in under a second, without requiring task- or dataset-specific training. Benchmarks show it outperforms traditional supervised models by 2% to 8%.
+KumoRFM is a pretrained foundation model designed for machine learning. It accepts a set of data tables as input and is prompted by a predictive task expressed in Predictive Query Language. The model delivers predictions in under a second, without requiring task- or dataset-specific training. The predictions are as accurate or slightly more accurate than custom-trained predictive models that often take weeks to make.
 
-KumoRFM is built on two core innovations: (1) A pretrained graph transformer: A table-agnostic encoder that learns representations across multi-modal, multi-table data, eliminating the need for custom pipelines. (2) In-context learning. At inference time, it retrieves labeled subgraph examples as context to inform predictions, eliminating the need for task-specific model training. 
+KumoRFM is built on two core innovations: (1) A pretrained graph transformer: An encoder that learns representations across multiple tables, eliminating the need for custom pipelines. (2) In-context learning. At inference time, it retrieves labeled subgraph examples as context to inform predictions, eliminating the need for task-specific model training. 
 
 [Blog](https://kumo.ai/company/news/kumo-relational-foundation-model/) | [Paper](https://kumo.ai/research/kumo_relational_foundation_model.pdf) | [Get an API key](https://kumorfm.ai/) 
 
