@@ -1,4 +1,4 @@
-# KumoRFM: A foundation model for machine learning
+# KumoRFM: A foundation model for business data
 
 ## How you can use this repo
 This repository is for tracking issues, feature requests, and feedback for KumoRFM.  
