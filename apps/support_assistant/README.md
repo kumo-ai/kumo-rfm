@@ -1,16 +1,18 @@
-# Support Assistant 
+# Customer Support Assistant 
 
-This is a Streamlit demo app that showcases how to use the Kumo SDK for customer support use cases. The app helps explore:
-	•	Churn prediction: Probability a user will stop purchasing in the next 90 days
-	•	LTV: Realized and predicted customer lifetime value
-	•	Personalized recommendations: Top-K product recommendation based on purchase histroy
-	•	Item substitution: Alternatives for a given product based on popularity and category 
+This is a Streamlit demo app that showcases how to use KumoRFM for customer support use cases. 
+
+## Features
+- Churn prediction: Probability a user will stop purchasing in the next 90 days
+- LTV: Realized and predicted customer lifetime value
+- Personalized recommendations: Top-K product recommendation based on purchase histroy
+- Item substitution: Alternatives for a given product based on popularity and category 
 
 ## Dataset 
-The app uses Kumo’s public online shopping dataset, loaded from S3:
-	•	users.parquet – customer profiles
-	•	orders.parquet – order history
-	•	items.parquet – item metadata
+The app uses Kumo’s public online shopping dataset, loaded from s3://kumo-sdk-public/rfm-datasets/online-shopping/
+- users.parquet – customer profiles
+- orders.parquet – order history
+- items.parquet – item metadata
 
 ## Requirements
 1. install dependacies: 
