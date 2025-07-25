@@ -17,7 +17,7 @@ items_df = pd.read_parquet(f's3://kumo-sdk-public/rfm-datasets/online-shopping/i
 orders_df = pd.read_parquet(f's3://kumo-sdk-public/rfm-datasets/online-shopping/orders.parquet', storage_options={"anon": True})
 
 # --- Load Environment Variables ---
-load_dotenv("/Users/effyfang/sdkvenv/rfm/demo app/.env")
+load_dotenv()
 KUMO_API_KEY = os.getenv("KUMO_API_KEY")
 
 if not KUMO_API_KEY:
