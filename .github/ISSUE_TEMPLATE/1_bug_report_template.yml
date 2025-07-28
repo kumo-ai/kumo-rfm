@@ -11,52 +11,47 @@ body:
     id: description
     attributes:
       label: Describe the Bug
-      description: "A clear and concise description of the bug."
+      description: |
+        A clear and concise description of the bug. Include any information to reproduce your issue, e.g.,
+        * full error messages and/or logs
+        * Python code snippet
+        * expected behavior
+        * actual behaviour you encountered
+      placeholder: |
+        I am trying to do XYZ, but I am seeing the following error:
+        ```
+        <error message here>
+        ```
+        My Python script is:
+        ```python
+        import kumoai as kumo
+        ...
+        ```
+        The Google Colab notebook is available at https://colab.research.google.com/...
+        The data used in the Python script or notebook is available at ...
     validations:
       required: true
-
-  - type: textarea
-    id: sample_data
-    attributes:
-      label: Sample Data
-      description: "If possible, provide sample data that's related to the issue."
-
-  - type: textarea
-    id: code_snippet
-    attributes:
-      label: Code Snippet
-      description: "Provide any relevant code snippets."
-      render: yaml
-
-  - type: textarea
-    id: expected
-    attributes:
-      label: Expected Behavior
-      description: "What you expected to happen."
-
-  - type: textarea
-    id: actual
-    attributes:
-      label: Actual Behavior
-      description: "What actually happened."
-
-  - type: textarea
-    id: errors
-    attributes:
-      label: Error Messages
-      description: "Paste any error messages or logs here."
 
   - type: input
     id: kumoai_version
     attributes:
-      label: kumoai_version
-      description: "Specify the kumoai version."
-      placeholder: "e.g., 1.2"
+      label: `kumoai` version
+      description: |
+        Paste the value of:
+        ```python
+        import kumoai
+        print(kumoai.__version__)
+        ```
+        or the output of:
+        ```bash
+        pip list
+        ```
+      placeholder: "e.g., 2.5.1"
 
   - type: input
     id: contact_information
     attributes:
-      label: contact
+      label: Contact Information
       description: "Best way to reach you if we need additional information"
       placeholder: "name@email.com"
 
