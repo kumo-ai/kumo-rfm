@@ -1,4 +1,4 @@
-name: Feature Request
+name: :rocket: Feature Request
 description: Suggest a new feature or improvement
 labels:
   - enhancement
@@ -11,29 +11,12 @@ body:
     id: summary
     attributes:
       label: Feature Summary
-      description: "Provide a clear and concise summary of the feature you'd like to see."
+      description: |
+        1. Provide a clear and concise summary of the feature you'd like to see.
+        2. Describe the problem you're trying to solve or the opportunity you're trying to address.
+        3. If any, describe the solution you'd like to see, and how it solves the problem.
     validations:
       required: true
-
-  - type: textarea
-    id: problem
-    attributes:
-      label: Problem or Opportunity
-      description: "Describe the problem you're trying to solve or the opportunity you're trying to address."
-    validations:
-      required: true
-
-  - type: textarea
-    id: solution
-    attributes:
-      label: Proposed Solution
-      description: "Describe the solution you'd like to see, and how it solves the problem."
-
-  - type: textarea
-    id: alternatives
-    attributes:
-      label: Alternatives Considered
-      description: "Have you considered any alternative solutions or features? Please describe."
 
   - type: textarea
     id: context
