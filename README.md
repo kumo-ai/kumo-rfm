@@ -12,7 +12,7 @@
   [![PyPI - Downloads](https://img.shields.io/pypi/dm/kumoai?color=FC1373)](https://pepy.tech/project/kumoai)
   [![Slack](https://img.shields.io/badge/slack-join-pink.svg?logo=slack&color=FC1373)](https://join.slack.com/t/kumoaibuilders/shared_invite/zt-2z9uih3lf-fPM1z2ACZg~oS3ObmiQLKQ)
 
-  This repository is for tracking issues, feature requests, feedabacks and examples for KumoRFM.
+  This repository is for tracking issues, feature requests, feedbacks and examples for KumoRFM.
 </div>
 
 ## Introduction
