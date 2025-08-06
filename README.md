@@ -30,8 +30,6 @@ pip install kumoai
 ## How KumoRFM works
 KumoRFM is trained to understand tabular data and predict new values and connections. You prompt it with a SQL-like query and give it tabular business data as context. It’ll understand the full meaning and relationships within your data, generate the necessary predictions to answer your query, and give you the answer in about a second. The predictions are as accurate or slightly more accurate than custom-trained predictive models that often take weeks to make.
 
-KumoRFM is a pretrained foundation model designed for machine learning. It accepts a set of data tables as input and is prompted by a predictive task expressed in Predictive Query Language. The model delivers predictions in under a second, without requiring task- or dataset-specific training. The predictions are as accurate or slightly more accurate than custom-trained predictive models that often take days or even weeks to make.
-
 KumoRFM is built on two core innovations: (1) A pretrained graph transformer: An encoder that learns representations across multiple tables, eliminating the need for custom pipelines. (2) In-context learning. At inference time, it retrieves labeled subgraph examples as context to inform predictions, eliminating the need for task-specific model training. 
 
 <div align="center">
