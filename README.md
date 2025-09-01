@@ -1,4 +1,7 @@
-<h1 align="center">KumoRFM: A foundation model for business data</h1>
+<div align="center">
+  <img src="https://kumo-ai.github.io/kumo-sdk/docs/_static/kumo-logo.svg" height="40"/>
+  <h1>KumoRFM: A foundation model for business data</h1>
+</div>
 
 <div align="center">
   <p>
