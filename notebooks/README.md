@@ -10,4 +10,6 @@
 
 
 # MCP Notebooks
+
+* **-E-Commerce Agent** [[**Jupyter**](./ecom_agent.ipynb)]: A demonstration on how to use the [KumoRFM MCP](https://github.com/kumo-ai/kumo-rfm-mcp) with [CrewAI](https://docs.crewai.com/en/mcp/overview/) to build an agent for e-commerce churn and recovery.
 * **Sales Agent** [[**Jupyter**](./simple_sales_agent.ipynb)]: A demonstration on how to use the [KumoRFM MCP](https://github.com/kumo-ai/kumo-rfm-mcp) with [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/) to build an agent which ranks leads to optimize sales outreach.
