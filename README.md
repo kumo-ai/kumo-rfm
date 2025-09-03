@@ -7,7 +7,7 @@
   <p>
     <a href="https://kumo.ai/company/news/kumo-relational-foundation-model/">Blog</a> •
     <a href="https://kumo.ai/research/kumo_relational_foundation_model.pdf">Paper</a> •
-    <a href="https://github.com/kumo-ai/kumo-rfm">MCP Server</a>
+    <a href="https://github.com/kumo-ai/kumo-rfm">MCP Server</a> •
     <a href="https://kumorfm.ai">Get an API key</a>
   </p>
 
