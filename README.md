@@ -31,6 +31,11 @@ pip install kumoai
 ```
 Quick start notebook: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kumo-ai/kumo-rfm/blob/master/notebooks/quickstart.ipynb)
 
+## 🔬 MCP Server
+
+We provide a **KumoRFM MCP server** for integration with your agentic workflows.
+
+See: :octocat: https://github.com/kumo-ai/kumo-rfm-mcp for more information.
 
 ## How KumoRFM works
 KumoRFM is trained to understand tabular data and predict new values and connections. You prompt it with a SQL-like query and give it tabular business data as context. It’ll understand the full meaning and relationships within your data, generate the necessary predictions to answer your query, and give you the answer in about a second. The predictions are as accurate or slightly more accurate than custom-trained predictive models that often take weeks to make.
