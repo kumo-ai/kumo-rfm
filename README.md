@@ -7,6 +7,7 @@
   <p>
     <a href="https://kumo.ai/company/news/kumo-relational-foundation-model/">Blog</a> •
     <a href="https://kumo.ai/research/kumo_relational_foundation_model.pdf">Paper</a> •
+    <a href="https://github.com/kumo-ai/kumo-rfm">MCP Server</a>
     <a href="https://kumorfm.ai">Get an API key</a>
   </p>
 
@@ -35,7 +36,7 @@ Quick start notebook: [![Open in Colab](https://colab.research.google.com/assets
 
 We provide a **KumoRFM MCP server** for integration with your agentic workflows.
 
-See: :octocat: https://github.com/kumo-ai/kumo-rfm-mcp for more information.
+See :octocat: https://github.com/kumo-ai/kumo-rfm-mcp for more information.
 
 ## How KumoRFM works
 KumoRFM is trained to understand tabular data and predict new values and connections. You prompt it with a SQL-like query and give it tabular business data as context. It’ll understand the full meaning and relationships within your data, generate the necessary predictions to answer your query, and give you the answer in about a second. The predictions are as accurate or slightly more accurate than custom-trained predictive models that often take weeks to make.
@@ -49,7 +50,7 @@ KumoRFM is built on two core innovations: (1) A pretrained graph transformer: An
 </div>
 
 ## We love your feedback! :heart:
-As you work with KumoRFM, if you encounter any problems or things that are confusing or don't work quite right, please open a new :octocat:[issue](https://github.com/kumo-ai/kumo-rfm/issues/new/choose). You can also submit general feedback and suggestions [here](https://docs.google.com/forms/d/e/1FAIpQLSfr2HYgJN8ghaKyvU0PSRkqrGd_BijL3oyQTnTxLrf8AEk-EA/viewform). Join [our Slack](https://join.slack.com/t/kumoaibuilders/shared_invite/zt-2z9uih3lf-fPM1z2ACZg~oS3ObmiQLKQ)!
+As you work with KumoRFM, if you encounter any problems or things that are confusing or don't work quite right, please open a new :octocat: [issue](https://github.com/kumo-ai/kumo-rfm/issues/new/choose). You can also submit general feedback and suggestions [here](https://docs.google.com/forms/d/e/1FAIpQLSfr2HYgJN8ghaKyvU0PSRkqrGd_BijL3oyQTnTxLrf8AEk-EA/viewform). Join [our Slack](https://join.slack.com/t/kumoaibuilders/shared_invite/zt-2z9uih3lf-fPM1z2ACZg~oS3ObmiQLKQ)!
 
 ## Community contribution 🤝
 If you're considering contributing an example notebook, please first open a new :octocat:[issue](https://github.com/kumo-ai/kumo-rfm/issues/new/choose) and state your proposed notebook so we discuss them together before you invest a ton of time. We'll invite you to our Mountain View, CA office (if you are local here) or send you a Kumo Swag if your notebook is accepted.
