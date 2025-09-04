@@ -44,9 +44,11 @@ KumoRFM is trained to understand tabular data and predict new values and connect
 KumoRFM is built on two core innovations: (1) A pretrained graph transformer: An encoder that learns representations across multiple tables, eliminating the need for custom pipelines. (2) In-context learning. At inference time, it retrieves labeled subgraph examples as context to inform predictions, eliminating the need for task-specific model training. 
 
 <div align="center">
-  <img src="https://kumo-sdk-public.s3.us-west-2.amazonaws.com/rfm-colabs/rfm-tasks.png"
-       alt="Versatility of KumoRFM"
-       width="600">
+  <picture class="github-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/7539d4b7-144d-403b-b0c5-e9cb47c802c4">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/a8ec31a6-604b-461f-800c-4581045d49f8">
+    <img src="https://github.com/user-attachments/assets/7539d4b7-144d-403b-b0c5-e9cb47c802c4" width="700">
+  </picture>
 </div>
 
 ## We love your feedback! :heart:
