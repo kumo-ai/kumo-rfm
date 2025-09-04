@@ -45,9 +45,9 @@ KumoRFM is built on two core innovations: (1) A pretrained graph transformer: An
 
 <div align="center">
   <picture class="github-only">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/d14a5110-5135-4eeb-aca7-8c822ed8e3fe">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/9a292085-b28c-4661-9f7f-2203f2cc59eb">
-    <img src="https://github.com/user-attachments/assets/d14a5110-5135-4eeb-aca7-8c822ed8e3fe" width="600">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/7539d4b7-144d-403b-b0c5-e9cb47c802c4">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/a8ec31a6-604b-461f-800c-4581045d49f8">
+    <img src="https://github.com/user-attachments/assets/7539d4b7-144d-403b-b0c5-e9cb47c802c4" width="600">
   </picture>
 </div>
 
