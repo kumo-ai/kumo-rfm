@@ -285,7 +285,7 @@ if __name__ == "__main__":
     # STEP 3: PREDICT
     # This collects the indices of the test rows and predicts the target values
     # for them.
-    # For teh current script, the custom table looks like the following 
+    # For the current script, the custom table looks like the following 
     # dataframe example:
     # index  ENTITY           TIME    TARGET  is_test
     # 0     1047725     2015-05-14  0.021978     True
