@@ -17,7 +17,7 @@ args = parser.parse_args()
 
 rfm.init()
 
-TASKS = {  # All available classification tasks
+TASKS = {  # All available regression tasks
     'rel-avito': ['ad-ctr'],
     'rel-event': ['user-attendance'],
     'rel-f1': ['driver-position'],
