@@ -8,16 +8,10 @@ not necessarily coming from relbench, by pointing to an S3 bucket with parquet
 files, and by adding a custom context table to the graph.
 
 Steps to run this:
+python relbench_from_s3.py --s3_base_path s3://path/to/parquet/files/
 
-STEP 0: [OPTIONAL] Generate context table
-`python generate_context_table.py --dataset rel-avito --task ad-ctr`.
-This is done following the relbench task definition for reproducibility,
-but this script can be replaced with your own logic for generating the
-context table, depending on the task.
-Copy the table to the S3 bucket where the raw parquet files are stored.
-
-STEP 1. Run predictions:
-`python relbench_from_s3.py --s3_base_path s3://kumo-public-datasets/rel-bench/rel-avito/`
+Ex:
+python relbench_from_s3.py --s3_base_path s3://kumo-public-datasets/rel-bench/rel-avito/
 """
 
 import argparse
