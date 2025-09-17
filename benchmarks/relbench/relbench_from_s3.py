@@ -1,22 +1,23 @@
 """Script to run relbench experiments directly from the parquet files.
-This script shows how to load the parquet files from an S3 bucket, add a custom
-context table to the graph, and predict the target values for the test rows.
+
+This script shows how to load the parquet files from an S3 bucket, along with a 
+custom context table to build the graph, and make predictions.
 
 The goal is to serve as an example that can be adapted to any other dataset,
 not necessarily coming from relbench, by pointing to an S3 bucket with parquet
 files, and by adding a custom context table to the graph.
 
 Steps to run this:
-1. Generate context table
+
+STEP 0: [OPTIONAL] Generate context table
 `python generate_context_table.py --dataset rel-avito --task ad-ctr`.
 This is done following the relbench task definition for reproducibility,
 but this script can be replaced with your own logic for generating the
 context table, depending on the task.
+Copy the table to the S3 bucket where the raw parquet files are stored.
 
-2. Copy the table to the S3 bucket where the raw parquet files are stored.
-
-3. Run predictions:
-`python relbench_from_s3.py --dataset rel-avito --task ad-ctr`
+STEP 1. Run predictions:
+`python relbench_from_s3.py --s3_base_path s3://kumo-public-datasets/rel-bench/rel-avito/`
 """
 
 import argparse
@@ -71,7 +72,11 @@ def list_parquet_files_from_s3(s3_path: str) -> list[str]:
     return parquet_files
 
 
-def get_graph(s3_path: str, parquet_names: list[str]) -> rfm.LocalGraph:
+def get_graph(
+    s3_path: str,
+    parquet_names: list[str],
+    is_regression: bool,
+) -> rfm.LocalGraph:
     """Builds the graph from the datasets' parquet files."""
     df_dict = {
         name.replace('.parquet', ''): pd.read_parquet(f"{s3_path}{name}")
@@ -85,12 +90,13 @@ def get_graph(s3_path: str, parquet_names: list[str]) -> rfm.LocalGraph:
     )
 
     context_table = graph.tables["context"]
-    for column in context_table.columns:
-        if column.name == "TARGET":
-            column.stype = "numerical"
-            break
     context_table.primary_key = "index"
     context_table.time_column = "TIME"
+    if is_regression:
+        for column in context_table.columns:
+            if column.name == "TARGET":
+                column.stype = "numerical"
+            break
 
     return graph
 
@@ -134,7 +140,7 @@ if __name__ == "__main__":
     parquet_names = list_parquet_files_from_s3(args.s3_base_path)
     print(f"Found parquet files: {parquet_names}")
 
-    graph = get_graph(args.s3_base_path, parquet_names)
+    graph = get_graph(args.s3_base_path, parquet_names, args.is_regression)
     graph.print_metadata()
     graph.print_links()
     model = rfm.KumoRFM(graph)
