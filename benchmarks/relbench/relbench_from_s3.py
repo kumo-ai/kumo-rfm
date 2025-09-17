@@ -1,3 +1,25 @@
+"""
+Script to run relbench experiments directly from the parquet files.
+This script shows how to load the parquet files from an S3 bucket, add a custom
+context table to the graph, and predict the target values for the test rows.
+
+The goal is to serve as an example that can be adapted to any other dataset, 
+not necessarily coming from relbench, by pointing to an S3 bucket with parquet 
+files, and by adding a custom context table to the graph.
+
+Steps to run this:
+1. Generate context table 
+`python generate_context_table.py --dataset rel-avito --task ad-ctr`. 
+This is done following the relbench task definition for reproducibility, 
+but users could generate their own context table depending on the dataset and 
+task.
+
+2. Copy the table to the S3 bucket where the raw parquet files are stored.
+
+3. Run predictions: 
+`python relbench_from_s3.py --dataset rel-avito --task ad-ctr`
+"""
+
 import argparse
 from io import BytesIO
 
