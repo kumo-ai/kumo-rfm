@@ -223,7 +223,12 @@ if __name__ == "__main__":
 
     is_regression = args.task in REG_TASKS[args.dataset]
 
-    # Loads the parquet files from the S3 path
+    # ===============================================
+    # STEP 1: LOAD PARQUET FILES FROM S3
+    # This will look for all parquet files in the s3 path and load them into a
+    # dictionary of dataframes.
+    # TODO: Set the desired s3 path
+    # ===============================================
     s3_path = f"{args.s3_base_path}{args.dataset}/"
     print(f"Loading dataset: {args.dataset}")
     print(f"S3 path: {s3_path}")
@@ -232,7 +237,15 @@ if __name__ == "__main__":
     # Builds the graph with the original dataset's tables (without context)
     graph = get_graph(dataframes)
 
-    # Loads the context table and adds it to the graph
+
+    # ===============================================
+    # STEP 2: LOAD CONTEXT TABLE AND ADD IT TO THE GRAPH
+    # This will load the context table from the dataframes and add it to the
+    # graph.
+    # In case of using a custom context table, create it and add it to the
+    # graph, without the target values for the test rows so there is no leakage
+    # TODO: Set the desired custom context table
+    # ===============================================
     context_df = get_context_df(args.task, dataframes)
     graph = add_context(graph, args.dataset, args.task, context_df,
                         is_regression)
@@ -246,6 +259,25 @@ if __name__ == "__main__":
     else:
         query = "PREDICT context.TARGET = 1 FOR context.index IN ({indices})"
 
+    # ===============================================
+    # STEP 3: PREDICT
+    # This collects the indices of the test rows and predicts the target values
+    # for them.
+    # For teh current script, the custom table looks like the following 
+    # dataframe example:
+    # index  ENTITY           TIME    TARGET  is_test
+    # 0     1047725     2015-05-14  0.021978     True
+    # 1      383328     2015-05-14  0.032000     True
+    # 2      383653     2015-05-14  0.005202     True
+    # 3     4466016     2015-05-14  0.011364     True
+    # ...      ...        ...       ...      ...
+    # 3577   354386     2015-05-08  0.004491    False
+    # 3578   360473     2015-05-08  0.090909    False
+    # 3579   401949     2015-05-08  0.045455    False
+    # 
+    # TODO: Based on the custom context table, collect the indices of the test
+    # rows and predict the target values for them.
+    # ===============================================
     ys_pred = []
     test_df = context_df[context_df['is_test']]
     test_df = test_df.sample(frac=1, random_state=24)
@@ -266,6 +298,13 @@ if __name__ == "__main__":
         else:
             ys_pred.append(df['True_PROB'].to_numpy())
 
+    # ===============================================
+    # STEP 4: EVALUATE
+    # This will evaluate the predictions by comparing them to the ground-truth
+    # values.
+    # TODO: Based on the custom context table, collect the ground-truth values
+    # for the test rows.
+    # ===============================================
     y_pred = np.concatenate(ys_pred)
     y_test = test_df["TARGET"].to_numpy()[:len(y_pred)]
     if is_regression:
