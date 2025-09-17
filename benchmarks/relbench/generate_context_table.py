@@ -61,13 +61,12 @@ if __name__ == "__main__":
 
     context_df = pd.concat(context_dfs, axis=0, ignore_index=True)
     context_df = context_df.reset_index()
-    context_df = context_df.rename(
-        columns={
-            task.entity_col: 'ENTITY',
-            task.time_col: 'TIME',
-            task.target_col: 'TARGET',
-        })
+    context_df = context_df.rename(columns={
+        task.time_col: 'TIME',
+        task.target_col: 'TARGET',
+    })
 
-    context_file_name = f"context_table_{args.task.replace('-', '_')}.parquet"
+    print(context_df.head())
+    context_file_name = "context_table.parquet"
     context_df.to_parquet(context_file_name, index=False)
     print(f"Saved context data to {context_file_name}")
