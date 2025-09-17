@@ -11,8 +11,8 @@ Steps to run this:
 1. Generate context table 
 `python generate_context_table.py --dataset rel-avito --task ad-ctr`. 
 This is done following the relbench task definition for reproducibility, 
-but users could generate their own context table depending on the dataset and 
-task.
+but this script can be replaced with your own logic for generating the
+context table, depending on the task.
 
 2. Copy the table to the S3 bucket where the raw parquet files are stored.
 
