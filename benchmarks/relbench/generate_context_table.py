@@ -67,6 +67,6 @@ if __name__ == "__main__":
     })
 
     print(context_df.head())
-    context_file_name = "context_table.parquet"
+    context_file_name = "context.parquet"
     context_df.to_parquet(context_file_name, index=False)
     print(f"Saved context data to {context_file_name}")
