@@ -82,6 +82,10 @@ def get_graph(
         name.replace('.parquet', ''): pd.read_parquet(f"{s3_path}{name}")
         for name in parquet_names
     }
+    # Set the target to None for the test rows
+    context_df = df_dict['context']
+    context_df.loc[context_df['is_test'], 'TARGET'] = None
+    df_dict['context'] = context_df
 
     graph = rfm.LocalGraph.from_data(
         df_dict,
@@ -92,11 +96,12 @@ def get_graph(
     context_table = graph.tables["context"]
     context_table.primary_key = "index"
     context_table.time_column = "TIME"
+    
     if is_regression:
         for column in context_table.columns:
             if column.name == "TARGET":
                 column.stype = "numerical"
-            break
+                break
 
     return graph
 
@@ -109,7 +114,7 @@ if __name__ == "__main__":
         default="s3://kumo-public-datasets/rel-bench/rel-avito/",
         help="Base S3 path to load datasets from")
     parser.add_argument("--is_regression", action="store_true", default=True)
-    parser.add_argument('--run_mode', type=str, default='fast')
+    parser.add_argument('--run_mode', type=str, default='best')
     parser.add_argument('--batch_size', type=int, default=1000)
     parser.add_argument('--max_test_steps', type=int, default=2)
     args = parser.parse_args()
@@ -119,12 +124,12 @@ if __name__ == "__main__":
     # ===============================================
     # STEP 1: BUILD THE GRAPH FROM THE S3 PATH
     # This will look for all parquet files in the s3 path and build the graph.
-    # This expects to find a "context.parquet" file in the s3 path with the
+    # It expects to find a "context.parquet" file in the s3 path with the
     # custom context table.
     #
     # For the current script, the custom table looks like the following
     # dataframe example:
-    # index  AdID           TIME    TARGET  is_test
+    # index  AdID           TIME    TARGET      is_test
     # 0     1047725     2015-05-14  0.021978     True
     # 1      383328     2015-05-14  0.032000     True
     # 2      383653     2015-05-14  0.005202     True
@@ -146,15 +151,12 @@ if __name__ == "__main__":
     model = rfm.KumoRFM(graph)
 
     # ===============================================
-    # STEP 2: DEFINE THE INDEX TO USE IN THE QUERY
+    # STEP 2: DEFINE THE ENTITIES FOR WHICH TO MAKE PREDICTIONS
     # For the sake of this example, we load the context table again in order to
     # read the indices of the test rows, and also to read the targets for
-    # evaluation, but any index could be defined here.
+    # evaluation, but any entities' ids could be defined here.
     # ===============================================
-    for name in parquet_names:
-        if name.startswith('context'):
-            context_df = pd.read_parquet(f"{args.s3_base_path}{name}")
-            break
+    context_df = pd.read_parquet(f"{args.s3_base_path}context.parquet")
 
     if args.is_regression:
         query = "PREDICT context.TARGET FOR context.index IN ({indices})"
@@ -163,7 +165,7 @@ if __name__ == "__main__":
 
     # ===============================================
     # STEP 3: PREDICT
-    # This collects the indices (defined in STEP 2) and makes predictions
+    # This collects the ids defined in STEP 2 and makes predictions
     # ===============================================
     test_df = context_df[context_df['is_test']]
     test_df = test_df.sample(frac=1, random_state=24)
@@ -174,6 +176,8 @@ if __name__ == "__main__":
     for i, step in enumerate(tqdm.tqdm(steps)):
         indices = range(step, min(step + args.batch_size, len(test_df)))
         _query = query.format(indices=', '.join(str(i) for i in indices))
+        
+        # Runs the prediction
         df = model.predict(
             _query,
             run_mode=args.run_mode,
@@ -181,6 +185,7 @@ if __name__ == "__main__":
             num_neighbors=[1, 16, 16],
             verbose=i == 0,
         )
+        
         if args.is_regression:
             ys_pred.append(df['TARGET_PRED'].to_numpy())
         else:
