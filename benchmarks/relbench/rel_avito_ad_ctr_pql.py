@@ -127,7 +127,7 @@ if __name__ == "__main__":
              "WHERE SUM(SearchStream.IsClick, -INF, 0, days) > 0")
 
     # ===============================================
-    # STEP 2: DEFINE THE ENTITIES FOR WHICH TO MAKE PREDICTIONS
+    # STEP 3: DEFINE THE ENTITIES FOR WHICH TO MAKE PREDICTIONS
     # For the sake of this example, we load the context table in order to
     # read the indices of the test rows, and also to read the targets for
     # evaluation, but any entities' ids could be defined here.
@@ -163,7 +163,7 @@ if __name__ == "__main__":
     test_indices = test_indices[:args.max_test_steps]
 
     # ===============================================
-    # STEP 3: PREDICT
+    # STEP 4: PREDICT
     # ===============================================
     ys_test = []
     ys_pred = []
@@ -183,7 +183,7 @@ if __name__ == "__main__":
     y_test = np.concatenate(ys_test)
 
     # ===============================================
-    # STEP 4: EVALUATE
+    # STEP 5: EVALUATE
     # This will evaluate the predictions by comparing them to the ground-truth
     # values.
     # For this example we take the values from the context table, but any other
