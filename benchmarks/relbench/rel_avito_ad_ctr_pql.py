@@ -91,9 +91,9 @@ if __name__ == "__main__":
         "--s3_base_path",
         default="s3://kumo-public-datasets/rel-bench/rel-avito/",
         help="Base S3 path to load datasets from")
-    parser.add_argument('--run_mode', type=str, default='fast')
+    parser.add_argument('--run_mode', type=str, default='best')
     parser.add_argument('--batch_size', type=int, default=1000)
-    parser.add_argument('--max_test_steps', type=int, default=2)
+    parser.add_argument('--max_test_steps', type=int, default=20)
     args = parser.parse_args()
 
     rfm.init()
