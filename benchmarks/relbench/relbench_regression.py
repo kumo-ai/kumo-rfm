@@ -4,6 +4,7 @@ import numpy as np
 import pandas as pd
 import tqdm
 from kumoai.experimental import rfm
+
 from relbench.datasets import get_dataset
 from relbench.tasks import get_task
 
@@ -65,10 +66,6 @@ def get_graph(dataset: str) -> rfm.LocalGraph:
         graph[table_name].time_column = table.time_col
         for fkey, dst_table in table.fkey_col_to_pkey_table.items():
             graph.link(table_name, fkey, dst_table)
-
-    if dataset == 'rel-trial':
-        # Remove one table far away to be within 15 table limit:
-        del graph['interventions_studies']
 
     # Remove some entity features (for now) since they are high cardinality and
     # hinder proper generalization across in-context examples:
