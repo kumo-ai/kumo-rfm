@@ -61,7 +61,7 @@ if __name__ == "__main__":
         help="Base S3 path to load datasets from")
     parser.add_argument('--run_mode', type=str, default='best')
     parser.add_argument('--batch_size', type=int, default=1000)
-    parser.add_argument('--max_test_steps', type=int, default=20)
+    parser.add_argument('--max_test_steps', type=int, default=5)
     args = parser.parse_args()
 
     rfm.init()
