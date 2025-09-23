@@ -19,7 +19,7 @@ import argparse
 import boto3
 import numpy as np
 import pandas as pd
-import tqdm
+from tqdm import tqdm
 from kumoai.experimental import rfm
 
 
@@ -128,46 +128,24 @@ if __name__ == "__main__":
 
     # ===============================================
     # STEP 3: DEFINE THE ENTITIES FOR WHICH TO MAKE PREDICTIONS
-    # For the sake of this example, we load the context table in order to
-    # read the indices of the test rows, and also to read the targets for
-    # evaluation, but any entities' ids could be defined here.
+    # We use the KumoRFM.get_train_table(...) helper function to get the 
+    # training table corresponding to this PQL
     # ===============================================
-    context_df = pd.read_parquet(f"{args.s3_base_path}context.parquet")
-    test_df = context_df[context_df['is_test']]
-    test_df = test_df.drop(columns=["index", "is_test"], errors="ignore")
-
-    entity_col = "AdID"
-    target_col = "TARGET"
-    nested_test_df = test_df.groupby("TIME")[[
-        entity_col,
-        target_col,
-    ]].agg(list)
-
-    # Since rel-bench datasets may contain multiple anchor timestamps, we first
-    # group entities by their anchor timestamp, and then split entities within
-    # the same anchor timestamp into chunks of size batch_size. This ensures
-    # that for a single model.predict(...) call, we use the same anchor time in
-    # order to be able to share the context among all entities to predict for
-    test_indices = []
-    for anchor_time, row in nested_test_df.iterrows():
-        for step in range(0, len(row[entity_col]), args.batch_size):
-            test_indices.append((
-                anchor_time,
-                row[entity_col][step:step + args.batch_size],
-                row[target_col][step:step + args.batch_size],
-            ))
-        if len(test_indices) >= args.max_test_steps:
-            break
-
-    # Limit the number of test steps:
-    test_indices = test_indices[:args.max_test_steps]
+    anchor_time = pd.Timestamp('2015-05-16')
+    test_df = model.get_train_table(
+        query.format(indices='0, 1'),  # Dummy values.
+        size=args.batch_size * args.max_test_steps,
+        anchor_time=anchor_time,
+        max_iterations=1000,
+    )
+    test_indices = test_df["ENTITY"].tolist()
 
     # ===============================================
     # STEP 4: PREDICT
     # ===============================================
-    ys_test = []
     ys_pred = []
-    for i, (anchor_time, indices, y_test) in enumerate(tqdm.tqdm(test_indices)):
+    for i, step in enumerate(tqdm(range(0, len(test_df), args.batch_size))):
+        indices = test_indices[step:step + args.batch_size]
         _query = query.format(indices=', '.join(str(i) for i in indices))
         df = model.predict(
             _query,
@@ -177,17 +155,15 @@ if __name__ == "__main__":
             verbose=i == 0,  # Prevent excessive logging.
         )
         ys_pred.append(df['TARGET_PRED'].to_numpy())
-        ys_test.append(np.array(y_test))
 
     y_pred = np.concatenate(ys_pred)
-    y_test = np.concatenate(ys_test)
+    y_test = test_df["TARGET"].to_numpy()
 
     # ===============================================
     # STEP 5: EVALUATE
     # This will evaluate the predictions by comparing them to the ground-truth
     # values.
-    # For this example we take the values from the context table, but any other
-    # source could be used.
-    # TODO: Get the ground-truth values for the test rows.
+    # For this example we take the values from the training table, but any 
+    # other source could be used.
     # ===============================================
     print(f'MAE: {np.abs(y_test - y_pred).mean():.4f}')
