@@ -16,7 +16,6 @@ python rel_avito_ad_ctr_pql.py --s3_base_path s3://kumo-public-datasets/rel-benc
 
 import argparse
 
-import boto3
 import numpy as np
 import pandas as pd
 from tqdm import tqdm
