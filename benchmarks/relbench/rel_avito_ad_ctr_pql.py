@@ -23,47 +23,16 @@ from tqdm import tqdm
 from kumoai.experimental import rfm
 
 
-def list_parquet_files_from_s3(s3_path: str) -> list[str]:
-    """List all parquet files from an S3 path.
-
-    Args:
-        s3_path (str): S3 path containing parquet files
-
-    Returns:
-        List[str]: List of parquet filenames
-    """
-    # Initialize S3 client
-    s3_client = boto3.client('s3')
-
-    # Parse S3 path
-    if not s3_path.startswith('s3://'):
-        raise ValueError("s3_path must start with 's3://'")
-
-    s3_path = s3_path.rstrip('/')
-    bucket_name = s3_path.split('/')[2]
-    prefix = '/'.join(s3_path.split('/')[3:])
-
-    if prefix:
-        prefix += '/'
-
-    # List all objects in the S3 path
-    response = s3_client.list_objects_v2(Bucket=bucket_name, Prefix=prefix)
-
-    if 'Contents' not in response:
-        print(f"No files found in {s3_path}")
-        return []
-
-    parquet_files = []
-
-    for obj in response['Contents']:
-        key = obj['Key']
-
-        if key.endswith('.parquet'):
-            filename = key.split('/')[-1]
-            parquet_files.append(filename)
-
-    return parquet_files
-
+REL_AVITO_FILES = [
+    'AdsInfo.parquet', 
+    'Category.parquet', 
+    'Location.parquet', 
+    'PhoneRequestsStream.parquet', 
+    'SearchInfo.parquet', 
+    'SearchStream.parquet', 
+    'UserInfo.parquet', 
+    'VisitStream.parquet',
+]
 
 def get_graph(
     s3_path: str,
@@ -105,11 +74,8 @@ if __name__ == "__main__":
     # TODO: Set the desired s3 path pointing to the parquet files.
     # ===============================================
     print(f"S3 path: {args.s3_base_path}")
-    parquet_names = list_parquet_files_from_s3(args.s3_base_path)
-    parquet_names.remove("context.parquet")
-    print(f"Found parquet files: {parquet_names}")
-
-    graph = get_graph(args.s3_base_path, parquet_names)
+    print(f"Loading files: {REL_AVITO_FILES}")
+    graph = get_graph(args.s3_base_path, REL_AVITO_FILES)
     # Set the type of the IsClick column to numerical for the regression task
     graph['SearchStream']['IsClick'].stype = 'numerical'
     graph.print_metadata()
