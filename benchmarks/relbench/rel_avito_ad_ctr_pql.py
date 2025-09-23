@@ -128,22 +128,24 @@ if __name__ == "__main__":
 
     # ===============================================
     # STEP 3: DEFINE THE ENTITIES FOR WHICH TO MAKE PREDICTIONS
-    # For the sake of this example, we load the context table in order to
-    # read the indices of the test rows, and also to read the targets for
-    # evaluation, but any entities' ids could be defined here.
+    # For the sake of this example we use the KumoRFM.get_train_table(...) 
+    # helper function to get the training table corresponding to this PQL
     # ===============================================
-    context_df = pd.read_parquet(f"{args.s3_base_path}context.parquet")
-    test_df = context_df[context_df['is_test']]
-    test_df = test_df.drop(columns=["index", "is_test"], errors="ignore")
+    test_df = model.get_train_table(
+        query.format(indices='0, 1'),  # Dummy values.
+        size=100,
+        anchor_time=pd.Timestamp('2015-05-16'),
+        max_iterations=1000,
+    )
 
-    entity_col = "AdID"
+    entity_col = "ENTITY"
     target_col = "TARGET"
-    nested_test_df = test_df.groupby("TIME")[[
+    nested_test_df = test_df.groupby("ANCHOR_TIMESTAMP")[[
         entity_col,
         target_col,
     ]].agg(list)
 
-    # Since rel-bench datasets may contain multiple anchor timestamps, we first
+    # Since the training table may contain multiple anchor timestamps, we first
     # group entities by their anchor timestamp, and then split entities within
     # the same anchor timestamp into chunks of size batch_size. This ensures
     # that for a single model.predict(...) call, we use the same anchor time in
