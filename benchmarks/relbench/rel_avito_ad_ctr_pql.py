@@ -163,8 +163,7 @@ if __name__ == "__main__":
     # STEP 5: EVALUATE
     # This will evaluate the predictions by comparing them to the ground-truth
     # values.
-    # For this example we take the values from the context table, but any other
-    # source could be used.
-    # TODO: Get the ground-truth values for the test rows.
+    # For this example we take the values from the training table, but any 
+    # other source could be used.
     # ===============================================
     print(f'MAE: {np.abs(y_test - y_pred).mean():.4f}')
