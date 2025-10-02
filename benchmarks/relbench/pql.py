@@ -33,7 +33,6 @@ NUM_NEIGHBORS = {  # Optimal number of neighbors for each task:
 }
 
 ROOT = 's3://kumo-public-datasets/rel-bench'
-ROOT = '.'
 FILENAMES: dict[str, list[str]] = {
     'rel-amazon': [
         'customer.parquet',
