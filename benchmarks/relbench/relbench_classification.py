@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 import tqdm
 from kumoai.experimental import rfm
-from sklearn.metrics import roc_auc_score
+from sklearn.metrics import roc_auc_score, f1_score, average_precision_score
 
 from relbench.datasets import get_dataset
 from relbench.tasks import get_task
@@ -141,4 +141,17 @@ for dataset_name, task_name in tasks:
 
     y_pred = np.concatenate(ys_pred)
     y_test = test_df[task.target_col].to_numpy()[:len(y_pred)]
-    print(f'AUROC: {roc_auc_score(y_test, y_pred):.4f}')
+    
+    # Convert probabilities to binary predictions using 0.5 threshold
+    y_pred_binary = (y_pred > 0.5).astype(int)
+    
+    # Calculate metrics
+    auroc = roc_auc_score(y_test, y_pred)
+    auprc = average_precision_score(y_test, y_pred)
+    f1_macro = f1_score(y_test, y_pred_binary, average='macro')
+    f1_micro = f1_score(y_test, y_pred_binary, average='micro')
+    
+    print(f'AUROC: {auroc:.4f}')
+    print(f'AUPRC: {auprc:.4f}')
+    print(f'F1 Macro: {f1_macro:.4f}')
+    print(f'F1 Micro: {f1_micro:.4f}')
