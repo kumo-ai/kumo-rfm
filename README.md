@@ -14,7 +14,7 @@
   [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/kumoai?color=FC1373)](https://pypi.org/project/kumoai/)
   [![PyPI Status](https://img.shields.io/pypi/v/kumoai.svg?color=FC1373)](https://pypi.org/project/kumoai/)
   [![PyPI - Downloads](https://img.shields.io/pypi/dm/kumoai?color=FC1373)](https://pepy.tech/project/kumoai)
-  [![Slack](https://img.shields.io/badge/slack-join-pink.svg?logo=slack&color=FC1373)](https://join.slack.com/t/kumoaibuilders/shared_invite/zt-2z9uih3lf-fPM1z2ACZg~oS3ObmiQLKQ)
+  [![Slack](https://img.shields.io/badge/discord-join-pink.svg?logo=discord&color=FC1373)](https://discord.gg/uNB4bJkapQ)
 
   This repository is for tracking issues, feature requests, feedbacks and examples for KumoRFM.
 </div>
