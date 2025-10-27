@@ -52,7 +52,7 @@ KumoRFM is built on two core innovations: (1) A pretrained graph transformer: An
 </div>
 
 ## We love your feedback! :heart:
-As you work with KumoRFM, if you encounter any problems or things that are confusing or don't work quite right, please open a new :octocat: [issue](https://github.com/kumo-ai/kumo-rfm/issues/new/choose). You can also submit general feedback and suggestions [here](https://docs.google.com/forms/d/e/1FAIpQLSfr2HYgJN8ghaKyvU0PSRkqrGd_BijL3oyQTnTxLrf8AEk-EA/viewform). Join [our Slack](https://join.slack.com/t/kumoaibuilders/shared_invite/zt-2z9uih3lf-fPM1z2ACZg~oS3ObmiQLKQ)!
+As you work with KumoRFM, if you encounter any problems or things that are confusing or don't work quite right, please open a new :octocat: [issue](https://github.com/kumo-ai/kumo-rfm/issues/new/choose). You can also submit general feedback and suggestions [here](https://docs.google.com/forms/d/e/1FAIpQLSfr2HYgJN8ghaKyvU0PSRkqrGd_BijL3oyQTnTxLrf8AEk-EA/viewform). Join [our Discord](https://discord.gg/uNB4bJkapQ)!
 
 ## Community contribution 🤝
 If you're considering contributing an example notebook, please first open a new :octocat:[issue](https://github.com/kumo-ai/kumo-rfm/issues/new/choose) and state your proposed notebook so we discuss them together before you invest a ton of time. We'll invite you to our Mountain View, CA office (if you are local here) or send you a Kumo Swag if your notebook is accepted.
