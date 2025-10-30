@@ -4,7 +4,7 @@ The system provides **4 different ways** to visualize the series relationship gr
 
 ---
 
-## 📊 The Four Modes
+## The Four Modes
 
 ### 1. **Full Mode** (Default)
 ```bash
@@ -44,8 +44,8 @@ python 05_kumo_rfm_integration.py --recommend "housing" --visualize-graph --grap
 **Use when:** You want to understand the context of recommendations
 
 **Visual style:**
-- 🔴 Red nodes = Recommended series (larger, labeled)
-- 🔵 Blue nodes = Other series
+- Red nodes = Recommended series (larger, labeled)
+- Blue nodes = Other series
 - Black borders on recommended nodes
 
 **Example insight:** "These 10 housing series are all clustered in the Bank Reserves category"
@@ -68,8 +68,8 @@ python 05_kumo_rfm_integration.py --recommend "housing" --visualize-graph --grap
 **Use when:** Exploring "what else is related to my recommendations?"
 
 **Visual style:**
-- 🔴 Red nodes = Recommended series
-- 🔵 Blue nodes = Neighboring series (1-2 hops away)
+- Red nodes = Recommended series
+- Blue nodes = Neighboring series (1-2 hops away)
 - Shows the local network structure
 
 **Example insight:** "Housing series connect to mortgage data, which connects to consumer credit"
@@ -96,8 +96,8 @@ python 05_kumo_rfm_integration.py --recommend "housing" --visualize-graph --grap
 **Use when:** Answering "what connects these recommendations?"
 
 **Visual style:**
-- 🔴 Red nodes = Recommended series (endpoints)
-- 🔵 Blue nodes = Bridge nodes (connecting paths)
+- Red nodes = Recommended series (endpoints)
+- Blue nodes = Bridge nodes (connecting paths)
 - **Thicker edges** = part of connecting paths
 - Minimal, focused view
 
@@ -109,7 +109,7 @@ python 05_kumo_rfm_integration.py --recommend "housing" --visualize-graph --grap
 
 ---
 
-## 🎨 Visual Comparison
+## Visual Comparison
 
 | Mode | Nodes Shown | Focus | Red Nodes | File Size | Best For |
 |------|-------------|-------|-----------|-----------|----------|
@@ -120,7 +120,7 @@ python 05_kumo_rfm_integration.py --recommend "housing" --visualize-graph --grap
 
 ---
 
-## 🚀 Usage Examples
+## Usage Examples
 
 ### Generate All 4 Modes at Once
 ```bash
@@ -146,35 +146,35 @@ Compare the two subgraphs to see how different topics connect differently!
 
 ---
 
-## 💡 When to Use Each Mode
+## When to Use Each Mode
 
 ### Use **Full** when:
-- ✅ Initial exploration of the dataset
-- ✅ Understanding overall network topology
-- ✅ Identifying major hubs/clusters
-- ✅ No specific recommendations yet
+- Initial exploration of the dataset
+- Understanding overall network topology
+- Identifying major hubs/clusters
+- No specific recommendations yet
 
 ### Use **Highlight** when:
-- ✅ You have recommendations and want context
-- ✅ Checking if recommendations are clustered or scattered
-- ✅ Understanding recommendation diversity
-- ✅ **Most versatile mode for presentations**
+- You have recommendations and want context
+- Checking if recommendations are clustered or scattered
+- Understanding recommendation diversity
+- **Most versatile mode for presentations**
 
 ### Use **Subgraph** when:
-- ✅ Exploring "related series" deeply
-- ✅ Finding series similar to recommendations
-- ✅ Understanding local network structure
-- ✅ Building domain knowledge around a topic
+- Exploring "related series" deeply
+- Finding series similar to recommendations
+- Understanding local network structure
+- Building domain knowledge around a topic
 
 ### Use **Paths** when:
-- ✅ Understanding relationships BETWEEN recommendations
-- ✅ Finding common themes connecting results
-- ✅ Identifying key "hub" series
-- ✅ Minimal, focused analysis
+- Understanding relationships BETWEEN recommendations
+- Finding common themes connecting results
+- Identifying key "hub" series
+- Minimal, focused analysis
 
 ---
 
-## 🎯 Real-World Scenarios
+## Real-World Scenarios
 
 ### Scenario 1: "What should I explore after GDP?"
 ```bash
@@ -202,7 +202,7 @@ python 05_kumo_rfm_integration.py --recommend "mortgage rates" --graph-mode all 
 
 ---
 
-## 📁 Output Organization
+## Output Organization
 
 All visualizations go to:
 ```
@@ -217,7 +217,7 @@ outputs/visualizations/YYYY-MM-DD/
 
 ---
 
-## 🔧 Technical Details
+## Technical Details
 
 ### Node Colors
 - **Full mode:** Yellow→Orange→Red gradient by degree centrality
@@ -242,7 +242,7 @@ outputs/visualizations/YYYY-MM-DD/
 
 ---
 
-## 🎨 Interpretation Guide
+## Interpretation Guide
 
 ### Full Mode - Look for:
 - **Dense clusters** = related series grouped together
@@ -266,7 +266,7 @@ outputs/visualizations/YYYY-MM-DD/
 
 ---
 
-## 💾 Disk Space
+## Disk Space
 
 Generating all modes:
 - **Full:** ~6.5MB
@@ -279,7 +279,7 @@ Generating all modes:
 
 ---
 
-## 🚀 Quick Reference
+## Quick Reference
 
 ```bash
 # Single mode

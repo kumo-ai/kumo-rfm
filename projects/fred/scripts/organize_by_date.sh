@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "📅 Organizing Visualizations by Date"
+echo "[Plan] Organizing Visualizations by Date"
 echo "======================================"
 echo ""
 
@@ -26,14 +26,14 @@ for file in "$VIZ_DIR"/*.{png,csv}; do
         
         # Move file
         mv "$file" "$VIZ_DIR/$date_folder/"
-        echo "✓ Moved: $filename → $date_folder/"
+        echo "[OK] Moved: $filename → $date_folder/"
     else
-        echo "⚠ Skipped (no date): $filename"
+        echo "[WARN] Skipped (no date): $filename"
     fi
 done
 
 echo ""
-echo "📁 Current structure:"
+echo "[Info] Current structure:"
 tree -L 2 "$VIZ_DIR" 2>/dev/null || {
     echo "$VIZ_DIR/"
     for dir in "$VIZ_DIR"/*/; do
@@ -43,4 +43,4 @@ tree -L 2 "$VIZ_DIR" 2>/dev/null || {
 }
 
 echo ""
-echo "✅ Organization complete!"
+echo "[Done] Organization complete!"

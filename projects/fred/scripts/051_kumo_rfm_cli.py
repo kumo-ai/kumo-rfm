@@ -71,11 +71,11 @@ class KumoRFMCLI:
             
             self.conn = psycopg2.connect(**db_params)
             self.cursor = self.conn.cursor()
-            print(f"{Fore.GREEN}✓ Connected to PostgreSQL at {db_params['host']}:{db_params['port']}/{db_params['database']}{Style.RESET_ALL}")
+            print(f"{Fore.GREEN}[OK] Connected to PostgreSQL at {db_params['host']}:{db_params['port']}/{db_params['database']}{Style.RESET_ALL}")
             return True
             
         except psycopg2.Error as e:
-            print(f"{Fore.RED}✗ Connection failed: {e}{Style.RESET_ALL}")
+            print(f"{Fore.RED}[ERROR] Connection failed: {e}{Style.RESET_ALL}")
             return False
     
     def select_mode(self) -> str:
@@ -371,7 +371,7 @@ class KumoRFMCLI:
                         self.last_query_results = None
             else:
                 self.conn.commit()
-                print(f"{Fore.GREEN}✓ Query executed successfully. Rows affected: {self.cursor.rowcount}{Style.RESET_ALL}")
+                print(f"{Fore.GREEN}[OK] Query executed successfully. Rows affected: {self.cursor.rowcount}{Style.RESET_ALL}")
                 if store_results:
                     self.last_query_results = None
             
@@ -999,7 +999,7 @@ class KumoRFMCLI:
             self.cursor.close()
         if self.conn:
             self.conn.close()
-        print(f"\n{Fore.GREEN}✓ Disconnected from PostgreSQL{Style.RESET_ALL}")
+        print(f"\n{Fore.GREEN}[OK] Disconnected from PostgreSQL{Style.RESET_ALL}")
     
     def run(self):
         """Main CLI loop - Direct SQL mode"""
@@ -1101,7 +1101,7 @@ class KumoRFMCLI:
                     if response != 'y':
                         break
             
-            print(f"\n{Fore.GREEN}✓ File execution complete{Style.RESET_ALL}")
+            print(f"\n{Fore.GREEN}[OK] File execution complete{Style.RESET_ALL}")
             
         except FileNotFoundError:
             print(f"{Fore.RED}Error: File '{filename}' not found{Style.RESET_ALL}")

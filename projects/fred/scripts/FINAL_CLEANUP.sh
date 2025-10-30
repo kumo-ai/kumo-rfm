@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "🧹 Final Cleanup - Removing Old Directories"
+echo "[Cleanup] Final Cleanup - Removing Old Directories"
 echo "==========================================="
 echo ""
 
@@ -17,9 +17,9 @@ echo ""
 
 if [[ $REPLY =~ ^[Yy]$ ]]; then
     rm -rf my_charts/ charts/ visualizations/
-    echo "✓ Old directories removed"
+    echo "[OK] Old directories removed"
     echo ""
-    echo "📁 Final structure:"
+    echo "[Info] Final structure:"
     tree -L 2 outputs/ 2>/dev/null || ls -lh outputs/visualizations/
 else
     echo "Directories kept"

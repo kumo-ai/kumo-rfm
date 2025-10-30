@@ -5,7 +5,7 @@ The CLI captures real user behavior that can dramatically improve the Monolith r
 
 ---
 
-## 🎯 High-Value Signals to Capture
+## High-Value Signals to Capture
 
 ### 1. **Query Patterns** (User-Item Interactions)
 Currently tracked in: `kumo_rfm_queries`
@@ -156,7 +156,7 @@ Currently missing!
 
 ---
 
-## 🔨 Implementation Plan
+## Implementation Plan
 
 ### Phase 1: Basic Tracking (Week 1)
 ```python
@@ -225,7 +225,7 @@ def export_cli_interactions_for_monolith():
 
 ---
 
-## 📊 Expected Impact
+## Expected Impact
 
 ### Current Monolith (Synthetic Data):
 - Random user interactions weighted by popularity
@@ -242,7 +242,7 @@ def export_cli_interactions_for_monolith():
 
 ---
 
-## 🎯 Key Tables to Update
+## Key Tables to Update
 
 ### 1. Add to `kumo_rfm_queries`
 ```sql
@@ -283,7 +283,7 @@ CREATE TABLE series_cooccurrence (
 
 ---
 
-## 🚀 Quick Win: Immediate Implementation
+## Quick Win: Immediate Implementation
 
 Add this to `execute_sql()` in CLI:
 
@@ -352,15 +352,15 @@ def _log_series_interaction(self, series_id, query, result_count, execution_time
 ## Summary
 
 **From the CLI process, we can capture:**
-1. ✅ Real user-series interactions (not synthetic!)
-2. ✅ Query sequences and co-occurrence patterns
-3. ✅ Engagement signals (viz, export, time spent)
-4. ✅ Join patterns (which series go together)
-5. ✅ Category/frequency preferences
-6. ✅ Error patterns (negative signals)
+1. Real user-series interactions (not synthetic!)
+2. Query sequences and co-occurrence patterns
+3. Engagement signals (viz, export, time spent)
+4. Join patterns (which series go together)
+5. Category/frequency preferences
+6. Error patterns (negative signals)
 
 **This transforms Monolith from:**
-- 🔴 Synthetic demo with fake interactions
-- 🟢 Production system trained on real user behavior
+- Synthetic demo with fake interactions
+- Production system trained on real user behavior
 
-**Result:** Better recommendations, personalization, and series discovery! 🎯
+**Result:** Better recommendations, personalization, and series discovery! 

@@ -4,7 +4,7 @@ Automatically discover related series through iterative, intelligent follow-up r
 
 ---
 
-## 🎯 What It Does
+## What It Does
 
 Instead of just getting recommendations for "housing", the system:
 
@@ -17,7 +17,7 @@ Instead of just getting recommendations for "housing", the system:
 
 ---
 
-## 🚀 Basic Usage
+## Basic Usage
 
 ### Auto-Generated Follow-Ups (Recommended)
 ```bash
@@ -43,7 +43,7 @@ python 05_kumo_rfm_integration.py --recommend "housing" --explore-tiers \
 
 ---
 
-## 📊 Real Example
+## Real Example
 
 ### Command:
 ```bash
@@ -54,7 +54,7 @@ python 05_kumo_rfm_integration.py --recommend "housing" --explore-tiers --max-ti
 
 ```
 ================================================================================
-🔍 TIER 1: housing
+TIER 1: housing
 ================================================================================
 
 Top 5 recommendations:
@@ -72,14 +72,14 @@ FLBP1FHSA
 
 ... 3 more
 
-💡 Analyzing results to generate follow-up queries...
+Analyzing results to generate follow-up queries...
 
-📋 Follow-up exploration paths:
+Follow-up exploration paths:
    Tier 2: housing inflation
    Tier 3: housing prices
 
 ================================================================================
-🔍 TIER 2: housing inflation
+TIER 2: housing inflation
 ================================================================================
 
 Top 5 recommendations:
@@ -98,7 +98,7 @@ T5YIFR
 ... 3 more
 
 ================================================================================
-🔍 TIER 3: housing prices
+TIER 3: housing prices
 ================================================================================
 
 Top 5 recommendations:
@@ -112,7 +112,7 @@ MCOILBRENTEU
 ... 4 more
 
 ================================================================================
-📊 EXPLORATION SUMMARY
+EXPLORATION SUMMARY
 ================================================================================
 Total tiers explored: 3
 Total unique series found: 15
@@ -120,7 +120,7 @@ Total unique series found: 15
 
 ---
 
-## 🧠 How Follow-Ups Are Generated
+## How Follow-Ups Are Generated
 
 The system uses **3 intelligent strategies**:
 
@@ -148,7 +148,7 @@ Pre-defined related concepts for common queries:
 
 ---
 
-## 🎛️ Options
+## Options
 
 ### `--explore-tiers`
 Enable multi-tier exploration mode.
@@ -176,7 +176,7 @@ Results per tier (default: 10).
 
 ---
 
-## 💡 Use Cases
+## Use Cases
 
 ### Use Case 1: Comprehensive Topic Coverage
 **Goal:** Get all aspects of housing data
@@ -232,7 +232,7 @@ python 05_kumo_rfm_integration.py --recommend "real estate" --explore-tiers
 
 ---
 
-## 🎨 Combining with Visualizations
+## Combining with Visualizations
 
 ### Visualize Each Tier
 ```bash
@@ -255,7 +255,7 @@ python 05_kumo_rfm_integration.py --recommend "housing" --explore-tiers \
 
 ---
 
-## 📈 Output Structure
+## Output Structure
 
 ### Console Output
 - **Tier headers** with query names
@@ -275,7 +275,7 @@ All tier results are stored in the returned dictionary:
 
 ---
 
-## 🎯 Tips & Best Practices
+## Tips & Best Practices
 
 ### 1. Start Broad, Let System Narrow
 ```bash
@@ -309,7 +309,7 @@ All tier results are stored in the returned dictionary:
 
 ---
 
-## 🔧 Technical Details
+## Technical Details
 
 ### Follow-Up Generation Algorithm
 
@@ -339,7 +339,7 @@ All tier results are stored in the returned dictionary:
 
 ---
 
-## 📊 Comparison: Single vs Multi-Tier
+## Comparison: Single vs Multi-Tier
 
 ### Single Query
 ```bash
@@ -357,7 +357,7 @@ python 05_kumo_rfm_integration.py --recommend "housing" --explore-tiers
 
 ---
 
-## 🎓 Advanced Examples
+## Advanced Examples
 
 ### Example 1: Exhaustive Exploration
 ```bash
@@ -405,7 +405,7 @@ python 05_kumo_rfm_integration.py \
 
 ---
 
-## 🚀 Quick Reference
+## Quick Reference
 
 ```bash
 # Basic auto-exploration
@@ -426,15 +426,15 @@ python 05_kumo_rfm_integration.py \
 
 ---
 
-## 🎯 When to Use Multi-Tier
+## When to Use Multi-Tier
 
-### ✅ Use Multi-Tier When:
+### Use Multi-Tier When:
 - You want comprehensive topic coverage
 - You're exploring an unfamiliar domain
 - You need to discover related concepts
 - You want diverse perspectives on a topic
 
-### ❌ Use Single Query When:
+### Use Single Query When:
 - You know exactly what you want
 - You need quick results
 - You're testing/debugging
@@ -442,7 +442,7 @@ python 05_kumo_rfm_integration.py \
 
 ---
 
-## 💾 Output Files
+## Output Files
 
 With visualization enabled:
 ```
@@ -457,15 +457,15 @@ Note: Only Tier 1 results are visualized (for clarity)
 
 ---
 
-## 🎉 Summary
+## Summary
 
 **Multi-tier exploration transforms:**
-- ❌ "Show me housing series" (narrow, 10 results)
-- ✅ "Explore housing comprehensively" (broad, 30+ results)
+- "Show me housing series" (narrow, 10 results)
+- "Explore housing comprehensively" (broad, 30+ results)
 
 **By automatically:**
 - Generating intelligent follow-up queries
 - Executing multiple searches
 - Summarizing total unique findings
 
-**Result:** Faster, more comprehensive research! 🚀
+**Result:** Faster, more comprehensive research!

@@ -1,7 +1,7 @@
 #!/bin/bash
 # Consolidation plan for chart directories
 
-echo "📊 Chart Directory Consolidation Plan"
+echo "[Plan] Chart Directory Consolidation Plan"
 echo "======================================"
 echo ""
 
@@ -48,7 +48,7 @@ if [[ $REPLY =~ ^[Yy]$ ]]; then
     # Copy unique relationship graph from charts/
     cp charts/relationship_graph_*.png "$OUTPUT_DIR/"
     
-    echo "✓ Files moved to $OUTPUT_DIR"
+    echo "[OK] Files moved to $OUTPUT_DIR"
     echo ""
     
     read -p "Delete old directories? (y/n) " -n 1 -r
@@ -56,9 +56,9 @@ if [[ $REPLY =~ ^[Yy]$ ]]; then
     
     if [[ $REPLY =~ ^[Yy]$ ]]; then
         rm -rf my_charts/ charts/ visualizations/
-        echo "✓ Old directories removed"
+        echo "[OK] Old directories removed"
         echo ""
-        echo "📁 All visualizations now in: $OUTPUT_DIR"
+        echo "[Info] All visualizations now in: $OUTPUT_DIR"
         ls -lh "$OUTPUT_DIR"
     else
         echo "Old directories kept for safety"

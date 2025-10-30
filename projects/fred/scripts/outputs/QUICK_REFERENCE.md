@@ -1,6 +1,6 @@
 # Quick Reference: Date-Based Visualizations
 
-## 📅 How It Works
+## How It Works
 
 All visualizations are automatically organized by date:
 
@@ -11,7 +11,7 @@ outputs/visualizations/
 └── 2025-10-31/    ← Next day's visualizations
 ```
 
-## 🎨 Generating New Visualizations
+## Generating New Visualizations
 
 ### Option 1: NetworkX Graph (Recommended)
 ```bash
@@ -31,7 +31,7 @@ python 05_kumo_rfm_integration.py --visualize-graph --save-to-db
 ```
 **Output:** Graph + database tables
 
-## 📂 Finding Your Visualizations
+## Finding Your Visualizations
 
 ### Latest visualizations (today):
 ```bash
@@ -50,7 +50,7 @@ tree outputs/visualizations/
 ls -lh outputs/visualizations/
 ```
 
-## 🔍 View Specific File Types
+## View Specific File Types
 
 ### Only PNG files (graphs):
 ```bash
@@ -68,7 +68,7 @@ find outputs/visualizations/ -name "relationship_graph_*.png"
 find outputs/visualizations/ -name "category_network_*.png"
 ```
 
-## 📊 Compare Across Dates
+## Compare Across Dates
 
 ### Size changes over time:
 ```bash
@@ -82,7 +82,7 @@ for dir in outputs/visualizations/*/; do
 done
 ```
 
-## 🧹 Cleanup Old Visualizations
+## Cleanup Old Visualizations
 
 ### Keep only last 7 days:
 ```bash
@@ -99,7 +99,7 @@ find outputs/visualizations/ -type d -mtime +30 -exec rm -rf {} \;
 rm -rf outputs/visualizations/2025-10-29/
 ```
 
-## 📈 File Naming Convention
+## File Naming Convention
 
 All files include both date and time:
 
@@ -112,11 +112,11 @@ Format: {name}_{YYYYMMDD}_{HHMMSS}.{ext}
 ```
 
 **Benefits:**
-- ✅ Multiple runs per day don't conflict
-- ✅ Easy to sort chronologically
-- ✅ Grouped by date in subdirectories
+- Multiple runs per day don't conflict
+- Easy to sort chronologically
+- Grouped by date in subdirectories
 
-## 🎯 Common Tasks
+## Common Tasks
 
 ### 1. View today's latest graph:
 ```bash
@@ -143,7 +143,7 @@ du -sh outputs/visualizations/*/
 tar -czf visualizations_backup_$(date +%Y%m%d).tar.gz outputs/visualizations/
 ```
 
-## 💡 Tips
+## Tips
 
 1. **Disk space**: Large graphs (7.5MB each) add up quickly. Clean old ones periodically.
 
@@ -160,7 +160,7 @@ tar -czf visualizations_backup_$(date +%Y%m%d).tar.gz outputs/visualizations/
 
 4. **Comparison**: Keep one "baseline" visualization for comparison and delete intermediate ones.
 
-## 🚀 Quick Commands Cheatsheet
+## Quick Commands Cheatsheet
 
 ```bash
 # Generate graph

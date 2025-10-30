@@ -440,7 +440,7 @@ class KumoFREDIntegration:
         
         # Tier 1: Initial query
         print(f"\n{'='*80}")
-        print(f"🔍 TIER 1: {initial_query}")
+        print(f"TIER 1: {initial_query}")
         print(f"{'='*80}")
         
         tier1_results = self.recommend_by_text(initial_query, top_k)
@@ -457,14 +457,14 @@ class KumoFREDIntegration:
         if custom_queries:
             followup_queries = custom_queries[:max_tiers-1]
         else:
-            print(f"\n💡 Analyzing results to generate follow-up queries...")
+            print("\n[INFO] Analyzing results to generate follow-up queries...")
             followup_queries = self.generate_followup_queries(initial_query, tier1_results, max_tiers-1)
         
         if not followup_queries:
-            print("\n✓ No additional exploration paths identified.")
+            print("\n[INFO] No additional exploration paths identified.")
             return all_results
         
-        print(f"\n📋 Follow-up exploration paths:")
+        print("\nFollow-up exploration paths:")
         for i, q in enumerate(followup_queries, 2):
             print(f"   Tier {i}: {q}")
         
@@ -474,7 +474,7 @@ class KumoFREDIntegration:
                 break
                 
             print(f"\n{'='*80}")
-            print(f"🔍 TIER {tier_num}: {query}")
+            print(f"TIER {tier_num}: {query}")
             print(f"{'='*80}")
             
             tier_results = self.recommend_by_text(query, top_k)
@@ -487,7 +487,7 @@ class KumoFREDIntegration:
         
         # Summary
         print(f"\n{'='*80}")
-        print(f"📊 EXPLORATION SUMMARY")
+        print("EXPLORATION SUMMARY")
         print(f"{'='*80}")
         print(f"Total tiers explored: {len(all_results)}")
         print(f"Total unique series found: {len(self._get_unique_series(all_results))}")
@@ -1376,7 +1376,7 @@ class KumoFREDIntegration:
         rfm_segments.to_csv(f"{full_output_dir}/rfm_segments_{timestamp}.csv", index=False)
         print(f"  • Saved RFM segment data to {full_output_dir}/rfm_segments_{timestamp}.csv")
         
-        print(f"\n✅ Dashboard created successfully in {full_output_dir}/")
+        print(f"\n[OK] Dashboard created successfully in {full_output_dir}/")
         print(f"   Date: {date_dir}")
         print(f"   Time: {timestamp}")
         return full_output_dir
@@ -1514,7 +1514,7 @@ class KumoFREDIntegration:
             
             db_connection.commit()
             
-            print("\n✅ Successfully saved to database!")
+            print("\n[OK] Successfully saved to database!")
             print("\nYou can now query:")
             print("  SELECT * FROM monolith_series_relationships;")
             print("  SELECT * FROM monolith_series_features ORDER BY degree_centrality DESC LIMIT 10;")
@@ -1522,7 +1522,7 @@ class KumoFREDIntegration:
             return True
             
         except Exception as e:
-            print(f"\n❌ Error saving to database: {e}")
+            print(f"\n[ERROR] Error saving to database: {e}")
             db_connection.rollback()
             return False
 
@@ -1745,7 +1745,7 @@ def main():
                             recommended_series=recommended_ids,
                             mode=mode
                         )
-                        print(f"  ✓ Saved: {output_path}")
+                        print(f"  Saved: {output_path}")
                 else:
                     # Single mode
                     mode_suffix = f"_{args.graph_mode}" if args.graph_mode != 'full' else ""
@@ -1759,7 +1759,7 @@ def main():
                         recommended_series=recommended_ids,
                         mode=args.graph_mode
                     )
-                    print(f"\n✓ Graph saved to: {output_path}")
+                    print(f"\n[OK] Graph saved to: {output_path}")
             
             # Save to database if requested
             if args.save_to_db:
@@ -1794,9 +1794,9 @@ def main():
                         print("\nDatabase storage complete!")
                     
                 except ImportError:
-                    print("\n❌ psycopg2 not installed. Install with: pip install psycopg2-binary")
+                    print("\n[ERROR] psycopg2 not installed. Install with: pip install psycopg2-binary")
                 except Exception as e:
-                    print(f"\n❌ Database error: {e}")
+                    print(f"\n[ERROR] Database error: {e}")
             
             # Display recommendation results (if any)
             if args.recommend or args.similar or args.category or args.multi:
