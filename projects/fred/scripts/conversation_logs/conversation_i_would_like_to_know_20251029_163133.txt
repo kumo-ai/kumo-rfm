@@ -1,0 +1,13 @@
+# FRED Search Term Assistant - Conversation Log
+# Chat: i_would_like_to_know
+# Date: 20251029_163133
+# Provider: ollama (llama2)
+
+User: I would like to know more about interest rates in the 1990s.
+
+Assistant: 
+
+User: What specific rates are available?
+
+Assistant: 
+

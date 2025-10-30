@@ -1,0 +1,102 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. IMPGS
+   Title: Imports of Goods and Services
+   Frequency: Q
+   Popularity: 60
+   Notes:
+   BEA Account Code: B021RC
+
+A Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)
+
+--------------------------------------------------------------------------------
+
+2. B235RC1Q027SBEA
+   Title: Federal government current tax receipts: Taxes on production and imports: Customs duties
+   Frequency: Q
+   Popularity: 63
+   Notes:
+   BEA Account Code: B235RC
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+3. IEAMGSN
+   Title: Imports of goods and services
+   Frequency: Q
+   Popularity: 35
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+4. IMPGSA
+   Title: Imports of Goods and Services
+   Frequency: A
+   Popularity: 26
+   Notes:
+   BEA Account Code: B021RC
+
+
+
+--------------------------------------------------------------------------------
+
+5. IEAMGS
+   Title: Imports of goods and services
+   Frequency: Q
+   Popularity: 20
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+6. IEAMGSA
+   Title: Imports of goods and services
+   Frequency: A
+   Popularity: 15
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+7. NA000342Q
+   Title: Imports of Goods and Services
+   Frequency: Q
+   Popularity: 9
+   Notes:
+   BEA Account Code: NA000342
+
+--------------------------------------------------------------------------------
+
+8. B235RC1A027NBEA
+   Title: Federal government current tax receipts: Taxes on production and imports: Customs duties
+   Frequency: A
+   Popularity: 24
+   Notes:
+   BEA Account Code: B235RC
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+9. NC000342Q
+   Title: Imports of Goods and Services
+   Frequency: Q
+   Popularity: 3
+   Notes:
+   BEA Account Code: NC000342
+
+--------------------------------------------------------------------------------
+
+10. IR
+   Title: Import Price Index (End Use): All Commodities
+   Frequency: M
+   Popularity: 59
+   Notes:
+   For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/
+
+--------------------------------------------------------------------------------
+

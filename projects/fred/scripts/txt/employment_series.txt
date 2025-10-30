@@ -1,0 +1,140 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. PAYEMS
+   Title: All Employees, Total Nonfarm
+   Frequency: M
+   Popularity: 85
+   Notes:
+   All Employees: Total Nonfarm, commonly known as Total Nonfarm Payroll, is a measure of the number of U.S. workers in the economy that excludes proprietors, private household employees, unpaid volunteers, farm employees, and the unincorporated self-employed. This measure accounts for approximately 80 percent of the workers who contribute to Gross Domestic Product (GDP).
+
+This measure provides useful insights into the current economic situation because it can represent the number of jobs added or lost in an economy. Increases in employment might indicate that businesses are hiring which might also suggest that businesses are growing. Additionally, those who are newly employed have increased their personal incomes, which means (all else constant) their disposable incomes have also increased, thus fostering further economic expansion.
+
+Generally, the U.S. labor force and levels of employment and unemployment are subject to fluctuations due to seasonal changes in weather, major holidays, and the opening and closing of schools. The Bureau of Labor Statistics (BLS) adjusts the data to offset the seasonal effects to show non-seasonal changes: for example, women's participation in the labor force; or a general decline in the number of employees, a possible indication of a downturn in the economy. To closely examine seasonal and non-seasonal changes, the BLS releases two monthly statistical measures: the seasonally adjusted All Employees: Total Nonfarm (PAYEMS) and All Employees: Total Nonfarm (PAYNSA), which is not seasonally adjusted.
+
+The series comes from the 'Current Employment Statistics (Establishment Survey).'
+
+The source code is: CES0000000001
+
+--------------------------------------------------------------------------------
+
+2. PAYNSA
+   Title: All Employees, Total Nonfarm
+   Frequency: M
+   Popularity: 48
+   Notes:
+   All Employees: Total Nonfarm, commonly known as Total Nonfarm Payroll, is a measure of the number of U.S. workers in the economy that excludes proprietors, private household employees, unpaid volunteers, farm employees, and the unincorporated self-employed. This measure accounts for approximately 80 percent of the workers who contribute to Gross Domestic Product (GDP). This measure provides useful insights into the current economic situation because it can represent the number of jobs added or lost in an economy. Increases in employment might indicate that businesses are hiring which might also suggest that businesses are growing. Additionally, those who are newly employed have increased their personal incomes, which means (all else constant) their disposable incomes have also increased, thus fostering further economic expansion. Generally, the U.S. labor force and levels of employment and unemployment are subject to fluctuations due to seasonal changes in weather, major holidays, and the opening and closing of schools. The Bureau of Labor Statistics (BLS) adjusts the data to offset the seasonal effects to show non-seasonal changes: for example, women's participation in the labor force; or a general decline in the number of employees, a possible indication of a downturn in the economy. To closely examine seasonal and non-seasonal changes, the BLS releases two monthly statistical measures: the seasonally adjusted All Employees: Total Nonfarm (PAYEMS) and All Employees: Total Nonfarm (PAYNSA), which is not seasonally adjusted.
+
+The series comes from the 'Current Employment Statistics (Establishment Survey).'
+
+The source code is: CEU0000000001
+
+--------------------------------------------------------------------------------
+
+3. LES1252881600Q
+   Title: Employed full time: Median usual weekly real earnings: Wage and salary workers: 16 years and over
+   Frequency: Q
+   Popularity: 80
+   Notes:
+   Data measure usual weekly earnings of wage and salary workers. Wage and salary workers are workers who receive wages, salaries, commissions, tips, payment in kind, or piece rates. The group includes employees in both the private and public sectors but, for the purposes of the earnings series, it excludes all self-employed persons, both those with incorporated businesses and those with unincorporated businesses.
+Usual weekly earnings represent earnings before taxes and other deductions and include any overtime pay, commissions, or tips usually received (at the main job in the case of multiple jobholders). Prior to 1994, respondents were asked how much they usually earned per week. Since January 1994, respondents have been asked to identify the easiest way for them to report earnings (hourly, weekly, biweekly, twice monthly, monthly, annually, or other) and how much they usually earn in the reported time period. Earnings reported on a basis other than weekly are converted to a weekly equivalent. The term "usual" is determined by each respondent's own understanding of the term. If the respondent asks for a definition of "usual," interviewers are instructed to define the term as more than half the weeks worked during the past 4 or 5 months. Visit the BLS (https://www.bls.gov/cps/earnings.htm) for more information.
+
+The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LES1252881600
+
+--------------------------------------------------------------------------------
+
+4. LEU0252881600A
+   Title: Employed full time: Median usual weekly real earnings: Wage and salary workers: 16 years and over
+   Frequency: A
+   Popularity: 38
+   Notes:
+   Data measure usual weekly earnings of wage and salary workers. Wage and salary workers are workers who receive wages, salaries, commissions, tips, payment in kind, or piece rates. The group includes employees in both the private and public sectors but, for the purposes of the earnings series, it excludes all self-employed persons, both those with incorporated businesses and those with unincorporated businesses.
+Usual weekly earnings represent earnings before taxes and other deductions and include any overtime pay, commissions, or tips usually received (at the main job in the case of multiple jobholders). Prior to 1994, respondents were asked how much they usually earned per week. Since January 1994, respondents have been asked to identify the easiest way for them to report earnings (hourly, weekly, biweekly, twice monthly, monthly, annually, or other) and how much they usually earn in the reported time period. Earnings reported on a basis other than weekly are converted to a weekly equivalent. The term "usual" is determined by each respondent's own understanding of the term. If the respondent asks for a definition of "usual," interviewers are instructed to define the term as more than half the weeks worked during the past 4 or 5 months. For more information see https://www.bls.gov/cps/earnings.htm
+
+The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LEU0252881600
+
+--------------------------------------------------------------------------------
+
+5. LEU0252881600Q
+   Title: Employed full time: Median usual weekly real earnings: Wage and salary workers: 16 years and over
+   Frequency: Q
+   Popularity: 25
+   Notes:
+   Data measure usual weekly earnings of wage and salary workers. Wage and salary workers are workers who receive wages, salaries, commissions, tips, payment in kind, or piece rates. The group includes employees in both the private and public sectors but, for the purposes of the earnings series, it excludes all self-employed persons, both those with incorporated businesses and those with unincorporated businesses.
+Usual weekly earnings represent earnings before taxes and other deductions and include any overtime pay, commissions, or tips usually received (at the main job in the case of multiple jobholders). Prior to 1994, respondents were asked how much they usually earned per week. Since January 1994, respondents have been asked to identify the easiest way for them to report earnings (hourly, weekly, biweekly, twice monthly, monthly, annually, or other) and how much they usually earn in the reported time period. Earnings reported on a basis other than weekly are converted to a weekly equivalent. The term "usual" is determined by each respondent's own understanding of the term. If the respondent asks for a definition of "usual," interviewers are instructed to define the term as more than half the weeks worked during the past 4 or 5 months. For more information see https://www.bls.gov/cps/earnings.htm
+
+The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LEU0252881600
+
+--------------------------------------------------------------------------------
+
+6. CES0500000003
+   Title: Average Hourly Earnings of All Employees, Total Private
+   Frequency: M
+   Popularity: 77
+   Notes:
+   The series comes from the 'Current Employment Statistics (Establishment Survey).'
+The source code is: CES0500000003
+
+The Average Hourly Earnings of All Private Employees is a measure of the average hourly earnings of all private employees on a “gross” basis, including premium pay for overtime and late-shift work. These differ from wage rates in that average hourly earnings measure the actual return to a worker for a set period of time, rather than the amount contracted for a unit of work, the wage rate. This measure excludes benefits, irregular bonuses, retroactive pay, and payroll taxes paid by the employer.
+ 
+Average Hourly Earnings are collected in the Current Employment Statistics (CES) program and published by the BLS. It is provided on a monthly basis, so this data is used in part by macroeconomists as an initial economic indicator of current trends. Progressions in earnings specifically help policy makers understand some of the pressures driving inflation.
+
+It is important to note that this series measures the average hourly earnings of the pool of workers in each period. Thus, changes in average hourly earnings can be due to either changes in the set of workers observed in a given period, or due to changes in earnings. For instance, in recessions that lead to the disproportionate increase of unemployment in lower-wage jobs, average hourly earnings can increase due to changes in the pool of workers rather than due to the widespread increase of hourly earnings at the worker-level.
+
+For more information, see:
+U.S. Bureau of Labor Statistics, CES Overview (https://www.bls.gov/web/empsit/cesprog.htm)
+U.S. Bureau of Labor Statistics, BLS Handbook of Methods: Chapter 2. Employment, Hours, and Earnings from the Establishment Survey (https://www.bls.gov/opub/hom/pdf/ces-20110307.pdf)
+
+--------------------------------------------------------------------------------
+
+7. MANEMP
+   Title: All Employees, Manufacturing
+   Frequency: M
+   Popularity: 77
+   Notes:
+   The series comes from the 'Current Employment Statistics (Establishment Survey).'
+
+The source code is: CES3000000001
+
+--------------------------------------------------------------------------------
+
+8. CEU0500000003
+   Title: Average Hourly Earnings of All Employees, Total Private
+   Frequency: M
+   Popularity: 45
+   Notes:
+   The series comes from the 'Current Employment Statistics (Establishment Survey).'
+
+The source code is: CEU0500000003
+
+--------------------------------------------------------------------------------
+
+9. EMRATIO
+   Title: Employment-Population Ratio
+   Frequency: M
+   Popularity: 66
+   Notes:
+   The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LNS12300000
+
+--------------------------------------------------------------------------------
+
+10. CEU3000000001
+   Title: All Employees, Manufacturing
+   Frequency: M
+   Popularity: 26
+   Notes:
+   The series comes from the 'Current Employment Statistics (Establishment Survey).'
+
+The source code is: CEU3000000001
+
+--------------------------------------------------------------------------------
+

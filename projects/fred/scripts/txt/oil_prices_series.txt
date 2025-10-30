@@ -1,0 +1,100 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. DCOILWTICO
+   Title: Crude Oil Prices: West Texas Intermediate (WTI) - Cushing, Oklahoma
+   Frequency: D
+   Popularity: 80
+   Notes:
+   Definitions, Sources and Explanatory Notes (http://www.eia.doe.gov/dnav/pet/TblDefs/pet_pri_spt_tbldef2.asp)
+
+--------------------------------------------------------------------------------
+
+2. MCOILWTICO
+   Title: Crude Oil Prices: West Texas Intermediate (WTI) - Cushing, Oklahoma
+   Frequency: M
+   Popularity: 56
+   Notes:
+   Definitions, Sources and Explanatory Notes:
+http://www.eia.doe.gov/dnav/pet/TblDefs/pet_pri_spt_tbldef2.asp
+
+--------------------------------------------------------------------------------
+
+3. WCOILWTICO
+   Title: Crude Oil Prices: West Texas Intermediate (WTI) - Cushing, Oklahoma
+   Frequency: W
+   Popularity: 33
+   Notes:
+   Definitions, Sources and Explanatory Notes: http://www.eia.doe.gov/dnav/pet/TblDefs/pet_pri_spt_tbldef2.asp
+
+--------------------------------------------------------------------------------
+
+4. ACOILWTICO
+   Title: Crude Oil Prices: West Texas Intermediate (WTI) - Cushing, Oklahoma
+   Frequency: A
+   Popularity: 27
+   Notes:
+   Definitions, Sources and Explanatory Notes:
+http://www.eia.doe.gov/dnav/pet/TblDefs/pet_pri_spt_tbldef2.asp
+
+--------------------------------------------------------------------------------
+
+5. DCOILBRENTEU
+   Title: Crude Oil Prices: Brent - Europe
+   Frequency: D
+   Popularity: 73
+   Notes:
+   Definitions, Sources and Explanatory Notes (http://www.eia.doe.gov/dnav/pet/TblDefs/pet_pri_spt_tbldef2.asp)
+
+--------------------------------------------------------------------------------
+
+6. MCOILBRENTEU
+   Title: Crude Oil Prices: Brent - Europe
+   Frequency: M
+   Popularity: 50
+   Notes:
+   Definitions, Sources and Explanatory Notes:
+http://www.eia.doe.gov/dnav/pet/TblDefs/pet_pri_spt_tbldef2.asp
+
+--------------------------------------------------------------------------------
+
+7. WCOILBRENTEU
+   Title: Crude Oil Prices: Brent - Europe
+   Frequency: W
+   Popularity: 26
+   Notes:
+   Definitions, Sources and Explanatory Notes: http://www.eia.doe.gov/dnav/pet/TblDefs/pet_pri_spt_tbldef2.asp
+
+--------------------------------------------------------------------------------
+
+8. ACOILBRENTEU
+   Title: Crude Oil Prices: Brent - Europe
+   Frequency: A
+   Popularity: 21
+   Notes:
+   Definitions, Sources and Explanatory Notes:
+http://www.eia.doe.gov/dnav/pet/TblDefs/pet_pri_spt_tbldef2.asp
+
+--------------------------------------------------------------------------------
+
+9. POILBREUSDM
+   Title: Global price of Brent Crude
+   Frequency: M
+   Popularity: 65
+   Notes:
+   Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+10. WTISPLC
+   Title: Spot Crude Oil Price: West Texas Intermediate (WTI)
+   Frequency: M
+   Popularity: 67
+   Notes:
+   This series was created by the Federal Reserve Bank of St. Louis to expand the history of the monthly West Texas Intermediate oil price series in FRED. We simply combined these two FRED series: https://fred.stlouisfed.org/series/OILPRICE and https://fred.stlouisfed.org/series/MCOILWTICO. From January 1946 through July 2013, the series used is OILPRICE. From August 2013 to present, the series used is MCOILWTICO.
+
+--------------------------------------------------------------------------------
+

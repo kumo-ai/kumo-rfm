@@ -1,0 +1,94 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. CUUR0000SEHA
+   Title: Consumer Price Index for All Urban Consumers: Rent of Primary Residence in U.S. City Average
+   Frequency: M
+   Popularity: 69
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+2. CUSR0000SEHA
+   Title: Consumer Price Index for All Urban Consumers: Rent of Primary Residence in U.S. City Average
+   Frequency: M
+   Popularity: 60
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+3. CUUS0000SEHA
+   Title: Consumer Price Index for All Urban Consumers: Rent of Primary Residence in U.S. City Average
+   Frequency: SA
+   Popularity: 7
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+4. RRVRUSQ156N
+   Title: Rental Vacancy Rate in the United States
+   Frequency: Q
+   Popularity: 64
+   Notes:
+   The rental vacancy rate is the proportion of the rental inventory that is vacant for rent.
+
+--------------------------------------------------------------------------------
+
+5. CUSR0000SEHC
+   Title: Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Residences in U.S. City Average
+   Frequency: M
+   Popularity: 52
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+6. CUUR0000SEHC
+   Title: Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Residences in U.S. City Average
+   Frequency: M
+   Popularity: 16
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+7. CUUS0000SEHC
+   Title: Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Residences in U.S. City Average
+   Frequency: SA
+   Popularity: 3
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+8. CUURA101SEHA
+   Title: Consumer Price Index for All Urban Consumers: Rent of Primary Residence in New York-Newark-Jersey City, NY-NJ-PA (CBSA)
+   Frequency: M
+   Popularity: 43
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+9. CUUSA101SEHA
+   Title: Consumer Price Index for All Urban Consumers: Rent of Primary Residence in New York-Newark-Jersey City, NY-NJ-PA (CBSA)
+   Frequency: SA
+   Popularity: 2
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+10. CUUR0000SASL2RS
+   Title: Consumer Price Index for All Urban Consumers: Services Less Rent of Shelter in U.S. City Average
+   Frequency: M
+   Popularity: 32
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+

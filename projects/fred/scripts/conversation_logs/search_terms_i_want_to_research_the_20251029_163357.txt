@@ -1,0 +1,18 @@
+# FRED Search Terms
+# Generated from: i_want_to_research_the
+# Date: 20251029_163357
+# Provider: ollama
+# Total terms: 12
+
+CPI
+Consumer Price Index
+GDP
+GDP Growth
+consumer spending
+employment
+inflation
+interest rate
+loans
+mortgage
+unemployment
+unemployment rate

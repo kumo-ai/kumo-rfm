@@ -1,0 +1,110 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. FYFSD
+   Title: Federal Surplus or Deficit [-]
+   Frequency: A
+   Popularity: 78
+   Notes:
+   Dates represent the end of the fiscal year. Fiscal year series are updated with official OMB figures in January or February. In October, the latest fiscal year is updated with figures from the Treasury Department (September figures from the Treasury's fiscal year to date series).
+
+--------------------------------------------------------------------------------
+
+2. MTSDS133FMS
+   Title: Federal Surplus or Deficit [-]
+   Frequency: M
+   Popularity: 72
+   Notes:
+   The Monthly Treasury Statement (https://fiscaldata.treasury.gov/datasets/monthly-treasury-statement/summary-of-receipts-outlays-and-the-deficit-surplus-of-the-u-s-government) can be found on FiscalData and is available for download in multiple machine-readable formats with complete metadata.
+
+--------------------------------------------------------------------------------
+
+3. FYFSGDA188S
+   Title: Federal Surplus or Deficit [-] as Percent of Gross Domestic Product
+   Frequency: A
+   Popularity: 78
+   Notes:
+   Federal Surplus or Deficit [-] as Percent of Gross Domestic Product (FYFSGDA188S) (https://fred.stlouisfed.org/series/FYFSGDA188S) was first constructed by the Federal Reserve Bank of St. Louis in October 2012. It is calculated using Federal Surplus or Deficit [-] (FYFSD) (https://fred.stlouisfed.org/series/FYFSD) and Gross Domestic Product (GDPA) (https://fred.stlouisfed.org/series/GDPA):
+FYFSGDA188S = ((FYFSD/1000)/GDPA)*100
+FYFSD/1000 transforms FYFSD from millions of dollars to billions of dollars.
+
+--------------------------------------------------------------------------------
+
+4. FYFSDFYGDP
+   Title: Federal Surplus or Deficit [-] as Percent of Gross Domestic Product
+   Frequency: A
+   Popularity: 62
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+5. M318501Q027NBEA
+   Title: Federal government budget surplus or deficit (-)
+   Frequency: Q
+   Popularity: 60
+   Notes:
+   BEA Account Code: M318501
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+6. M318501A027NBEA
+   Title: Federal government budget surplus or deficit (-)
+   Frequency: A
+   Popularity: 30
+   Notes:
+   BEA Account Code: M318501
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+7. A09021USA174NNBR
+   Title: Deficits, Trading Companies for United States
+   Frequency: A
+   Popularity: 21
+   Notes:
+   1936-1940 Data Were Computed By NBER From Data In Statistics Of Income (See Notes). The 1938 Data Were Adjusted By NBER To Conform To 1937 Industrial Classification (See Notes). The Data For 1939-1940 Are Based On 1938 Standard Industrial Classification. Source: Bureau Of Internal Revenue: Statistics Of Income, 1916 And Successive Years.
+
+This NBER data series a09021 appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.
+
+NBER Indicator: a09021
+
+--------------------------------------------------------------------------------
+
+8. M318191Q027NBEA
+   Title: Federal government expenditures: Budget outlays
+   Frequency: Q
+   Popularity: 32
+   Notes:
+   BEA Account Code: M318191
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+9. M318191A027NBEA
+   Title: Federal government expenditures: Budget outlays
+   Frequency: A
+   Popularity: 8
+   Notes:
+   BEA Account Code: M318191
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+10. EMVGOVTSPEND
+   Title: Equity Market Volatility Tracker: Government Spending Deficits And Debt
+   Frequency: M
+   Popularity: 14
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+

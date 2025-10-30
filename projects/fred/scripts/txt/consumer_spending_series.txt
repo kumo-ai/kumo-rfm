@@ -1,0 +1,118 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. PCEPI
+   Title: Personal Consumption Expenditures: Chain-type Price Index
+   Frequency: M
+   Popularity: 83
+   Notes:
+   BEA Account Code: DPCERG
+
+The Personal Consumption Expenditures Price Index is a measure of the prices that people living in the United States, or those buying on their behalf, pay for goods and services. The change in the PCE price index is known for capturing inflation (or deflation) across a wide range of consumer expenses and reflecting changes in consumer behavior. For example, if the price of beef rises, shoppers may buy less beef and more chicken. 
+
+The PCE Price Index is produced by the Bureau of Economic Analysis (BEA), which revises previously published PCE data to reflect updated information or new methodology, providing consistency across decades of data that's valuable for researchers. They also offer the series as a Chain-Type index, as above. The PCE price index is used primarily for macroeconomic analysis and forecasting.
+
+The PCE Price index is the Federal Reserve’s preferred measure of inflation. The PCE Price Index is similar to the Bureau of Labor Statistics' consumer price index for urban consumers. The two indexes, which have their own purposes and uses, are constructed differently, resulting in different inflation rates. 
+
+For more information on the PCE price index, see:
+U.S. Bureau of Economic Analysis, Guide to the National Income and Product Accounts of the United States (NIPA) (https://www.bea.gov/national/pdf/nipaguid.pdf) 
+U.S. Bureau of Economic Analysis, Personal Consumption Expenditures Price Index (https://www.bea.gov/data/personal-consumption-expenditures-price-index)
+U.S. Bureau of Economic Analysis, Prices & Inflation (https://www.bea.gov/resources/learning-center/what-to-know-prices-inflation)
+U.S. Bureau of Labor Statistics, Differences between the Consumer Price Index and the Personal Consumption Expenditure Price Index (https://www.bls.gov/opub/btn/archive/differences-between-the-consumer-price-index-and-the-personal-consumption-expenditures-price-index.pdf)
+
+--------------------------------------------------------------------------------
+
+2. PCE
+   Title: Personal Consumption Expenditures
+   Frequency: M
+   Popularity: 82
+   Notes:
+   BEA Account Code: DPCERC
+A Guide to the National Income and Product Accounts of the United States (http://www.bea.gov/national/pdf/nipaguid.pdf) (NIPA).
+
+--------------------------------------------------------------------------------
+
+3. PCECTPI
+   Title: Personal Consumption Expenditures: Chain-type Price Index
+   Frequency: Q
+   Popularity: 53
+   Notes:
+   BEA Account Code: DPCERG
+
+A Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)
+
+--------------------------------------------------------------------------------
+
+4. PCEC
+   Title: Personal Consumption Expenditures
+   Frequency: Q
+   Popularity: 61
+   Notes:
+   BEA Account Code: DPCERC
+
+A Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)
+
+--------------------------------------------------------------------------------
+
+5. DPCERG3A086NBEA
+   Title: Personal Consumption Expenditures: Chain-type Price Index
+   Frequency: A
+   Popularity: 28
+   Notes:
+   BEA Account Code: DPCERG
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+6. PCECA
+   Title: Personal Consumption Expenditures
+   Frequency: A
+   Popularity: 44
+   Notes:
+   BEA Account Code: DPCERC
+
+
+
+--------------------------------------------------------------------------------
+
+7. NA000349Q
+   Title: Personal Consumption Expenditures
+   Frequency: Q
+   Popularity: 31
+   Notes:
+   BEA Account Code: NA000349
+
+--------------------------------------------------------------------------------
+
+8. NC000349Q
+   Title: Personal Consumption Expenditures
+   Frequency: Q
+   Popularity: 20
+   Notes:
+   BEA Account Code: NC000349
+
+--------------------------------------------------------------------------------
+
+9. PCEC96
+   Title: Real Personal Consumption Expenditures
+   Frequency: M
+   Popularity: 76
+   Notes:
+   BEA Account Code: DPCERX
+A Guide to the National Income and Product Accounts of the United States (http://www.bea.gov/national/pdf/nipaguid.pdf) (NIPA)
+
+--------------------------------------------------------------------------------
+
+10. PCECC96
+   Title: Real Personal Consumption Expenditures
+   Frequency: Q
+   Popularity: 65
+   Notes:
+   BEA Account Code: DPCERX
+
+A Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)
+
+--------------------------------------------------------------------------------
+

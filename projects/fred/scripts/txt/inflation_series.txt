@@ -1,0 +1,112 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. DFII10
+   Title: Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+   Frequency: D
+   Popularity: 85
+   Notes:
+   H.15 Statistical Release notes (https://www.federalreserve.gov/releases/h15/default.htm) and the Treasury Yield Curve Methodology (https://home.treasury.gov/policy-issues/financing-the-government/interest-rate-statistics/treasury-yield-curve-methodology).
+
+For questions on the data, please contact the data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h15/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+2. FII10
+   Title: Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+   Frequency: M
+   Popularity: 46
+   Notes:
+   H.15 Statistical Release notes (https://www.federalreserve.gov/releases/h15/default.htm) and the Treasury Yield Curve Methodology (https://home.treasury.gov/policy-issues/financing-the-government/interest-rate-statistics/treasury-yield-curve-methodology).
+
+For questions on the data, please contact the data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h15/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+3. WFII10
+   Title: Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+   Frequency: W
+   Popularity: 32
+   Notes:
+   H.15 Statistical Release notes (https://www.federalreserve.gov/releases/h15/default.htm) and the Treasury Yield Curve Methodology (https://home.treasury.gov/policy-issues/financing-the-government/interest-rate-statistics/treasury-yield-curve-methodology).
+
+For questions on the data, please contact the data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h15/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+4. RIFLGFCY10XIINA
+   Title: Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+   Frequency: A
+   Popularity: 24
+   Notes:
+   H.15 Statistical release notes (https://www.federalreserve.gov/releases/h15/default.htm) and the Treasury Yield Curve Methodology (https://home.treasury.gov/policy-issues/financing-the-government/interest-rate-statistics/treasury-yield-curve-methodology).
+
+For questions on the data, please contact the data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h15/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+5. T10YIE
+   Title: 10-Year Breakeven Inflation Rate
+   Frequency: D
+   Popularity: 89
+   Notes:
+   The breakeven inflation rate represents a measure of expected inflation derived from 10-Year Treasury Constant Maturity Securities (DGS10 (https://fred.stlouisfed.org/series/DGS10)) and 10-Year Treasury Inflation-Indexed Constant Maturity Securities (DFII10 (https://fred.stlouisfed.org/series/DFII10)). The latest value implies what market participants expect inflation to be in the next 10 years, on average.
+Starting with the update on June 21, 2019, the Treasury bond data used in calculating interest rate spreads is obtained directly from the U.S. Treasury Department (https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield).
+
+--------------------------------------------------------------------------------
+
+6. T10YIEM
+   Title: 10-Year Breakeven Inflation Rate
+   Frequency: M
+   Popularity: 48
+   Notes:
+   The breakeven inflation rate represents a measure of expected inflation derived from 10-Year Treasury Constant Maturity Securities (DGS10 (https://fred.stlouisfed.org/series/DGS10)) and 10-Year Treasury Inflation-Indexed Constant Maturity Securities (DFII10 (https://fred.stlouisfed.org/series/DFII10)). The latest value implies what market participants expect inflation to be in the next 10 years, on average.
+Starting with the update on June 21, 2019, the Treasury bond data used in calculating interest rate spreads is obtained directly from the U.S. Treasury Department (https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield).
+
+--------------------------------------------------------------------------------
+
+7. FPCPITOTLZGUSA
+   Title: Inflation, consumer prices for the United States
+   Frequency: A
+   Popularity: 87
+   Notes:
+   Inflation as measured by the consumer price index reflects the annual percentage change in the cost to the average consumer of acquiring a basket of goods and services that may be fixed or changed at specified intervals, such as yearly. The Laspeyres formula is generally used.
+
+International Monetary Fund, International Financial Statistics and data files.
+
+--------------------------------------------------------------------------------
+
+8. CPILFESL
+   Title: Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average
+   Frequency: M
+   Popularity: 84
+   Notes:
+   The "Consumer Price Index for All Urban Consumers: All Items Less Food & Energy" is an aggregate of prices paid by urban consumers for a typical basket of goods, excluding food and energy. This measurement, known as "Core CPI," is widely used by economists because food and energy have very volatile prices. The Bureau of Labor Statistics defines and measures the official CPI, and more information can be found in the FAQ (https://www.bls.gov/cpi/questions-and-answers.htm) or in this article (https://www.bls.gov/opub/hom/pdf/cpihom.pdf).
+
+--------------------------------------------------------------------------------
+
+9. CPILFENS
+   Title: Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average
+   Frequency: M
+   Popularity: 54
+   Notes:
+   The “Consumer Price Index for All Urban Consumers: All Items Less Food & Energy” is an aggregate of prices paid by urban consumers for a typical basket of goods, excluding food and energy. This measurement, known as “Core CPI,” is widely used by economists because food and energy have very volatile prices. The Bureau of Labor Statistics defines and measures the official CPI, and more information can be found here: https://www.bls.gov/cpi/questions-and-answers.htm or here: https://www.bls.gov/opub/hom/pdf/cpihom.pdf.
+
+--------------------------------------------------------------------------------
+
+10. CPIAUCSL
+   Title: Consumer Price Index for All Urban Consumers: All Items in U.S. City Average
+   Frequency: M
+   Popularity: 98
+   Notes:
+   The Consumer Price Index for All Urban Consumers: All Items (CPIAUCSL) is a price index of a basket of goods and services paid by urban consumers. Percent changes in the price index measure the inflation rate between any two time periods. The most common inflation metric is the percent change from one year ago. It can also represent the buying habits of urban consumers. This particular index includes roughly 88 percent of the total population, accounting for wage earners, clerical workers, technical workers, self-employed, short-term workers, unemployed, retirees, and those not in the labor force.
+
+The CPIs are based on prices for food, clothing, shelter, and fuels; transportation fares; service fees (e.g., water and sewer service); and sales taxes. Prices are collected monthly from about 4,000 housing units and approximately 26,000 retail establishments across 87 urban areas. To calculate the index, price changes are averaged with weights representing their importance in the spending of the particular group. The index measures price changes (as a percent change) from a predetermined reference date. In addition to the original unadjusted index distributed, the Bureau of Labor Statistics also releases a seasonally adjusted index. The unadjusted series reflects all factors that may influence a change in prices. However, it can be very useful to look at the seasonally adjusted CPI, which removes the effects of seasonal changes, such as weather, school year, production cycles, and holidays.
+
+The CPI can be used to recognize periods of inflation and deflation. Significant increases in the CPI within a short time frame might indicate a period of inflation, and significant decreases in CPI within a short time frame might indicate a period of deflation. However, because the CPI includes volatile food and oil prices, it might not be a reliable measure of inflationary and deflationary periods. For a more accurate detection, the core CPI (CPILFESL (https://fred.stlouisfed.org/series/CPILFESL)) is often used. When using the CPI, please note that it is not applicable to all consumers and should not be used to determine relative living costs. Additionally, the CPI is a statistical measure vulnerable to sampling error since it is based on a sample of prices and not the complete average.
+
+For more information on the CPI, see the Handbook of Methods (https://www.bls.gov/opub/hom/cpi/), the release notes and announcements (https://www.bls.gov/cpi/), and the Frequently Asked Questions (https://www.bls.gov/cpi/questions-and-answers.htm) (FAQs).
+
+--------------------------------------------------------------------------------
+

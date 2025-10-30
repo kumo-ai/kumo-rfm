@@ -1,0 +1,113 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. TDSP
+   Title: Household Debt Service Payments as a Percent of Disposable Personal Income
+   Frequency: Q
+   Popularity: 74
+   Notes:
+   Household Debt Service Ratio (DSR) (https://fred.stlouisfed.org/series/TDSP) is the ratio of total required household debt payments to total disposable income.
+
+The DSR is divided into two parts. The Mortgage DSR (MDSP) (https://fred.stlouisfed.org/series/MDSP) is total quarterly required mortgage payments divided by total quarterly disposable personal income. The Consumer DSR (CDSP) (https://fred.stlouisfed.org/series/CDSP) is total quarterly scheduled consumer debt payments divided by total quarterly disposable personal income. The Mortgage DSR and the Consumer DSR sum to the DSR.
+
+For questions on the data, please contact the data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/housedebt/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+2. DSPIC96
+   Title: Real Disposable Personal Income
+   Frequency: M
+   Popularity: 73
+   Notes:
+   BEA Account Code: A067RX
+AGuide to the National Income and Product Accounts of the United States (http://www.bea.gov/national/pdf/nipaguid.pdf) (NIPA)
+
+--------------------------------------------------------------------------------
+
+3. DPIC96
+   Title: Real Disposable Personal Income
+   Frequency: Q
+   Popularity: 35
+   Notes:
+   BEA Account Code: A067RX
+
+A Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)
+
+--------------------------------------------------------------------------------
+
+4. A067RO1Q156NBEA
+   Title: Real Disposable Personal Income
+   Frequency: Q
+   Popularity: 26
+   Notes:
+   BEA Account Code: A067RO
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+5. A067RX1A020NBEA
+   Title: Real disposable personal income
+   Frequency: A
+   Popularity: 23
+   Notes:
+   BEA Account Code: A067RX
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+6. A067RL1Q156SBEA
+   Title: Real Disposable Personal Income
+   Frequency: Q
+   Popularity: 14
+   Notes:
+   BEA Account Code: A067RL
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+7. A067RL1A156NBEA
+   Title: Real Disposable Personal Income
+   Frequency: A
+   Popularity: 11
+   Notes:
+   BEA Account Code: A067RL
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+8. DSPI
+   Title: Disposable Personal Income
+   Frequency: M
+   Popularity: 65
+   Notes:
+   BEA Account Code: A067RC
+A Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)
+
+--------------------------------------------------------------------------------
+
+9. DPI
+   Title: Disposable Personal Income
+   Frequency: Q
+   Popularity: 44
+   Notes:
+   BEA Account Code: A067RC
+
+A Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)
+
+--------------------------------------------------------------------------------
+
+10. A229RX0
+   Title: Real Disposable Personal Income: Per Capita
+   Frequency: M
+   Popularity: 64
+   Notes:
+   BEA Account Code: A229RX
+A Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)
+
+--------------------------------------------------------------------------------
+

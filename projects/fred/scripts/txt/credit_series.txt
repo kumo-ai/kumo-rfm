@@ -1,0 +1,94 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. DRCCLACBS
+   Title: Delinquency Rate on Credit Card Loans, All Commercial Banks
+   Frequency: Q
+   Popularity: 86
+   Notes:
+   data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/chargeoff/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+2. DRCCLACBN
+   Title: Delinquency Rate on Credit Card Loans, All Commercial Banks
+   Frequency: Q
+   Popularity: 46
+   Notes:
+   data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/chargeoff/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+3. TERMCBCCALLNS
+   Title: Commercial Bank Interest Rate on Credit Card Plans, All Accounts
+   Frequency: M
+   Popularity: 70
+   Notes:
+   data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/g19/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+4. CCLACBW027SBOG
+   Title: Consumer Loans: Credit Cards and Other Revolving Plans, All Commercial Banks
+   Frequency: W
+   Popularity: 76
+   Notes:
+   data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h8/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+5. CCLACBM027SBOG
+   Title: Consumer Loans: Credit Cards and Other Revolving Plans, All Commercial Banks
+   Frequency: M
+   Popularity: 36
+   Notes:
+   data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h8/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+6. H8B1247NCBCMG
+   Title: Consumer Loans: Credit Cards and Other Revolving Plans, All Commercial Banks
+   Frequency: M
+   Popularity: 32
+   Notes:
+   data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h8/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+7. CCLACBW027NBOG
+   Title: Consumer Loans: Credit Cards and Other Revolving Plans, All Commercial Banks
+   Frequency: W
+   Popularity: 31
+   Notes:
+   data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h8/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+8. CCLACBM027NBOG
+   Title: Consumer Loans: Credit Cards and Other Revolving Plans, All Commercial Banks
+   Frequency: M
+   Popularity: 19
+   Notes:
+   data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h8/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+9. CCLACBQ158SBOG
+   Title: Consumer Loans: Credit Cards and Other Revolving Plans, All Commercial Banks
+   Frequency: Q
+   Popularity: 15
+   Notes:
+   data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h8/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+10. H8B1247NCBCAG
+   Title: Consumer Loans: Credit Cards and Other Revolving Plans, All Commercial Banks
+   Frequency: A
+   Popularity: 7
+   Notes:
+   data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h8/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+

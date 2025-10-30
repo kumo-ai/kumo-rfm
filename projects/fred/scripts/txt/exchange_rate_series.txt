@@ -1,0 +1,106 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. DTWEXBGS
+   Title: Nominal Broad U.S. Dollar Index
+   Frequency: D
+   Popularity: 82
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+2. TWEXBGSMTH
+   Title: Nominal Broad U.S. Dollar Index
+   Frequency: M
+   Popularity: 62
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+3. TWEXBGSANL
+   Title: Nominal Broad U.S. Dollar Index
+   Frequency: A
+   Popularity: 21
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+4. DEXUSEU
+   Title: U.S. Dollars to Euro Spot Exchange Rate
+   Frequency: D
+   Popularity: 78
+   Notes:
+   Noon buying rates in New York City for cable transfers payable in foreign currencies.
+
+--------------------------------------------------------------------------------
+
+5. EXUSEU
+   Title: U.S. Dollars to Euro Spot Exchange Rate
+   Frequency: M
+   Popularity: 60
+   Notes:
+   Averages of daily figures. Noon buying rates in New York City for cable transfers payable in foreign currencies.
+
+This data series is updated from the source files in the Data Download Program (http://www.federalreserve.gov/datadownload/Choose.aspx?rel=h10). The files are updated on a weekly basis every Monday. If Monday is a holiday, the data files are updated the next business day.
+
+Monthly values are averages of the daily data available. Preliminary value for the current month is provided by the source even if not all daily values are available for the entire month.
+
+Please note that the values reported on the press release may not correspond to the values in the Data Download Program when the press release is published on a day other than Monday. This inconsistency is resolved on the next available weekly release date.
+
+--------------------------------------------------------------------------------
+
+6. AEXUSEU
+   Title: U.S. Dollars to Euro Spot Exchange Rate
+   Frequency: A
+   Popularity: 40
+   Notes:
+   Averages of daily figures. Noon buying rates in New York City for cable transfers payable in foreign currencies.
+
+--------------------------------------------------------------------------------
+
+7. DEXJPUS
+   Title: Japanese Yen to U.S. Dollar Spot Exchange Rate
+   Frequency: D
+   Popularity: 75
+   Notes:
+   Noon buying rates in New York City for cable transfers payable in foreign currencies.
+
+--------------------------------------------------------------------------------
+
+8. EXJPUS
+   Title: Japanese Yen to U.S. Dollar Spot Exchange Rate
+   Frequency: M
+   Popularity: 62
+   Notes:
+   Averages of daily figures. Noon buying rates in New York City for cable transfers payable in foreign currencies.
+
+This data series is updated from the source files in the Data Download Program (http://www.federalreserve.gov/datadownload/Choose.aspx?rel=h10). The files are updated on a weekly basis every Monday. If Monday is a holiday, the data files are updated the next business day.
+
+Monthly values are averages of the daily data available. Preliminary value for the current month is provided by the source even if not all daily values are available for the entire month.
+
+Please note that the values reported on the press release may not correspond to the values in the Data Download Program when the press release is published on a day other than Monday. This inconsistency is resolved on the next available weekly release date.
+
+--------------------------------------------------------------------------------
+
+9. AEXJPUS
+   Title: Japanese Yen to U.S. Dollar Spot Exchange Rate
+   Frequency: A
+   Popularity: 40
+   Notes:
+   Averages of daily figures. Noon buying rates in New York City for cable transfers payable in foreign currencies.
+
+--------------------------------------------------------------------------------
+
+10. DEXCHUS
+   Title: Chinese Yuan Renminbi to U.S. Dollar Spot Exchange Rate
+   Frequency: D
+   Popularity: 71
+   Notes:
+   Noon buying rates in New York City for cable transfers payable in foreign currencies.
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,103 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. DGORDER
+   Title: Manufacturers' New Orders: Durable Goods
+   Frequency: M
+   Popularity: 65
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+2. UMDMNO
+   Title: Manufacturers' New Orders: Durable Goods
+   Frequency: M
+   Popularity: 18
+   Notes:
+   Data on New Orders for the Semiconductor Industry are not available.
+
+--------------------------------------------------------------------------------
+
+3. PCEDG
+   Title: Personal Consumption Expenditures: Durable Goods
+   Frequency: M
+   Popularity: 56
+   Notes:
+   BEA Account Code: DDURRC
+A Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)
+
+--------------------------------------------------------------------------------
+
+4. PCDG
+   Title: Personal Consumption Expenditures: Durable Goods
+   Frequency: Q
+   Popularity: 45
+   Notes:
+   BEA Account Code: DDURRC
+
+A Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)
+
+--------------------------------------------------------------------------------
+
+5. PCDGA
+   Title: Personal Consumption Expenditures: Durable Goods
+   Frequency: A
+   Popularity: 10
+   Notes:
+   BEA Account Code: DDURRC
+
+
+
+--------------------------------------------------------------------------------
+
+6. NA000346Q
+   Title: Personal Consumption Expenditures: Durable Goods
+   Frequency: Q
+   Popularity: 4
+   Notes:
+   BEA Account Code: NA000346
+
+--------------------------------------------------------------------------------
+
+7. NC000346Q
+   Title: Personal Consumption Expenditures: Durable Goods
+   Frequency: Q
+   Popularity: 4
+   Notes:
+   BEA Account Code: NC000346
+
+--------------------------------------------------------------------------------
+
+8. PCEND
+   Title: Personal Consumption Expenditures: Nondurable Goods
+   Frequency: M
+   Popularity: 47
+   Notes:
+   BEA Account Code: DNDGRC
+A Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)
+
+--------------------------------------------------------------------------------
+
+9. PCND
+   Title: Personal Consumption Expenditures: Nondurable Goods
+   Frequency: Q
+   Popularity: 44
+   Notes:
+   BEA Account Code: DNDGRC
+
+A Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)
+
+--------------------------------------------------------------------------------
+
+10. PCEDGC96
+   Title: Real Personal Consumption Expenditures: Durable Goods
+   Frequency: M
+   Popularity: 50
+   Notes:
+   BEA Account Code: DDURRX
+A Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)
+
+--------------------------------------------------------------------------------
+

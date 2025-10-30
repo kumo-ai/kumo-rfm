@@ -1,0 +1,111 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. CPIAUCSL
+   Title: Consumer Price Index for All Urban Consumers: All Items in U.S. City Average
+   Frequency: M
+   Popularity: 98
+   Notes:
+   The Consumer Price Index for All Urban Consumers: All Items (CPIAUCSL) is a price index of a basket of goods and services paid by urban consumers. Percent changes in the price index measure the inflation rate between any two time periods. The most common inflation metric is the percent change from one year ago. It can also represent the buying habits of urban consumers. This particular index includes roughly 88 percent of the total population, accounting for wage earners, clerical workers, technical workers, self-employed, short-term workers, unemployed, retirees, and those not in the labor force.
+
+The CPIs are based on prices for food, clothing, shelter, and fuels; transportation fares; service fees (e.g., water and sewer service); and sales taxes. Prices are collected monthly from about 4,000 housing units and approximately 26,000 retail establishments across 87 urban areas. To calculate the index, price changes are averaged with weights representing their importance in the spending of the particular group. The index measures price changes (as a percent change) from a predetermined reference date. In addition to the original unadjusted index distributed, the Bureau of Labor Statistics also releases a seasonally adjusted index. The unadjusted series reflects all factors that may influence a change in prices. However, it can be very useful to look at the seasonally adjusted CPI, which removes the effects of seasonal changes, such as weather, school year, production cycles, and holidays.
+
+The CPI can be used to recognize periods of inflation and deflation. Significant increases in the CPI within a short time frame might indicate a period of inflation, and significant decreases in CPI within a short time frame might indicate a period of deflation. However, because the CPI includes volatile food and oil prices, it might not be a reliable measure of inflationary and deflationary periods. For a more accurate detection, the core CPI (CPILFESL (https://fred.stlouisfed.org/series/CPILFESL)) is often used. When using the CPI, please note that it is not applicable to all consumers and should not be used to determine relative living costs. Additionally, the CPI is a statistical measure vulnerable to sampling error since it is based on a sample of prices and not the complete average.
+
+For more information on the CPI, see the Handbook of Methods (https://www.bls.gov/opub/hom/cpi/), the release notes and announcements (https://www.bls.gov/cpi/), and the Frequently Asked Questions (https://www.bls.gov/cpi/questions-and-answers.htm) (FAQs).
+
+--------------------------------------------------------------------------------
+
+2. CPIAUCNS
+   Title: Consumer Price Index for All Urban Consumers: All Items in U.S. City Average
+   Frequency: M
+   Popularity: 81
+   Notes:
+   Handbook of Methods (https://www.bls.gov/opub/hom/pdf/cpihom.pdf)
+Understanding the CPI: Frequently Asked Questions (https://www.bls.gov/cpi/questions-and-answers.htm)
+
+--------------------------------------------------------------------------------
+
+3. CUUS0000SA0
+   Title: Consumer Price Index for All Urban Consumers: All Items in U.S. City Average
+   Frequency: SA
+   Popularity: 40
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+4. CPILFESL
+   Title: Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average
+   Frequency: M
+   Popularity: 84
+   Notes:
+   The "Consumer Price Index for All Urban Consumers: All Items Less Food & Energy" is an aggregate of prices paid by urban consumers for a typical basket of goods, excluding food and energy. This measurement, known as "Core CPI," is widely used by economists because food and energy have very volatile prices. The Bureau of Labor Statistics defines and measures the official CPI, and more information can be found in the FAQ (https://www.bls.gov/cpi/questions-and-answers.htm) or in this article (https://www.bls.gov/opub/hom/pdf/cpihom.pdf).
+
+--------------------------------------------------------------------------------
+
+5. CPILFENS
+   Title: Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average
+   Frequency: M
+   Popularity: 54
+   Notes:
+   The “Consumer Price Index for All Urban Consumers: All Items Less Food & Energy” is an aggregate of prices paid by urban consumers for a typical basket of goods, excluding food and energy. This measurement, known as “Core CPI,” is widely used by economists because food and energy have very volatile prices. The Bureau of Labor Statistics defines and measures the official CPI, and more information can be found here: https://www.bls.gov/cpi/questions-and-answers.htm or here: https://www.bls.gov/opub/hom/pdf/cpihom.pdf.
+
+--------------------------------------------------------------------------------
+
+6. FPCPITOTLZGUSA
+   Title: Inflation, consumer prices for the United States
+   Frequency: A
+   Popularity: 87
+   Notes:
+   Inflation as measured by the consumer price index reflects the annual percentage change in the cost to the average consumer of acquiring a basket of goods and services that may be fixed or changed at specified intervals, such as yearly. The Laspeyres formula is generally used.
+
+International Monetary Fund, International Financial Statistics and data files.
+
+--------------------------------------------------------------------------------
+
+7. CORESTICKM159SFRBATL
+   Title: Sticky Price Consumer Price Index less Food and Energy
+   Frequency: M
+   Popularity: 83
+   Notes:
+   The Sticky Price Consumer Price Index (CPI) is calculated from a subset of goods and services included in the CPI that change price relatively infrequently. Because these goods and services change price relatively infrequently, they are thought to incorporate expectations about future inflation to a greater degree than prices that change on a more frequent basis. One possible explanation for sticky prices could be the costs firms incur when changing price.
+
+To obtain more information about this release see: Michael F. Bryan, and Brent H. Meyer. “Are Some Prices in the CPI More Forward Looking Than Others? We Think So.” Economic Commentary (Federal Reserve Bank of Cleveland) (May 19, 2010): 1–6. https://doi.org/10.26509/frbc-ec-201002 (https://doi.org/10.26509/frbc-ec-201002).
+
+--------------------------------------------------------------------------------
+
+8. CORESTICKM158SFRBATL
+   Title: Sticky Price Consumer Price Index less Food and Energy
+   Frequency: M
+   Popularity: 43
+   Notes:
+   The Sticky Price Consumer Price Index (CPI) is calculated from a subset of goods and services included in the CPI that change price relatively infrequently. Because these goods and services change price relatively infrequently, they are thought to incorporate expectations about future inflation to a greater degree than prices that change on a more frequent basis. One possible explanation for sticky prices could be the costs firms incur when changing price.
+
+To obtain more information about this release see: Michael F. Bryan, and Brent H. Meyer. “Are Some Prices in the CPI More Forward Looking Than Others? We Think So.” Economic Commentary Federal Reserve Bank of Cleveland May 19, 2010: 1–6. https://doi.org/10.26509/frbc-ec-201002 (https://doi.org/10.26509/frbc-ec-201002).
+
+--------------------------------------------------------------------------------
+
+9. CORESTICKM679SFRBATL
+   Title: Sticky Price Consumer Price Index less Food and Energy
+   Frequency: M
+   Popularity: 31
+   Notes:
+   The Sticky Price Consumer Price Index (CPI) is calculated from a subset of goods and services included in the CPI that change price relatively infrequently. Because these goods and services change price relatively infrequently, they are thought to incorporate expectations about future inflation to a greater degree than prices that change on a more frequent basis. One possible explanation for sticky prices could be the costs firms incur when changing price.
+
+To obtain more information about this release see: Michael F. Bryan, and Brent H. Meyer. “Are Some Prices in the CPI More Forward Looking Than Others? We Think So.” Economic Commentary Federal Reserve Bank of Cleveland May 19, 2010: 1–6. https://doi.org/10.26509/frbc-ec-201002 (https://doi.org/10.26509/frbc-ec-201002).
+
+--------------------------------------------------------------------------------
+
+10. CORESTICKM157SFRBATL
+   Title: Sticky Price Consumer Price Index less Food and Energy
+   Frequency: M
+   Popularity: 31
+   Notes:
+   The Sticky Price Consumer Price Index (CPI) is calculated from a subset of goods and services included in the CPI that change price relatively infrequently. Because these goods and services change price relatively infrequently, they are thought to incorporate expectations about future inflation to a greater degree than prices that change on a more frequent basis. One possible explanation for sticky prices could be the costs firms incur when changing price.
+
+To obtain more information about this release see: Michael F. Bryan, and Brent H. Meyer. “Are Some Prices in the CPI More Forward Looking Than Others? We Think So.” Economic Commentary (Federal Reserve Bank of Cleveland) (May 19, 2010): 1–6. https://doi.org/10.26509/frbc-ec-201002 (https://doi.org/10.26509/frbc-ec-201002).
+
+--------------------------------------------------------------------------------
+

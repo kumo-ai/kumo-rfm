@@ -1,0 +1,40 @@
+# Core dependencies
+pandas>=2.0.0
+numpy>=1.24.0
+python-dotenv>=1.0.0
+
+# Database
+psycopg2-binary>=2.9.0
+
+# FRED API
+requests>=2.31.0
+
+# Vector search and embeddings
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.4
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+networkx>=3.1
+
+# Data formats
+pyarrow>=12.0.0
+
+# Optional - Kumo integration (requires API key)
+# kumoai>=0.1.0
+
+# Optional - Monolith features (TFRecord export)
+# tensorflow>=2.13.0
+
+# Optional - Workflow integrations
+# elasticsearch>=8.0.0
+# pinecone-client>=2.2.0
+# weaviate-client>=3.0.0
+# neo4j>=5.0.0
+
+# Development
+# pytest>=7.4.0
+# black>=23.0.0
+# flake8>=6.0.0

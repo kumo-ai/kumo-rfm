@@ -1,0 +1,162 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. BOPGSTB
+   Title: Trade Balance: Goods and Services, Balance of Payments Basis
+   Frequency: M
+   Popularity: 71
+   Notes:
+   Further information related to the international trade data can be found at https://www.census.gov/foreign-trade/data/index.html 
+Methodology details can be found at https://www.census.gov/foreign-trade/Press-Release/current_press_release/explain.pdf
+
+--------------------------------------------------------------------------------
+
+2. BOPGTB
+   Title: Trade Balance: Goods, Balance of Payments Basis
+   Frequency: M
+   Popularity: 52
+   Notes:
+   This series represents monthly statistics of complete coverage. The advance estimate of the current month of nearly complete coverage is available on FRED at https://fred.stlouisfed.org/series/AITGCBS
+
+Further information related to the international trade data can be found at https://www.census.gov/foreign-trade/data/index.html 
+Methodology details can be found at https://www.census.gov/foreign-trade/Press-Release/current_press_release/explain.pdf
+
+--------------------------------------------------------------------------------
+
+3. AITGCBS
+   Title: Advance U.S. International Trade in Goods: Balance
+   Frequency: M
+   Popularity: 33
+   Notes:
+   This advance estimate represents the current month statistics of nearly complete coverage. The current month statistics reflecting complete coverage is available on the Census website at the U.S. International Trade in Goods and Services report (FT-900) https://www.census.gov/foreign-trade/statistics/historical/index.html, the corresponding series in FRED is at https://fred.stlouisfed.org/series/BOPGTB 
+
+For more information on data collection and methodology, see https://www.census.gov/econ/indicators/methodology.html
+
+--------------------------------------------------------------------------------
+
+4. AITGCBN
+   Title: Advance U.S. International Trade in Goods: Balance
+   Frequency: M
+   Popularity: 6
+   Notes:
+   This advance estimate represents the current month statistics of nearly complete coverage. The current month statistics reflecting complete coverage is available on the Census website at the U.S. International Trade in Goods and Services report (FT-900) https://www.census.gov/foreign-trade/statistics/historical/index.html 
+
+For more information on data collection and methodology, see https://www.census.gov/econ/indicators/methodology.html
+
+--------------------------------------------------------------------------------
+
+5. XTNTVA01CNM667S
+   Title: International Merchandise Trade Statistics: Trade Balance: Commodities for China
+   Frequency: M
+   Popularity: 19
+   Notes:
+   OECD Data Filters: 
+REF_AREA: CHN
+COUNTERPART_AREA: W
+UNIT_MEASURE: USD_EXC
+TRADE_FLOW: TB
+PRODUCT_TYPE: C
+ADJUSTMENT: Y
+TRANSFORMATION: N
+FREQ: M
+
+All OECD data should be cited as follows: OECD (year), (dataset name), (data source) DOI or https://data-explorer.oecd.org/ (https://data-explorer.oecd.org/). (accessed on (date)).
+
+--------------------------------------------------------------------------------
+
+6. XTNTVA01CNM664S
+   Title: International Merchandise Trade Statistics: Trade Balance: Commodities for China
+   Frequency: M
+   Popularity: 14
+   Notes:
+   OECD Data Filters: 
+REF_AREA: CHN
+COUNTERPART_AREA: W
+UNIT_MEASURE: XDC
+TRADE_FLOW: TB
+PRODUCT_TYPE: C
+ADJUSTMENT: Y
+TRANSFORMATION: N
+FREQ: M
+
+All OECD data should be cited as follows: OECD (year), (dataset name), (data source) DOI or https://data-explorer.oecd.org/ (https://data-explorer.oecd.org/). (accessed on (date)).
+
+--------------------------------------------------------------------------------
+
+7. XTNTVA01CNA667S
+   Title: International Merchandise Trade Statistics: Trade Balance: Commodities for China
+   Frequency: A
+   Popularity: 5
+   Notes:
+   OECD Data Filters: 
+REF_AREA: CHN
+COUNTERPART_AREA: W
+UNIT_MEASURE: USD_EXC
+TRADE_FLOW: TB
+PRODUCT_TYPE: C
+ADJUSTMENT: Y
+TRANSFORMATION: N
+FREQ: A
+
+All OECD data should be cited as follows: OECD (year), (dataset name), (data source) DOI or https://data-explorer.oecd.org/ (https://data-explorer.oecd.org/). (accessed on (date)).
+
+--------------------------------------------------------------------------------
+
+8. XTNTVA01CNQ664S
+   Title: International Merchandise Trade Statistics: Trade Balance: Commodities for China
+   Frequency: Q
+   Popularity: 4
+   Notes:
+   OECD Data Filters: 
+REF_AREA: CHN
+COUNTERPART_AREA: W
+UNIT_MEASURE: XDC
+TRADE_FLOW: TB
+PRODUCT_TYPE: C
+ADJUSTMENT: Y
+TRANSFORMATION: N
+FREQ: Q
+
+All OECD data should be cited as follows: OECD (year), (dataset name), (data source) DOI or https://data-explorer.oecd.org/ (https://data-explorer.oecd.org/). (accessed on (date)).
+
+--------------------------------------------------------------------------------
+
+9. XTNTVA01CNM667N
+   Title: International Merchandise Trade Statistics: Trade Balance: Commodities for China
+   Frequency: M
+   Popularity: 3
+   Notes:
+   OECD Data Filters: 
+REF_AREA: CHN
+COUNTERPART_AREA: W
+UNIT_MEASURE: USD_EXC
+TRADE_FLOW: TB
+PRODUCT_TYPE: C
+ADJUSTMENT: N
+TRANSFORMATION: N
+FREQ: M
+
+All OECD data should be cited as follows: OECD (year), (dataset name), (data source) DOI or https://data-explorer.oecd.org/ (https://data-explorer.oecd.org/). (accessed on (date)).
+
+--------------------------------------------------------------------------------
+
+10. CHNXTNTVA01NCMLM
+   Title: International Merchandise Trade Statistics: Trade Balance: Commodities for China
+   Frequency: M
+   Popularity: 2
+   Notes:
+   OECD Data Filters: 
+REF_AREA: CHN
+COUNTERPART_AREA: W
+UNIT_MEASURE: XDC
+TRADE_FLOW: TB
+PRODUCT_TYPE: C
+ADJUSTMENT: N
+TRANSFORMATION: N
+FREQ: M
+
+All OECD data should be cited as follows: OECD (year), (dataset name), (data source) DOI or https://data-explorer.oecd.org/ (https://data-explorer.oecd.org/). (accessed on (date)).
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,106 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. PERMIT
+   Title: New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units
+   Frequency: M
+   Popularity: 82
+   Notes:
+   Starting with the 2005-02-16 release, the series reflects an increase in the universe of permit-issuing places from 19,000 to 20,000 places.
+
+--------------------------------------------------------------------------------
+
+2. PERMITNSA
+   Title: New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units
+   Frequency: M
+   Popularity: 29
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+3. PERMIT1
+   Title: New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Single-Family Units
+   Frequency: M
+   Popularity: 52
+   Notes:
+   Starting with the 2005-02-16 release, the series reflects an increase in the universe of permit-issuing places from 19,000 to 20,000 places.
+
+--------------------------------------------------------------------------------
+
+4. PERMIT1NSA
+   Title: New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Single-Family Units
+   Frequency: M
+   Popularity: 19
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+5. CABPPRIVSA
+   Title: New Private Housing Units Authorized by Building Permits for California
+   Frequency: M
+   Popularity: 47
+   Notes:
+   This series represents the total number of building permits for all structure types. Structure types include 1-unit, 2-unit, 3-unit, 4-unit, and 5-unit or more.
+
+The Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'statsmodels' library from Python with default parameter settings. The package uses the U.S. Bureau of the Census X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the 'statsmodels' X-13ARIMA-SEATS package can be found here (https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html). More information on X-13ARIMA-SEATS can be found here (https://www.census.gov/data/software/x13as.html).
+
+Many series include both seasonally adjusted (SA) and not seasonally adjusted (NSA) data. Occasionally, updates to the data will not include sufficient seasonal factors to trigger a seasonal adjustment. In these cases, the NSA series will be updated normally; but the SA series will also be updated with the NSA data. The NSA series can be located here here (https://fred.stlouisfed.org/series/CABPPRIV).
+
+Some seasonally adjusted series may exhibit negative values because they are created from a seasonal adjustment process regardless of the actual meaning or interpretation of the given indicator.
+
+--------------------------------------------------------------------------------
+
+6. CABPPRIV
+   Title: New Private Housing Units Authorized by Building Permits for California
+   Frequency: M
+   Popularity: 19
+   Notes:
+   This series represents the total number of building permits for all structure types. Structure types include 1-unit, 2-unit, 3-unit, 4-unit, and 5-unit or more.
+
+--------------------------------------------------------------------------------
+
+7. PERMIT5
+   Title: New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Units in Buildings with 5 Units or More
+   Frequency: M
+   Popularity: 41
+   Notes:
+   Starting with the 2005-02-16 release, the series reflects an increase in the universe of permit-issuing places from 19,000 to 20,000 places.
+
+--------------------------------------------------------------------------------
+
+8. FLBPPRIV
+   Title: New Private Housing Units Authorized by Building Permits for Florida
+   Frequency: M
+   Popularity: 37
+   Notes:
+   This series represents the total number of building permits for all structure types. Structure types include 1-unit, 2-unit, 3-unit, 4-unit, and 5-unit or more.
+
+--------------------------------------------------------------------------------
+
+9. PERMIT5NSA
+   Title: New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Units in Buildings with 5 Units or More
+   Frequency: M
+   Popularity: 10
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+10. FLBPPRIVSA
+   Title: New Private Housing Units Authorized by Building Permits for Florida
+   Frequency: M
+   Popularity: 23
+   Notes:
+   This series represents the total number of building permits for all structure types. Structure types include 1-unit, 2-unit, 3-unit, 4-unit, and 5-unit or more.
+
+The Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'statsmodels' library from Python with default parameter settings. The package uses the U.S. Bureau of the Census X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the 'statsmodels' X-13ARIMA-SEATS package can be found here (https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html). More information on X-13ARIMA-SEATS can be found here (https://www.census.gov/data/software/x13as.html).
+
+Many series include both seasonally adjusted (SA) and not seasonally adjusted (NSA) data. Occasionally, updates to the data will not include sufficient seasonal factors to trigger a seasonal adjustment. In these cases, the NSA series will be updated normally; but the SA series will also be updated with the NSA data. The NSA series can be located here here (https://fred.stlouisfed.org/series/FLBPPRIV).
+
+Some seasonally adjusted series may exhibit negative values because they are created from a seasonal adjustment process regardless of the actual meaning or interpretation of the given indicator.
+
+--------------------------------------------------------------------------------
+

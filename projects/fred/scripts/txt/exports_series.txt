@@ -1,0 +1,102 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. NETEXP
+   Title: Net Exports of Goods and Services
+   Frequency: Q
+   Popularity: 63
+   Notes:
+   BEA Account Code: A019RC
+
+A Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)
+
+--------------------------------------------------------------------------------
+
+2. EXPGS
+   Title: Exports of Goods and Services
+   Frequency: Q
+   Popularity: 57
+   Notes:
+   BEA Account Code: B020RC
+
+A Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)
+
+--------------------------------------------------------------------------------
+
+3. NA000374Q
+   Title: Net exports of goods and services
+   Frequency: Q
+   Popularity: 18
+   Notes:
+   BEA Account Code: NA000374
+
+--------------------------------------------------------------------------------
+
+4. IEAXGS
+   Title: Exports of goods and services
+   Frequency: Q
+   Popularity: 37
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+5. A019RC1A027NBEA
+   Title: Net exports of goods and services
+   Frequency: A
+   Popularity: 17
+   Notes:
+   BEA Account Code: A019RC
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+6. EXPGSA
+   Title: Exports of Goods and Services
+   Frequency: A
+   Popularity: 26
+   Notes:
+   BEA Account Code: B020RC
+
+
+
+--------------------------------------------------------------------------------
+
+7. IEAXGSA
+   Title: Exports of goods and services
+   Frequency: A
+   Popularity: 13
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+8. IEAXGSN
+   Title: Exports of goods and services
+   Frequency: Q
+   Popularity: 6
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+9. NA000352Q
+   Title: Exports of Goods and Services
+   Frequency: Q
+   Popularity: 6
+   Notes:
+   BEA Account Code: NA000352
+
+--------------------------------------------------------------------------------
+
+10. IQ12260
+   Title: Export Price Index (End Use): Nonmonetary Gold
+   Frequency: M
+   Popularity: 56
+   Notes:
+   For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/
+
+--------------------------------------------------------------------------------
+

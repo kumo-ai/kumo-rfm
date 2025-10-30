@@ -1,0 +1,94 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. PPIACO
+   Title: Producer Price Index by Commodity: All Commodities
+   Frequency: M
+   Popularity: 78
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+2. WPU0911
+   Title: Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Wood Pulp
+   Frequency: M
+   Popularity: 69
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+3. PCUOMFGOMFG
+   Title: Producer Price Index by Industry: Total Manufacturing Industries
+   Frequency: M
+   Popularity: 70
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+4. WPU091105
+   Title: Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Wood Pulp
+   Frequency: M
+   Popularity: 43
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+5. PCU325211325211
+   Title: Producer Price Index by Industry: Plastics Material and Resin Manufacturing
+   Frequency: M
+   Popularity: 69
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+6. WPU101707
+   Title: Producer Price Index by Commodity: Metals and Metal Products: Cold Rolled Steel Sheet and Strip
+   Frequency: M
+   Popularity: 68
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+7. WPS0911
+   Title: Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Wood Pulp
+   Frequency: M
+   Popularity: 27
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+8. WPU09110501
+   Title: Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Wood Pulp
+   Frequency: M
+   Popularity: 25
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+9. WPS091105
+   Title: Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Wood Pulp
+   Frequency: M
+   Popularity: 5
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+10. WPS101707
+   Title: Producer Price Index by Commodity: Metals and Metal Products: Cold Rolled Steel Sheet and Strip
+   Frequency: M
+   Popularity: 29
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+

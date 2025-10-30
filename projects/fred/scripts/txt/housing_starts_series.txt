@@ -1,0 +1,96 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. HOUST
+   Title: New Privately-Owned Housing Units Started: Total Units
+   Frequency: M
+   Popularity: 80
+   Notes:
+   As provided by the Census, start occurs when excavation begins for the footings or foundation of a building. All housing units in a multifamily building are defined as being started when this excavation begins. Beginning with data for September 1992, estimates of housing starts include units in structures being totally rebuilt on an existing foundation.
+
+--------------------------------------------------------------------------------
+
+2. HOUSTNSA
+   Title: New Privately-Owned Housing Units Started: Total Units
+   Frequency: M
+   Popularity: 46
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+3. HOUST1F
+   Title: New Privately-Owned Housing Units Started: Single-Family Units
+   Frequency: M
+   Popularity: 66
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+4. HOUST1FNSA
+   Title: New Privately-Owned Housing Units Started: Single-Family Units
+   Frequency: M
+   Popularity: 38
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+5. HOUST5F
+   Title: New Privately-Owned Housing Units Started: Units in Buildings with 5 Units or More
+   Frequency: M
+   Popularity: 55
+   Notes:
+   From January 1959 until July 1963, the 5 units or more category also includes 2 to 4 unit structures.
+
+--------------------------------------------------------------------------------
+
+6. HOUST5FNSA
+   Title: New Privately-Owned Housing Units Started: Units in Buildings with 5 Units or More
+   Frequency: M
+   Popularity: 15
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+7. HOUST2F
+   Title: New Privately-Owned Housing Units Started: Units in Buildings with 2-4 Units
+   Frequency: M
+   Popularity: 28
+   Notes:
+   Census discontinued SAAR 2-4 unit-structures because tests for identifiable and stable seasonality do not meet reliability standards for publication. It is calculated by Haver Analytics by subtracting 1-unit structures and 5-unit structures from total housing starts.
+
+Copyright, 2016, Haver Analytics. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+8. HOUST2FNSA
+   Title: New Privately-Owned Housing Units Started: Units in Buildings with 2-4 Units
+   Frequency: M
+   Popularity: 6
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+9. HOUSTS
+   Title: New Privately-Owned Housing Units Started: Total Units in the South Census Region
+   Frequency: M
+   Popularity: 25
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+10. HOUSTSNSA
+   Title: New Privately-Owned Housing Units Started: Total Units in the South Census Region
+   Frequency: M
+   Popularity: 6
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,118 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. GDPDEF
+   Title: Gross Domestic Product: Implicit Price Deflator
+   Frequency: Q
+   Popularity: 73
+   Notes:
+   BEA Account Code: A191RD
+
+The number of decimal places reported varies over time. A Guide to the National Income and Product Accounts of the United States (http://www.bea.gov/national/pdf/nipaguid.pdf) (NIPA).
+
+--------------------------------------------------------------------------------
+
+2. A191RI1Q225SBEA
+   Title: Gross Domestic Product: Implicit Price Deflator
+   Frequency: Q
+   Popularity: 58
+   Notes:
+   BEA Account Code: A191RI
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+3. A191RI1A225NBEA
+   Title: Gross Domestic Product: Implicit Price Deflator
+   Frequency: A
+   Popularity: 26
+   Notes:
+   BEA Account Code: A191RI
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+4. A191RD3A086NBEA
+   Title: Gross domestic product (implicit price deflator)
+   Frequency: A
+   Popularity: 51
+   Notes:
+   BEA Account Code: A191RD
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+5. USAGDPDEFQISMEI
+   Title: National Accounts: National Accounts Deflators: Gross Domestic Product: GDP Deflator for United States
+   Frequency: Q
+   Popularity: 33
+   Notes:
+   OECD Descriptor ID: NAGIGP01
+OECD unit ID: IDX
+OECD country ID: USA
+
+All OECD data should be cited as follows: OECD, "Main Economic Indicators - complete database", Main Economic Indicators (database), https://dx.doi.org/10.1787/data-00052-en (Accessed on date) Copyright, 2016, OECD. Reprinted with permission
+
+--------------------------------------------------------------------------------
+
+6. USAGDPDEFAISMEI
+   Title: National Accounts: National Accounts Deflators: Gross Domestic Product: GDP Deflator for United States
+   Frequency: A
+   Popularity: 27
+   Notes:
+   OECD Descriptor ID: NAGIGP01
+OECD unit ID: IDX
+OECD country ID: USA
+
+All OECD data should be cited as follows: OECD, "Main Economic Indicators - complete database", Main Economic Indicators (database), https://dx.doi.org/10.1787/data-00052-en (Accessed on date) Copyright, 2016, OECD. Reprinted with permission
+
+--------------------------------------------------------------------------------
+
+7. DPCERD3Q086SBEA
+   Title: Personal consumption expenditures (implicit price deflator)
+   Frequency: Q
+   Popularity: 45
+   Notes:
+   BEA Account Code: DPCERD
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+8. DPCERD3A086NBEA
+   Title: Personal consumption expenditures (implicit price deflator)
+   Frequency: A
+   Popularity: 11
+   Notes:
+   BEA Account Code: DPCERD
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+9. GNPDEF
+   Title: Gross National Product: Implicit Price Deflator
+   Frequency: Q
+   Popularity: 34
+   Notes:
+   BEA Account Code: A001RD
+
+The number of decimal places reported varies over time. A Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)
+
+--------------------------------------------------------------------------------
+
+10. A001RI1Q225SBEA
+   Title: Gross National Product: Implicit Price Deflator
+   Frequency: Q
+   Popularity: 18
+   Notes:
+   BEA Account Code: A001RI
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,126 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. CSUSHPINSA
+   Title: S&P CoreLogic Case-Shiller U.S. National Home Price Index
+   Frequency: M
+   Popularity: 86
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+2. CSUSHPISA
+   Title: S&P CoreLogic Case-Shiller U.S. National Home Price Index
+   Frequency: M
+   Popularity: 74
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+3. SPCS20RSA
+   Title: S&P CoreLogic Case-Shiller 20-City Composite Home Price Index
+   Frequency: M
+   Popularity: 62
+   Notes:
+   For more information regarding the index, please visit Standard and Poor's (https://us.spindices.com/index-family/sp-corelogic-case-shiller/sp-corelogic-case-shiller-composite).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of S&P Case-Shiller 20-City Home Price Index in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of S&P Case-Shiller 20-City Home Price Index.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details (http://us.spindices.com/contact-us/) are available, including phone numbers for all regional offices.
+
+--------------------------------------------------------------------------------
+
+4. SPCS20RNSA
+   Title: S&P CoreLogic Case-Shiller 20-City Composite Home Price Index
+   Frequency: M
+   Popularity: 27
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of S&P Case-Shiller 20-City Home Price Index in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of S&P Case-Shiller 20-City Home Price Index.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+5. SFXRSA
+   Title: S&P CoreLogic Case-Shiller CA-San Francisco Home Price Index
+   Frequency: M
+   Popularity: 60
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for San Francisco, California in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for San Francisco, California.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details (http://us.spindices.com/contact-us/) are available, including phone numbers for all regional offices.
+
+--------------------------------------------------------------------------------
+
+6. SFXRNSA
+   Title: S&P CoreLogic Case-Shiller CA-San Francisco Home Price Index
+   Frequency: M
+   Popularity: 16
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for San Francisco, California in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for San Francisco, California.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+7. LXXRSA
+   Title: S&P CoreLogic Case-Shiller CA-Los Angeles Home Price Index
+   Frequency: M
+   Popularity: 56
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Los Angeles, California in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Los Angeles, California.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+8. LXXRNSA
+   Title: S&P CoreLogic Case-Shiller CA-Los Angeles Home Price Index
+   Frequency: M
+   Popularity: 27
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Los Angeles, California in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Los Angeles, California.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+9. SDXRSA
+   Title: S&P CoreLogic Case-Shiller CA-San Diego Home Price Index
+   Frequency: M
+   Popularity: 53
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for San Diego, California in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for San Diego, California.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+10. NYXRSA
+   Title: S&P CoreLogic Case-Shiller NY-New York Home Price Index
+   Frequency: M
+   Popularity: 54
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for New York, New York in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for New York, New York.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+

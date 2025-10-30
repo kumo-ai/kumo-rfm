@@ -1,0 +1,53 @@
+FRED Series Query Results
+Total Series Found: 4
+================================================================================
+
+1. M1346BUSM156NNBR
+   Title: Dividend Yield of Common Stocks on the New York Stock Exchange, Composite Index for United States
+   Frequency: M
+   Popularity: 31
+   Notes:
+   Series Is Presented Here As Two Variables--(1)--Original Data, 1871-1938 (2)--Original Data, 1926-1969. The Index For 1926-February 1957 Is Based On Daily Quotations For Ninety Stocks; The Index For March 1957-1969 Is Based On Daily Quotations For Five Hundred Stocks. Source: Standard And Poor'S, Data For 1926-1963: Trade And Security Statistics: Security Price Index Record, 1964 Edition. Data For 1964-1969: Current Statistics, Monthly Issues.
+
+This NBER data series m13046b appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.
+
+NBER Indicator: m13046b
+
+--------------------------------------------------------------------------------
+
+2. M1346AUSM156NNBR
+   Title: Dividend Yield of Common Stocks on the New York Stock Exchange for United States
+   Frequency: M
+   Popularity: 16
+   Notes:
+   Series 13046 Is Presented Here As Two Variables--(1)--Original Data, 1871-1938 (2)--Original Data, 1926-1969. The Rates Represent Expected Annual Dividend Payments Divided By Total Stock Vallues For Each Month. The Stock Exchange Was Closed August-November Of 1914, Therefore Data Was Interpolated. Source: Alfred Cowles Iii And Associates, Commonstock Indexes, Second Edition, 1939.
+
+This NBER data series m13046a appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.
+
+NBER Indicator: m13046a
+
+--------------------------------------------------------------------------------
+
+3. M13048USM156NNBR
+   Title: Dividend Yield of Preferred Stock on the New York Stock Exchange for United States
+   Frequency: M
+   Popularity: 10
+   Notes:
+   Data For August-November 1914 Was Straight Line Interpolated Since The Exchange Was Closed. Source: Standard And Poor'S, Trade And Securities Statistics: Security Price Index Record, 1964; Current Statistics, March 1964.
+
+This NBER data series m13048 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.
+
+NBER Indicator: m13048
+
+--------------------------------------------------------------------------------
+
+4. NASDAQDWAMY
+   Title: Dorsey Wright Momentum Plus Dividend Yield Index
+   Frequency: D
+   Popularity: 3
+   Notes:
+   For more information about this series, see: DWAMY (https://indexes.nasdaq.com/Index/Overview/DWAMY)
+Copyright  2025, NASDAQ, Inc.
+
+--------------------------------------------------------------------------------
+

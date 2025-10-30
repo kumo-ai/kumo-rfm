@@ -1,0 +1,124 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. M2SL
+   Title: M2
+   Frequency: M
+   Popularity: 98
+   Notes:
+   announcements (https://www.federalreserve.gov/feeds/h6.html) and Technical Q&As (https://www.federalreserve.gov/releases/h6/h6_technical_qa.htm) posted on December 17, 2020.
+
+For questions on the data, please contact the data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h6/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+2. WM2NS
+   Title: M2
+   Frequency: W
+   Popularity: 88
+   Notes:
+   announcements (https://www.federalreserve.gov/feeds/h6.html) and Technical Q&As (https://www.federalreserve.gov/releases/h6/h6_technical_qa.htm) posted on December 17, 2020.
+
+For questions on the data, please contact the data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h6/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+3. M2NS
+   Title: M2
+   Frequency: M
+   Popularity: 64
+   Notes:
+   announcements (https://www.federalreserve.gov/feeds/h6.html) and Technical Q&As (https://www.federalreserve.gov/releases/h6/h6_technical_qa.htm) posted on December 17, 2020.
+
+For questions on the data, please contact the data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h6/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+4. M2V
+   Title: Velocity of M2 Money Stock
+   Frequency: Q
+   Popularity: 82
+   Notes:
+   Calculated as the ratio of quarterly nominal GDP (https://fred.stlouisfed.org/series/GDP) to the quarterly average of M2 money stock (https://fred.stlouisfed.org/series/M2SL).
+
+The velocity of money is the frequency at which one unit of currency is used to purchase domestically- produced goods and services within a given time period. In other words, it is the number of times one dollar is spent to buy goods and services per unit of time. If the velocity of money is increasing, then more transactions are occurring between individuals in an economy.
+The frequency of currency exchange can be used to determine the velocity of a given component of the money supply, providing some insight into whether consumers and businesses are saving or spending their money. There are several components of the money supply,: M1, M2, and MZM (M3 is no longer tracked by the Federal Reserve); these components are arranged on a spectrum of narrowest to broadest. Consider M1, the narrowest component. M1 is the money supply of currency in circulation (notes and coins, traveler's checks [non-bank issuers], demand deposits, and checkable deposits). A decreasing velocity of M1 might indicate fewer short- term consumption transactions are taking place. We can think of shorter- term transactions as consumption we might make on an everyday basis.
+
+Beginning May 2020, M2 consists of M1 plus (1) small-denomination time deposits (time deposits in amounts of less than $100,000) less IRA and Keogh balances at depository institutions; and (2) balances in retail MMFs less IRA and Keogh balances at MMFs. Seasonally adjusted M2 is constructed by summing savings deposits (before May 2020), small-denomination time deposits, and retail MMFs, each seasonally adjusted separately, and adding this result to seasonally adjusted M1. For more information on the H.6 release changes and the regulatory amendment that led to the creation of the other liquid deposits component and its inclusion in the M1 monetary aggregate, see the H.6 announcements (https://www.federalreserve.gov/feeds/h6.html) and Technical Q&As (https://www.federalreserve.gov/releases/h6/h6_technical_qa.htm) posted on December 17, 2020.
+
+
+MZM (money with zero maturity) is the broadest component and consists of the supply of financial assets redeemable at par on demand: notes and coins in circulation, traveler's checks (non-bank issuers), demand deposits, other checkable deposits, savings deposits, and all money market funds. The velocity of MZM helps determine how often financial assets are switching hands within the economy.
+
+--------------------------------------------------------------------------------
+
+5. M2REAL
+   Title: Real M2 Money Stock
+   Frequency: M
+   Popularity: 77
+   Notes:
+   This series deflates M2 money stock (https://fred.stlouisfed.org/series/M2SL) with CPI (https://fred.stlouisfed.org/series/CPIAUCSL).
+
+--------------------------------------------------------------------------------
+
+6. M2
+   Title: M2 (DISCONTINUED)
+   Frequency: W
+   Popularity: 60
+   Notes:
+   WM2NS (https://fred.stlouisfed.org/series/WM2NS), and the seasonally adjusted monthly series is M2SL (https://fred.stlouisfed.org/series/M2SL).
+
+Starting on February 23, 2021, the H.6 statistical release is now published at a monthly frequency and contains only monthly average data needed to construct the monetary aggregates. Weekly average, non-seasonally adjusted data will continue to be made available, while weekly average, seasonally adjusted data will no longer be provided. For further information about the changes to the H.6 statistical release, see the announcements (https://www.federalreserve.gov/feeds/h6.html) provided by the source.
+
+Before May 2020, M2 consists of M1 plus (1) savings deposits (including money market deposit accounts); (2) small-denomination time deposits (time deposits in amounts of less than $100,000) less individual retirement account (IRA) and Keogh balances at depository institutions; and (3) balances in retail money market funds (MMFs) less IRA and Keogh balances at MMFs.
+
+Beginning May 2020, M2 consists of M1 plus (1) small-denomination time deposits (time deposits in amounts of less than $100,000) less IRA and Keogh balances at depository institutions; and (2) balances in retail MMFs less IRA and Keogh balances at MMFs. Seasonally adjusted M2 is constructed by summing savings deposits (before May 2020), small-denomination time deposits, and retail MMFs, each seasonally adjusted separately, and adding this result to seasonally adjusted M1. For more information on the H.6 release changes and the regulatory amendment that led to the creation of the other liquid deposits component and its inclusion in the M1 monetary aggregate, see the H.6 announcements (https://www.federalreserve.gov/feeds/h6.html) and Technical Q&As (https://www.federalreserve.gov/releases/h6/h6_technical_qa.htm) posted on December 17, 2020.
+
+For questions on the data, please contact the data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h6/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+7. MYAGM2USM052S
+   Title: M2 for United States
+   Frequency: M
+   Popularity: 62
+   Notes:
+   M2 comprises M1 plus (1) savings deposits (including money market deposit accounts); (2) small-denomination time deposits (time deposits in amounts of less than $100,000), less IRA and Keogh balances at other depository corporations; and (3) balances in retail money market mutual funds, less IRA and Keogh balances at money market mutual funds. Seasonally adjusted M2 is constructed by summing savings deposits, small-denomination time deposits, and retail money funds, each seasonally adjusted separately, and adding this result to seasonally adjusted M1.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+8. MYAGM2USM052N
+   Title: M2 for United States
+   Frequency: M
+   Popularity: 13
+   Notes:
+   M2 comprises M1 plus (1) savings deposits (including money market deposit accounts); (2) small-denomination time deposits (time deposits in amounts of less than $100,000), less IRA and Keogh balances at other depository corporations; and (3) balances in retail money market mutual funds, less IRA and Keogh balances at money market mutual funds. Seasonally adjusted M2 is constructed by summing savings deposits, small-denomination time deposits, and retail money funds, each seasonally adjusted separately, and adding this result to seasonally adjusted M1.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+9. MYAGM2CNM189N
+   Title: M2 for China
+   Frequency: M
+   Popularity: 55
+   Notes:
+   M2 comprises M1 plus time and savings deposits in national currency of resident non-bank financial corporations and non-bank non-government sectors with the PBC and banking institutions.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+10. MYAGM2JPM189S
+   Title: M2 for Japan
+   Frequency: M
+   Popularity: 50
+   Notes:
+   M2 comprises notes and coins in circulation outside banking corporations; demand and savings deposits, fixed and installment savings deposits, time deposits, and certificates of deposit of households, nonfinancial corporations, local governments, securities companies, Tanshi companies, and some other financial corporations such as securities finance companies with banking corporations in national and foreign currency; and nonresident deposits with banking corporations in national currency. Beginning in April 2003, M2 comprises notes and coins in circulation outside depository corporations and demand and savings deposits, fixed and installment savings deposits, time deposits, and certificates of deposit of households, nonfinancial corporations, local governments, and some other financial corporations such as securities finance companies with banking corporations in national and foreign currency.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+

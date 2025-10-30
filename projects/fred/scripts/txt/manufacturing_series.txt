@@ -1,0 +1,101 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. MANEMP
+   Title: All Employees, Manufacturing
+   Frequency: M
+   Popularity: 77
+   Notes:
+   The series comes from the 'Current Employment Statistics (Establishment Survey).'
+
+The source code is: CES3000000001
+
+--------------------------------------------------------------------------------
+
+2. CEU3000000001
+   Title: All Employees, Manufacturing
+   Frequency: M
+   Popularity: 26
+   Notes:
+   The series comes from the 'Current Employment Statistics (Establishment Survey).'
+
+The source code is: CEU3000000001
+
+--------------------------------------------------------------------------------
+
+3. TLMFGCONS
+   Title: Total Construction Spending: Manufacturing in the United States
+   Frequency: M
+   Popularity: 70
+   Notes:
+   Definitions related to the construction data can be found at https://www.census.gov/construction/c30/definitions.html
+Methodology details can be found at https://www.census.gov/construction/c30/methodology.html
+
+--------------------------------------------------------------------------------
+
+4. PCUOMFGOMFG
+   Title: Producer Price Index by Industry: Total Manufacturing Industries
+   Frequency: M
+   Popularity: 70
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+5. TLMFGCON
+   Title: Total Construction Spending: Manufacturing in the United States
+   Frequency: M
+   Popularity: 41
+   Notes:
+   Definitions related to the construction data can be found at https://www.census.gov/construction/c30/definitions.html
+Methodology details can be found at https://www.census.gov/construction/c30/methodology.html
+
+--------------------------------------------------------------------------------
+
+6. PCU325211325211
+   Title: Producer Price Index by Industry: Plastics Material and Resin Manufacturing
+   Frequency: M
+   Popularity: 69
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+7. MPCT20IXS
+   Title: Total Construction Spending: Manufacturing in the United States
+   Frequency: M
+   Popularity: 13
+   Notes:
+   Definitions related to the construction data can be found at https://www.census.gov/construction/c30/definitions.html
+Methodology details can be found at https://www.census.gov/construction/c30/methodology.html
+
+--------------------------------------------------------------------------------
+
+8. DGORDER
+   Title: Manufacturers' New Orders: Durable Goods
+   Frequency: M
+   Popularity: 65
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+9. AMTMNO
+   Title: Manufacturers' New Orders: Total Manufacturing
+   Frequency: M
+   Popularity: 58
+   Notes:
+   Data on New Orders for the Semiconductor Industry are not available.
+
+--------------------------------------------------------------------------------
+
+10. IPMAN
+   Title: Industrial Production: Manufacturing (NAICS)
+   Frequency: M
+   Popularity: 66
+   Notes:
+   explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the  announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors.</p>
+
+--------------------------------------------------------------------------------
+

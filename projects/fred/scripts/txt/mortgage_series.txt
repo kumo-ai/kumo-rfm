@@ -1,0 +1,116 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. MORTGAGE30US
+   Title: 30-Year Fixed Rate Mortgage Average in the United States
+   Frequency: W
+   Popularity: 100
+   Notes:
+   On November 17, 2022, Freddie Mac changed the methodology of the Primary Mortgage Market Survey (PMMS). The weekly mortgage rate is now based on applications submitted to Freddie Mac from lenders across the country. For more information regarding Freddie Mac’s enhancement, see their research note (https://www.freddiemac.com/research/insight/20221103-freddie-macs-newly-enhanced-mortgage-rate-survey).
+
+Data are provided “as is” by Freddie Mac, with no warranties of any kind, express or implied, including but not limited to warranties of accuracy or implied warranties of merchantability or fitness for a particular purpose. Use of the data is at the user’s sole risk. In no event will Freddie Mac be liable for any damages arising out of or related to the data, including but not limited to direct, indirect, incidental, special, consequential, or punitive damages, whether under a contract, tort, or any other theory of liability, even if Freddie Mac is aware of the possibility of such damages.
+
+Copyright, 2016, Freddie Mac. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+2. MORTGAGE15US
+   Title: 15-Year Fixed Rate Mortgage Average in the United States
+   Frequency: W
+   Popularity: 80
+   Notes:
+   On November 17, 2022, Freddie Mac changed the methodology of the Primary Mortgage Market Survey (PMMS). The weekly mortgage rate is now based on applications submitted to Freddie Mac from lenders across the country. For more information regarding Freddie Mac’s enhancement, see their research note (https://www.freddiemac.com/research/insight/20221103-freddie-macs-newly-enhanced-mortgage-rate-survey).
+
+Data are provided “as is” by Freddie Mac, with no warranties of any kind, express or implied, including but not limited to warranties of accuracy or implied warranties of merchantability or fitness for a particular purpose. Use of the data is at the user’s sole risk. In no event will Freddie Mac be liable for any damages arising out of or related to the data, including but not limited to direct, indirect, incidental, special, consequential, or punitive damages, whether under a contract, tort, or any other theory of liability, even if Freddie Mac is aware of the possibility of such damages.
+
+Copyright, 2016, Freddie Mac. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+3. DRSFRMACBS
+   Title: Delinquency Rate on Single-Family Residential Mortgages, Booked in Domestic Offices, All Commercial Banks
+   Frequency: Q
+   Popularity: 81
+   Notes:
+   data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/chargeoff/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+4. DRSFRMACBN
+   Title: Delinquency Rate on Single-Family Residential Mortgages, Booked in Domestic Offices, All Commercial Banks
+   Frequency: Q
+   Popularity: 40
+   Notes:
+   data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/chargeoff/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+5. OBMMIVA30YF
+   Title: 30-Year Fixed Rate Veterans Affairs Mortgage Index
+   Frequency: D
+   Popularity: 71
+   Notes:
+   This index includes rate locks from U.S. Department of Veterans Affairs loans.
+
+Optimal Blue Mortgage Market Indices (https://www2.optimalblue.com/obmmi/) (OBMMI) is calculated from actual locked rates with consumers across over one-third of all mortgage transactions nationwide. OBMMI includes multiple mortgage pricing indices developed around the most popular products and specific borrower and loan level attributes.
+
+Each index is calculated as the average of all appropriate rate locks locked through the Optimal Blue product eligibility and pricing engine on a given day. More details about methodology and definitions are available here (https://www2.optimalblue.com/obmmi/).
+
+--------------------------------------------------------------------------------
+
+6. WSHOMCB
+   Title: Assets: Securities Held Outright: Mortgage-Backed Securities: Wednesday Level
+   Frequency: W
+   Popularity: 70
+   Notes:
+   The current face value of mortgage-backed obligations held by Federal Reserve Banks. These securities are guaranteed by Fannie Mae, Freddie Mac, or Ginnie Mae.
+
+--------------------------------------------------------------------------------
+
+7. OBMMIJUMBO30YF
+   Title: 30-Year Fixed Rate Jumbo Mortgage Index
+   Frequency: D
+   Popularity: 67
+   Notes:
+   Optimal Blue Mortgage Market Indices (https://www2.optimalblue.com/obmmi/) (OBMMI) is calculated from actual locked rates with consumers across over one-third of all mortgage transactions nationwide. OBMMI includes multiple mortgage pricing indices developed around the most popular products and specific borrower and loan level attributes.
+
+Each index is calculated as the average of all appropriate rate locks locked through the Optimal Blue product eligibility and pricing engine on a given day. More details about methodology and definitions are available here (https://www2.optimalblue.com/obmmi/).
+
+--------------------------------------------------------------------------------
+
+8. OBMMIFHA30YF
+   Title: 30-Year Fixed Rate FHA Mortgage Index
+   Frequency: D
+   Popularity: 65
+   Notes:
+   This index includes rate locks from Federal Housing Authority loans.
+
+Optimal Blue Mortgage Market Indices (https://www2.optimalblue.com/obmmi/) (OBMMI) is calculated from actual locked rates with consumers across over one-third of all mortgage transactions nationwide. OBMMI includes multiple mortgage pricing indices developed around the most popular products and specific borrower and loan level attributes.
+
+Each index is calculated as the average of all appropriate rate locks locked through the Optimal Blue product eligibility and pricing engine on a given day. More details about methodology and definitions are available here (https://www2.optimalblue.com/obmmi/).
+
+--------------------------------------------------------------------------------
+
+9. MDSP
+   Title: Mortgage Debt Service Payments as a Percent of Disposable Personal Income
+   Frequency: Q
+   Popularity: 61
+   Notes:
+   Household Debt Service Ratio (DSR) (https://fred.stlouisfed.org/series/TDSP) is the ratio of total required household debt payments to total disposable income.
+
+The DSR is divided into two parts. The Mortgage DSR (MDSP) (https://fred.stlouisfed.org/series/MDSP) is total quarterly required mortgage payments divided by total quarterly disposable personal income. The Consumer DSR (CDSP) (https://fred.stlouisfed.org/series/CDSP) is total quarterly scheduled consumer debt payments divided by total quarterly disposable personal income. The Mortgage DSR and the Consumer DSR sum to the DSR.
+
+For questions on the data, please contact the data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/housedebt/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+10. TMBACBW027SBOG
+   Title: Treasury and Agency Securities: Mortgage-Backed Securities (MBS), All Commercial Banks
+   Frequency: W
+   Popularity: 56
+   Notes:
+   data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h8/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+

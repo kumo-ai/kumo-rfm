@@ -1,0 +1,197 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. T10Y2Y
+   Title: 10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity
+   Frequency: D
+   Popularity: 100
+   Notes:
+   Starting with the update on June 21, 2019, the Treasury bond data used in calculating interest rate spreads is obtained directly from the U.S. Treasury Department (https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield).
+Series is calculated as the spread between 10-Year Treasury Constant Maturity (BC_10YEAR) and 2-Year Treasury Constant Maturity (BC_2YEAR). Both underlying series are published at the U.S. Treasury Department (https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield).
+
+--------------------------------------------------------------------------------
+
+2. MORTGAGE30US
+   Title: 30-Year Fixed Rate Mortgage Average in the United States
+   Frequency: W
+   Popularity: 100
+   Notes:
+   On November 17, 2022, Freddie Mac changed the methodology of the Primary Mortgage Market Survey (PMMS). The weekly mortgage rate is now based on applications submitted to Freddie Mac from lenders across the country. For more information regarding Freddie Mac’s enhancement, see their research note (https://www.freddiemac.com/research/insight/20221103-freddie-macs-newly-enhanced-mortgage-rate-survey).
+
+Data are provided “as is” by Freddie Mac, with no warranties of any kind, express or implied, including but not limited to warranties of accuracy or implied warranties of merchantability or fitness for a particular purpose. Use of the data is at the user’s sole risk. In no event will Freddie Mac be liable for any damages arising out of or related to the data, including but not limited to direct, indirect, incidental, special, consequential, or punitive damages, whether under a contract, tort, or any other theory of liability, even if Freddie Mac is aware of the possibility of such damages.
+
+Copyright, 2016, Freddie Mac. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+3. FEDFUNDS
+   Title: Federal Funds Effective Rate
+   Frequency: M
+   Popularity: 99
+   Notes:
+    Daily Federal Funds Rate from 1928-1954 (https://fred.stlouisfed.org/categories/33951).
+
+The federal funds rate is the interest rate at which depository institutions trade federal funds (balances held at Federal Reserve Banks) with each other overnight. When a depository institution has surplus balances in its reserve account, it lends to other banks in need of larger balances. In simpler terms, a bank with excess cash, which is often referred to as liquidity, will lend to another bank that needs to quickly raise liquidity. (1) The rate that the borrowing institution pays to the lending institution is determined between the two banks; the weighted average rate for all of these types of negotiations is called the effective federal funds rate.(2) The effective federal funds rate is essentially determined by the market but is influenced by the Federal Reserve as it uses the Interest on Reserve Balances rate to steer the federal funds rate toward the target range.(2)
+
+The Federal Open Market Committee (FOMC) meets eight times a year to determine the federal funds target range. The Fed's primary tool for influencing the federal funds rate is the interest the Fed pays on the funds that banks hold as reserve balances at their Federal Reserve Bank, which is the Interest on Reserves Balances (IORB) rate. Because banks are unlikely to lend funds in the federal funds market for less than they get paid in their reserve balance account at the Federal Reserve, the Interest on Reserve Balances (IORB) is an effective tool for guiding the federal funds rate. (3) Whether the Federal Reserve raises or lowers the target range for the federal funds rate depends on the state of the economy. If the FOMC believes the economy is growing too fast and inflation pressures are inconsistent with the dual mandate of the Federal Reserve, the Committee may temper economic activity by raising the target range for federal funds rate, and increasing the IORB rate to steer the federal funds rate into the target range. In the opposing scenario, the FOMC may spur greater economic activity by lowering the target range for federal funds rate, and decreasing the IORB rate to steer the federal funds rate into the target range. (3) Therefore, the FOMC must observe the current state of the economy to determine the best course of monetary policy that will maximize economic growth while adhering to the dual mandate set forth by Congress. In making its monetary policy decisions, the FOMC considers a wealth of economic data, such as: trends in prices and wages, employment, consumer spending and income, business investments, and foreign exchange markets.
+
+The federal funds rate is the central interest rate in the U.S. financial market. It influences other interest rates such as the prime rate, which is the rate banks charge their customers with higher credit ratings. Additionally, the federal funds rate indirectly influences longer- term interest rates such as mortgages, loans, and savings, all of which are very important to consumer wealth and confidence.(2)
+
+References
+(1) Federal Reserve Bank of New York. "Federal funds." Fedpoints, August 2007.
+(2) Monetary Policy (https://www.federalreserve.gov/monetarypolicy.htm), Board of Governors of the Federal Reserve System.
+(3) The Fed Explained (https://www.federalreserve.gov/aboutthefed/files/the-fed-explained.pdf), Board of Governors of the Federal Reserve System
+
+For further information, see The Fed's New Monetary Policy Tools (https://www.stlouisfed.org/publications/page-one-economics/2020/08/03/the-feds-new-monetary-policy-tools), Page One Economics, Federal Reserve Bank of St. Louis. 
+
+For questions on the data, please contact the data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h15/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+4. DFF
+   Title: Federal Funds Effective Rate
+   Frequency: D
+   Popularity: 88
+   Notes:
+    Daily Federal Funds Rate from 1928-1954 (https://fred.stlouisfed.org/categories/33951).
+
+The federal funds rate is the interest rate at which depository institutions trade federal funds (balances held at Federal Reserve Banks) with each other overnight. When a depository institution has surplus balances in its reserve account, it lends to other banks in need of larger balances. In simpler terms, a bank with excess cash, which is often referred to as liquidity, will lend to another bank that needs to quickly raise liquidity. (1) The rate that the borrowing institution pays to the lending institution is determined between the two banks; the weighted average rate for all of these types of negotiations is called the effective federal funds rate.(2) The effective federal funds rate is essentially determined by the market but is influenced by the Federal Reserve as it uses the Interest on Reserve Balances rate to steer the federal funds rate toward the target range.(2)
+
+The Federal Open Market Committee (FOMC) meets eight times a year to determine the federal funds target range. The Fed's primary tool for influencing the federal funds rate is the interest the Fed pays on the funds that banks hold as reserve balances at their Federal Reserve Bank, which is the Interest on Reserves Balances (IORB) rate. Because banks are unlikely to lend funds in the federal funds market for less than they get paid in their reserve balance account at the Federal Reserve, the Interest on Reserve Balances (IORB) is an effective tool for guiding the federal funds rate. (3) Whether the Federal Reserve raises or lowers the target range for the federal funds rate depends on the state of the economy. If the FOMC believes the economy is growing too fast and inflation pressures are inconsistent with the dual mandate of the Federal Reserve, the Committee may temper economic activity by raising the target range for federal funds rate, and increasing the IORB rate to steer the federal funds rate into the target range. In the opposing scenario, the FOMC may spur greater economic activity by lowering the target range for federal funds rate, and decreasing the IORB rate to steer the federal funds rate into the target range. (3) Therefore, the FOMC must observe the current state of the economy to determine the best course of monetary policy that will maximize economic growth while adhering to the dual mandate set forth by Congress. In making its monetary policy decisions, the FOMC considers a wealth of economic data, such as: trends in prices and wages, employment, consumer spending and income, business investments, and foreign exchange markets.
+
+The federal funds rate is the central interest rate in the U.S. financial market. It influences other interest rates such as the prime rate, which is the rate banks charge their customers with higher credit ratings. Additionally, the federal funds rate indirectly influences longer- term interest rates such as mortgages, loans, and savings, all of which are very important to consumer wealth and confidence.(2)
+
+References
+(1) Federal Reserve Bank of New York. "Federal funds." Fedpoints, August 2007.
+(2) Monetary Policy (https://www.federalreserve.gov/monetarypolicy.htm), Board of Governors of the Federal Reserve System.
+(3) The Fed Explained (https://www.federalreserve.gov/aboutthefed/files/the-fed-explained.pdf), Board of Governors of the Federal Reserve System
+
+For further information, see The Fed's New Monetary Policy Tools (https://www.stlouisfed.org/publications/page-one-economics/2020/08/03/the-feds-new-monetary-policy-tools), Page One Economics, Federal Reserve Bank of St. Louis. 
+
+For questions on the data, please contact the data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h15/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+5. FF
+   Title: Federal Funds Effective Rate
+   Frequency: W
+   Popularity: 62
+   Notes:
+    Daily Federal Funds Rate from 1928-1954 (https://fred.stlouisfed.org/categories/33951).
+
+The federal funds rate is the interest rate at which depository institutions trade federal funds (balances held at Federal Reserve Banks) with each other overnight. When a depository institution has surplus balances in its reserve account, it lends to other banks in need of larger balances. In simpler terms, a bank with excess cash, which is often referred to as liquidity, will lend to another bank that needs to quickly raise liquidity. (1) The rate that the borrowing institution pays to the lending institution is determined between the two banks; the weighted average rate for all of these types of negotiations is called the effective federal funds rate.(2) The effective federal funds rate is essentially determined by the market but is influenced by the Federal Reserve as it uses the Interest on Reserve Balances rate to steer the federal funds rate toward the target range.(2)
+
+The Federal Open Market Committee (FOMC) meets eight times a year to determine the federal funds target range. The Fed's primary tool for influencing the federal funds rate is the interest the Fed pays on the funds that banks hold as reserve balances at their Federal Reserve Bank, which is the Interest on Reserves Balances (IORB) rate. Because banks are unlikely to lend funds in the federal funds market for less than they get paid in their reserve balance account at the Federal Reserve, the Interest on Reserve Balances (IORB) is an effective tool for guiding the federal funds rate. (3) Whether the Federal Reserve raises or lowers the target range for the federal funds rate depends on the state of the economy. If the FOMC believes the economy is growing too fast and inflation pressures are inconsistent with the dual mandate of the Federal Reserve, the Committee may temper economic activity by raising the target range for federal funds rate, and increasing the IORB rate to steer the federal funds rate into the target range. In the opposing scenario, the FOMC may spur greater economic activity by lowering the target range for federal funds rate, and decreasing the IORB rate to steer the federal funds rate into the target range. (3) Therefore, the FOMC must observe the current state of the economy to determine the best course of monetary policy that will maximize economic growth while adhering to the dual mandate set forth by Congress. In making its monetary policy decisions, the FOMC considers a wealth of economic data, such as: trends in prices and wages, employment, consumer spending and income, business investments, and foreign exchange markets.
+
+The federal funds rate is the central interest rate in the U.S. financial market. It influences other interest rates such as the prime rate, which is the rate banks charge their customers with higher credit ratings. Additionally, the federal funds rate indirectly influences longer- term interest rates such as mortgages, loans, and savings, all of which are very important to consumer wealth and confidence.(2)
+
+References
+(1) Federal Reserve Bank of New York. "Federal funds." Fedpoints, August 2007.
+(2) Monetary Policy (https://www.federalreserve.gov/monetarypolicy.htm), Board of Governors of the Federal Reserve System.
+(3) The Fed Explained (https://www.federalreserve.gov/aboutthefed/files/the-fed-explained.pdf), Board of Governors of the Federal Reserve System
+
+For further information, see The Fed's New Monetary Policy Tools (https://www.stlouisfed.org/publications/page-one-economics/2020/08/03/the-feds-new-monetary-policy-tools), Page One Economics, Federal Reserve Bank of St. Louis. 
+
+For questions on the data, please contact the data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h15/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+6. RIFSPFFNB
+   Title: Federal Funds Effective Rate
+   Frequency: D
+   Popularity: 60
+   Notes:
+    Daily Federal Funds Rate from 1928-1954 (https://fred.stlouisfed.org/categories/33951).
+
+The federal funds rate is the interest rate at which depository institutions trade federal funds (balances held at Federal Reserve Banks) with each other overnight. When a depository institution has surplus balances in its reserve account, it lends to other banks in need of larger balances. In simpler terms, a bank with excess cash, which is often referred to as liquidity, will lend to another bank that needs to quickly raise liquidity. (1) The rate that the borrowing institution pays to the lending institution is determined between the two banks; the weighted average rate for all of these types of negotiations is called the effective federal funds rate.(2) The effective federal funds rate is essentially determined by the market but is influenced by the Federal Reserve as it uses the Interest on Reserve Balances rate to steer the federal funds rate toward the target range.(2)
+
+The Federal Open Market Committee (FOMC) meets eight times a year to determine the federal funds target range. The Fed's primary tool for influencing the federal funds rate is the interest the Fed pays on the funds that banks hold as reserve balances at their Federal Reserve Bank, which is the Interest on Reserves Balances (IORB) rate. Because banks are unlikely to lend funds in the federal funds market for less than they get paid in their reserve balance account at the Federal Reserve, the Interest on Reserve Balances (IORB) is an effective tool for guiding the federal funds rate. (3) Whether the Federal Reserve raises or lowers the target range for the federal funds rate depends on the state of the economy. If the FOMC believes the economy is growing too fast and inflation pressures are inconsistent with the dual mandate of the Federal Reserve, the Committee may temper economic activity by raising the target range for federal funds rate, and increasing the IORB rate to steer the federal funds rate into the target range. In the opposing scenario, the FOMC may spur greater economic activity by lowering the target range for federal funds rate, and decreasing the IORB rate to steer the federal funds rate into the target range. (3) Therefore, the FOMC must observe the current state of the economy to determine the best course of monetary policy that will maximize economic growth while adhering to the dual mandate set forth by Congress. In making its monetary policy decisions, the FOMC considers a wealth of economic data, such as: trends in prices and wages, employment, consumer spending and income, business investments, and foreign exchange markets.
+
+The federal funds rate is the central interest rate in the U.S. financial market. It influences other interest rates such as the prime rate, which is the rate banks charge their customers with higher credit ratings. Additionally, the federal funds rate indirectly influences longer- term interest rates such as mortgages, loans, and savings, all of which are very important to consumer wealth and confidence.(2)
+
+References
+(1) Federal Reserve Bank of New York. "Federal funds." Fedpoints, August 2007.
+(2) Monetary Policy (https://www.federalreserve.gov/monetarypolicy.htm), Board of Governors of the Federal Reserve System.
+(3) The Fed Explained (https://www.federalreserve.gov/aboutthefed/files/the-fed-explained.pdf), Board of Governors of the Federal Reserve System
+
+For further information, see The Fed's New Monetary Policy Tools (https://www.stlouisfed.org/publications/page-one-economics/2020/08/03/the-feds-new-monetary-policy-tools), Page One Economics, Federal Reserve Bank of St. Louis. 
+
+For questions on the data, please contact the data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h15/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+7. BAMLH0A0HYM2
+   Title: ICE BofA US High Yield Index Option-Adjusted Spread
+   Frequency: D
+   Popularity: 98
+   Notes:
+   The ICE BofA Option-Adjusted Spreads (OASs) are the calculated spreads between a computed OAS index of all bonds in a given rating category and a spot Treasury curve. An OAS index is constructed using each constituent bond's OAS, weighted by market capitalization. The ICE BofA High Yield Master II OAS uses an index of bonds that are below investment grade (those rated BB or below).
+This data represents the ICE BofA US High Yield Index value, which tracks the performance of US dollar denominated below investment grade rated corporate debt publicly issued in the US domestic market. To qualify for inclusion in the index, securities must have a below investment grade rating (based on an average of Moody's, S&P, and Fitch) and an investment grade rated country of risk (based on an average of Moody's, S&P, and Fitch foreign currency long term sovereign debt ratings). Each security must have greater than 1 year of remaining maturity, a fixed coupon schedule, and a minimum amount outstanding of $100 million. Original issue zero coupon bonds, "global" securities (debt issued simultaneously in the eurobond and US domestic bond markets), 144a securities and pay-in-kind securities, including toggle notes, qualify for inclusion in the Index. Callable perpetual securities qualify provided they are at least one year from the first call date. Fixed-to-floating rate securities also qualify provided they are callable within the fixed rate period and are at least one year from the last call prior to the date the bond transitions from a fixed to a floating rate security. DRD-eligible and defaulted securities are excluded from the Index.
+
+ICE BofA Explains the Construction Methodology of this series as:
+Index constituents are capitalization-weighted based on their current amount outstanding. With the exception of U.S. mortgage pass-throughs and U.S. structured products (ABS, CMBS and CMOs), accrued interest is calculated assuming next-day settlement. Accrued interest for U.S. mortgage pass-through and U.S. structured products is calculated assuming same-day settlement. Cash flows from bond payments that are received during the month are retained in the index until the end of the month and then are removed as part of the rebalancing. Cash does not earn any reinvestment income while it is held in the Index. The Index is rebalanced on the last calendar day of the month, based on information available up to and including the third business day before the last business day of the month. Issues that meet the qualifying criteria are included in the Index for the following month. Issues that no longer meet the criteria during the course of the month remain in the Index until the next month-end rebalancing at which point they are removed from the Index.
+
+When the last calendar day of the month takes place on the weekend, weekend observations will occur as a result of month ending accrued interest adjustments.
+
+Certain indices and index data included in FRED are the property of ICE Data Indices, LLC (“ICE DATA”) and used under license. ICE IS A REGISTERED TRADEMARK OF ICE DATA OR ITS AFFILIATES AND BOFA IS A REGISTERED TRADEMARK OF BANK OF AMERICA CORPORATION LICENSED BY BANK OF AMERICA CORPORATION AND ITS AFFILIATES (“BOFA”) AND MAY NOT BE USED WITHOUT BOFA’S PRIOR WRITTEN APPROVAL. ICE DATA, ITS AFFILIATES AND THEIR RESPECTIVE THIRD PARTY SUPPLIERS DISCLAIM ANY AND ALL WARRANTIES AND REPRESENTATIONS, EXPRESS AND/OR IMPLIED, INCLUDING ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, INCLUDING WITH REGARD TO THE INDICES, INDEX DATA AND ANY DATA INCLUDED IN, RELATED TO, OR DERIVED THEREFROM. NEITHER ICE DATA, NOR ITS AFFILIATES OR THEIR RESPECTIVE THIRD PARTY PROVIDERS SHALL BE SUBJECT TO ANY DAMAGES OR LIABILITY WITH RESPECT TO THE ADEQUACY, ACCURACY, TIMELINESS OR COMPLETENESS OF THE INDICES OR THE INDEX DATA OR ANY COMPONENT THEREOF. THE INDICES AND INDEX DATA AND ALL COMPONENTS THEREOF ARE PROVIDED ON AN “AS IS” BASIS AND YOUR USE IS AT YOUR OWN RISK. ICE DATA, ITS AFFILIATES AND THEIR RESPECTIVE THIRD PARTY SUPPLIERS DO NOT SPONSOR, ENDORSE, OR RECOMMEND FRED, OR ANY OF ITS PRODUCTS OR SERVICES.
+
+Copyright, 2023, ICE Data Indices. Reproduction of this data in any form is prohibited except with the prior written permission of ICE Data Indices.
+
+The end of day Index values, Index returns, and Index statistics (“Top Level Data”) are being provided for your internal use only and you are not authorized or permitted to publish, distribute or otherwise furnish Top Level Data to any third-party without prior written approval of ICE Data.
+Neither ICE Data, its affiliates nor any of its third party suppliers shall have any liability for the accuracy or completeness of the Top Level Data furnished through FRED, or for delays, interruptions or omissions therein nor for any lost profits, direct, indirect, special or consequential damages.
+The Top Level Data is not investment advice and a reference to a particular investment or security, a credit rating or any observation concerning a security or investment provided in the Top Level Data is not a recommendation to buy, sell or hold such investment or security or make any other investment decisions.
+You shall not use any Indices as a reference index for the purpose of creating financial products (including but not limited to any exchange-traded fund or other passive index-tracking fund, or any other financial instrument whose objective or return is linked in any way to any Index) without prior written approval of ICE Data.
+ICE Data, their affiliates or their third party suppliers have exclusive proprietary rights in the Top Level Data and any information and software received in connection therewith.
+You shall not use or permit anyone to use the Top Level Data for any unlawful or unauthorized purpose.
+Access to the Top Level Data is subject to termination in the event that any agreement between FRED and ICE Data terminates for any reason.
+ICE Data may enforce its rights against you as the third-party beneficiary of the FRED Services Terms of Use, even though ICE Data is not a party to the FRED Services Terms of Use.
+The FRED Services Terms of Use, including but limited to the limitation of liability, indemnity and disclaimer provisions, shall extend to third party suppliers.
+
+--------------------------------------------------------------------------------
+
+8. DGS10
+   Title: Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis
+   Frequency: D
+   Popularity: 98
+   Notes:
+   H.15 Statistical Release (https://www.federalreserve.gov/releases/h15/current/h15.pdf) notes and Treasury Yield Curve Methodology (https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/yieldmethod.aspx).
+
+For questions on the data, please contact the data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h15/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+9. T10Y2YM
+   Title: 10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity
+   Frequency: M
+   Popularity: 58
+   Notes:
+   Series is calculated as the spread between 10-Year Treasury Constant Maturity (BC_10YEARM) and 2-Year Treasury Constant Maturity (BC_2YEARM).
+Starting with the update on June 21, 2019, the Treasury bond data used in calculating interest rate spreads is obtained directly from the U.S. Treasury Department (https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield).
+
+--------------------------------------------------------------------------------
+
+10. RIFSPFFNA
+   Title: Federal Funds Effective Rate
+   Frequency: A
+   Popularity: 47
+   Notes:
+    Daily Federal Funds Rate from 1928-1954 (https://fred.stlouisfed.org/categories/33951).
+
+The federal funds rate is the interest rate at which depository institutions trade federal funds (balances held at Federal Reserve Banks) with each other overnight. When a depository institution has surplus balances in its reserve account, it lends to other banks in need of larger balances. In simpler terms, a bank with excess cash, which is often referred to as liquidity, will lend to another bank that needs to quickly raise liquidity. (1) The rate that the borrowing institution pays to the lending institution is determined between the two banks; the weighted average rate for all of these types of negotiations is called the effective federal funds rate.(2) The effective federal funds rate is essentially determined by the market but is influenced by the Federal Reserve as it uses the Interest on Reserve Balances rate to steer the federal funds rate toward the target range.(2)
+
+The Federal Open Market Committee (FOMC) meets eight times a year to determine the federal funds target range. The Fed's primary tool for influencing the federal funds rate is the interest the Fed pays on the funds that banks hold as reserve balances at their Federal Reserve Bank, which is the Interest on Reserves Balances (IORB) rate. Because banks are unlikely to lend funds in the federal funds market for less than they get paid in their reserve balance account at the Federal Reserve, the Interest on Reserve Balances (IORB) is an effective tool for guiding the federal funds rate. (3) Whether the Federal Reserve raises or lowers the target range for the federal funds rate depends on the state of the economy. If the FOMC believes the economy is growing too fast and inflation pressures are inconsistent with the dual mandate of the Federal Reserve, the Committee may temper economic activity by raising the target range for federal funds rate, and increasing the IORB rate to steer the federal funds rate into the target range. In the opposing scenario, the FOMC may spur greater economic activity by lowering the target range for federal funds rate, and decreasing the IORB rate to steer the federal funds rate into the target range. (3) Therefore, the FOMC must observe the current state of the economy to determine the best course of monetary policy that will maximize economic growth while adhering to the dual mandate set forth by Congress. In making its monetary policy decisions, the FOMC considers a wealth of economic data, such as: trends in prices and wages, employment, consumer spending and income, business investments, and foreign exchange markets.
+
+The federal funds rate is the central interest rate in the U.S. financial market. It influences other interest rates such as the prime rate, which is the rate banks charge their customers with higher credit ratings. Additionally, the federal funds rate indirectly influences longer- term interest rates such as mortgages, loans, and savings, all of which are very important to consumer wealth and confidence.(2)
+
+References
+(1) Federal Reserve Bank of New York. "Federal funds." Fedpoints, August 2007.
+(2) Monetary Policy (https://www.federalreserve.gov/monetarypolicy.htm), Board of Governors of the Federal Reserve System.
+(3) The Fed Explained (https://www.federalreserve.gov/aboutthefed/files/the-fed-explained.pdf), Board of Governors of the Federal Reserve System
+
+For further information, see The Fed's New Monetary Policy Tools (https://www.stlouisfed.org/publications/page-one-economics/2020/08/03/the-feds-new-monetary-policy-tools), Page One Economics, Federal Reserve Bank of St. Louis. 
+
+For questions on the data, please contact the data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h15/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+

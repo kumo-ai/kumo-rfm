@@ -1,0 +1,96 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. VIXCLS
+   Title: CBOE Volatility Index: VIX
+   Frequency: D
+   Popularity: 84
+   Notes:
+   VIX measures market expectation of near term volatility conveyed by stock index option prices. Copyright, 2016, Chicago Board Options Exchange, Inc. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+2. GVZCLS
+   Title: CBOE Gold ETF Volatility Index
+   Frequency: D
+   Popularity: 69
+   Notes:
+   Exchange Traded Funds (ETFs) are shares of trusts that hold portfolios of stocks designed to closely track the price performance and yield of specific indices. Copyright, 2016, Chicago Board Options Exchange, Inc. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+3. VXVCLS
+   Title: CBOE S&P 500 3-Month Volatility Index
+   Frequency: D
+   Popularity: 60
+   Notes:
+   Copyright, 2016, Chicago Board Options Exchange, Inc. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+4. OVXCLS
+   Title: CBOE Crude Oil ETF Volatility Index
+   Frequency: D
+   Popularity: 53
+   Notes:
+   Exchange Traded Funds (ETFs) are shares of trusts that hold portfolios of stocks designed to closely track the price performance and yield of specific indices. Copyright, 2016, Chicago Board Options Exchange, Inc. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+5. VXNCLS
+   Title: CBOE NASDAQ 100 Volatility Index
+   Frequency: D
+   Popularity: 50
+   Notes:
+   Copyright, 2016, Chicago Board Options Exchange, Inc. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+6. RVXCLS
+   Title: CBOE Russell 2000 Volatility Index
+   Frequency: D
+   Popularity: 43
+   Notes:
+   Copyright, 2016, Chicago Board Options Exchange, Inc. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+7. EMVOVERALLEMV
+   Title: Equity Market Volatility Tracker: Overall
+   Frequency: M
+   Popularity: 48
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+8. VXEEMCLS
+   Title: CBOE Emerging Markets ETF Volatility Index
+   Frequency: D
+   Popularity: 36
+   Notes:
+   Exchange Traded Funds (ETFs) are shares of trusts that hold portfolios of stocks designed to closely track the price performance and yield of specific indices. Copyright, 2016, Chicago Board Options Exchange, Inc. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+9. VXDCLS
+   Title: CBOE DJIA Volatility Index
+   Frequency: D
+   Popularity: 35
+   Notes:
+   Copyright, 2016, Chicago Board Options Exchange, Inc. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+10. VXOCLS
+   Title: CBOE S&P 100 Volatility Index: VXO (DISCONTINUED)
+   Frequency: D
+   Popularity: 31
+   Notes:
+   This series is no longer being updated by the source. More information regarding the changes may be found on both  the initial</> and <a href="https://cdn.cboe.com/resources/release_notes/2021/VXO-and-VXHYG-Indices-Consultation-Notice-Final-_v3.pdf"> the final  (https://cdn.cboe.com/resources/release_notes/2021/VXO-and-VXHYG-Indices-Consultation-Summary.pdf) announcement pages.
+
+--------------------------------------------------------------------------------
+

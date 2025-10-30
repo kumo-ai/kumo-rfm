@@ -1,0 +1,7 @@
+# FRED Search Terms
+# Generated from: i_would_like_to_know
+# Date: 20251029_163133
+# Provider: ollama
+# Total terms: 1
+
+interest rate

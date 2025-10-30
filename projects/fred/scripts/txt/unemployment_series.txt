@@ -1,0 +1,128 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. UNRATE
+   Title: Unemployment Rate
+   Frequency: M
+   Popularity: 98
+   Notes:
+   The unemployment rate represents the number of unemployed as a percentage of the labor force. Labor force data are restricted to people 16 years of age and older, who currently reside in 1 of the 50 states or the District of Columbia, who do not reside in institutions (e.g., penal and mental facilities, homes for the aged), and who are not on active duty in the Armed Forces.
+
+This rate is also defined as the U-3 measure of labor underutilization.
+
+The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LNS14000000
+
+--------------------------------------------------------------------------------
+
+2. UNRATENSA
+   Title: Unemployment Rate
+   Frequency: M
+   Popularity: 59
+   Notes:
+   The unemployment rate represents the number of unemployed as a percentage of the labor force. Labor force data are restricted to people 16 years of age and older, who currently reside in 1 of the 50 states or the District of Columbia, who do not reside in institutions (e.g., penal and mental facilities, homes for the aged), and who are not on active duty in the Armed Forces.
+
+This rate is also defined as the U-3 measure of labor underutilization.
+
+The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LNU04000000
+
+--------------------------------------------------------------------------------
+
+3. UNEMPLOY
+   Title: Unemployment Level
+   Frequency: M
+   Popularity: 74
+   Notes:
+   The series comes from the 'Current Population Survey (Household Survey)'
+The source code is: LNS13000000
+
+The Unemployment Level is the aggregate measure of people currently unemployed in the US. Someone in the labor force is defined as unemployed if they were not employed during the survey reference week, were available for work, and made at least one active effort to find a job during the 4-week survey period. 
+
+The Unemployment Level is collected in the CPS and published by the BLS. It is provided on a monthly basis, so this data is used in part by macroeconomists as an initial economic indicator of current trends. The Unemployment Level helps government agencies, financial markets, and researchers gauge the overall health of the economy.
+
+Note that individuals that are not employed but not actively looking for a job are not counted as unemployed. For instance, declines in the Unemployment Level may either reflect movements of unemployed individuals into the labor force because they found a job, or movements of unemployed individuals out of the labor force because they stopped looking to find a job.
+
+
+For more information, see:
+U.S. Bureau of Labor Statistics, CES Overview (https://www.bls.gov/web/empsit/cesprog.htm)
+U.S. Bureau of Labor Statistics, BLS Handbook of Methods: Chapter 2. Employment, Hours, and Earnings from the Establishment Survey (https://www.bls.gov/opub/hom/pdf/ces-20110307.pdf)
+
+--------------------------------------------------------------------------------
+
+4. NROU
+   Title: Noncyclical Rate of Unemployment
+   Frequency: Q
+   Popularity: 69
+   Notes:
+   Starting with the July, 2021 report: An Update to the Budget and Economic Outlook: 2021 to 2031 (https://www.cbo.gov/publication/57218), this series was renamed from "Natural Rate of Unemployment (Long-Term)" to "Noncyclical Rate of Unemployment".
+
+The natural rate of unemployment (NAIRU) is the rate of unemployment arising from all sources except fluctuations in aggregate demand. Estimates of potential GDP are based on the long-term natural rate. (CBO did not make explicit adjustments to the short-term natural rate for structural factors before the recent downturn.) The short-term natural rate incorporates structural factors that are temporarily boosting the natural rate beginning in 2008. The short-term natural rate is used to gauge the amount of current and projected slack in labor markets, which is a key input into CBO's projections of inflation.
+
+--------------------------------------------------------------------------------
+
+5. CCSA
+   Title: Continued Claims (Insured Unemployment)
+   Frequency: W
+   Popularity: 73
+   Notes:
+   Continued claims, also referred to as insured unemployment, is the number of people who have already filed an initial claim and who have experienced a week of unemployment and then filed a continued claim to claim benefits for that week of unemployment. Continued claims data are based on the week of unemployment, not the week when the initial claim was filed.
+
+--------------------------------------------------------------------------------
+
+6. CCNSA
+   Title: Continued Claims (Insured Unemployment)
+   Frequency: W
+   Popularity: 44
+   Notes:
+   Continued claims, also referred to as insured unemployment, is the number of people who have already filed an initial claim and who have experienced a week of unemployment and then filed a continued claim to claim benefits for that week of unemployment. Continued claims data are based on the week of unemployment, not the week when the initial claim was filed.
+
+--------------------------------------------------------------------------------
+
+7. U6RATE
+   Title: Total Unemployed, Plus All Persons Marginally Attached to the Labor Force, Plus Total Employed Part Time for Economic Reasons, as a Percent of the Civilian Labor Force Plus All Persons Marginally Attached to the Labor Force (U-6)
+   Frequency: M
+   Popularity: 71
+   Notes:
+   The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LNS13327709
+
+--------------------------------------------------------------------------------
+
+8. LNU03000000
+   Title: Unemployment Level
+   Frequency: M
+   Popularity: 30
+   Notes:
+   The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LNU03000000
+
+--------------------------------------------------------------------------------
+
+9. LNS14000006
+   Title: Unemployment Rate - Black or African American
+   Frequency: M
+   Popularity: 70
+   Notes:
+   The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LNS14000006
+
+--------------------------------------------------------------------------------
+
+10. U6RATENSA
+   Title: Total Unemployed, Plus All Persons Marginally Attached to the Labor Force, Plus Total Employed Part Time for Economic Reasons, as a Percent of the Civilian Labor Force Plus All Persons Marginally Attached to the Labor Force (U-6)
+   Frequency: M
+   Popularity: 21
+   Notes:
+   The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LNU03327709
+
+--------------------------------------------------------------------------------
+

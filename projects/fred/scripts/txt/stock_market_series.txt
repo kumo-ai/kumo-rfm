@@ -1,0 +1,134 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. SP500
+   Title: S&P 500
+   Frequency: D
+   Popularity: 91
+   Notes:
+   The observations for the S&P 500 represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
+
+The Federal Reserve Bank of St. Louis and S&P Dow Jones Indices LLC have reached a new agreement on the use of Standard & Poors and Dow Jones Averages series in FRED. FRED and its associated services will include 10 years of daily history for Standard & Poors and Dow Jones Averages series.
+
+The S&P 500 is regarded as a gauge of the large cap U.S. equities market. The index includes 500 leading companies in leading industries of the U.S. economy, which are publicly held on either the NYSE or NASDAQ, and covers 75% of U.S. equities. Since this is a price index and not a total return index, the S&P 500 index here does not contain dividends.
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of S&P 500 in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC ("S&P"). S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' use of S&P 500.
+
+Permission to reproduce S&P 500 can be requested from index_services@spdji.com. More contact details are available here (http://us.spindices.com/contact-us), including phone numbers for all regional offices.
+
+--------------------------------------------------------------------------------
+
+2. VIXCLS
+   Title: CBOE Volatility Index: VIX
+   Frequency: D
+   Popularity: 84
+   Notes:
+   VIX measures market expectation of near term volatility conveyed by stock index option prices. Copyright, 2016, Chicago Board Options Exchange, Inc. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+3. DJIA
+   Title: Dow Jones Industrial Average
+   Frequency: D
+   Popularity: 81
+   Notes:
+   The observations for the Dow Jones Industrial Average represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
+
+The Dow Jones Industrial Average provides a view of the US stock market and economy. Originally, the index was made up of 12 stocks, it now contains 30 component companies in various industries. See indexology (http://us.spindices.com/indexology/djia-and-sp-500?homepage=true) for more information.
+
+Copyright Â 2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Dow Jones Industrial Average in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC ("S&P"). S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' use of Dow Jones Industrial Average.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available here (http://us.spindices.com/contact-us), including phone numbers for all regional offices.
+
+--------------------------------------------------------------------------------
+
+4. NASDAQCOM
+   Title: NASDAQ Composite Index
+   Frequency: D
+   Popularity: 77
+   Notes:
+   The observations for the NASDAQ Composite Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
+
+The NASDAQ Composite Index is a market capitalization weighted index with more than 3000 common equities listed on the NASDAQ Stock Market. The types of securities in the index include American depositary receipts (ADRs), common stocks, real estate investment trusts (REITs), and tracking stocks. The index includes all NASDAQ listed stocks that are not derivatives, preferred shares, funds, exchange-traded funds (ETFs) or debentures.
+
+Copyright Â 2016, NASDAQ OMX Group, Inc.
+
+--------------------------------------------------------------------------------
+
+5. GVZCLS
+   Title: CBOE Gold ETF Volatility Index
+   Frequency: D
+   Popularity: 69
+   Notes:
+   Exchange Traded Funds (ETFs) are shares of trusts that hold portfolios of stocks designed to closely track the price performance and yield of specific indices. Copyright, 2016, Chicago Board Options Exchange, Inc. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+6. NIKKEI225
+   Title: Nikkei Stock Average, Nikkei 225
+   Frequency: D
+   Popularity: 68
+   Notes:
+   The observations for the Nikkei Stock Average, Nikkei 225 represent the daily index value at market close.
+
+Nikkei 225 is the major stock market index comprising of 225 highly liquid stocks of the Tokyo Stock Exchange (TSE).
+
+For in depth information, visit here (http://indexes.nikkei.co.jp/nkave/archives/faq/faq_nikkei_stock_average_en.pdf).
+
+Copyright, 2016, Nikkei Inc. Reprinted with permission.
+
+Downloading the data for research reports or research projects is permitted.
+
+However, if you wish to redistribute the data itself or research reports (information with Nikkei data) to the third parties/persons, the user shall report back to the Nikkei, Inc for permission.
+
+--------------------------------------------------------------------------------
+
+7. NASDAQ100
+   Title: NASDAQ 100 Index
+   Frequency: D
+   Popularity: 68
+   Notes:
+   The observations for the NASDAQ 100 Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
+
+The NASDAQ 100 Index includes 100 of the largest domestic and international non-financial securities listed on The NASDAQ Stock Market based on market capitalization.
+
+Copyright Â 2016, NASDAQ OMX Group, Inc.
+
+--------------------------------------------------------------------------------
+
+8. DDDM01USA156NWDB
+   Title: Stock Market Capitalization to GDP for United States
+   Frequency: A
+   Popularity: 64
+   Notes:
+   Total value of all listed shares in a stock market as a percentage of GDP.
+
+Value of listed shares to GDP, calculated using the following deflation method: {(0.5)*[Ft/P_et + Ft-1/P_et-1]}/[GDPt/P_at] where F is stock market capitalization, P_e is end-of period CPI, and P_a is average annual CPI. End-of period CPI (IFS line 64M..ZF or, if not available, 64Q..ZF) and annual CPI (IFS line 64..ZF) are from the IMF's International Financial Statistics. Standard & Poor's, Global Stock Markets Factbook and supplemental S&P data)
+
+Source Code: GFDD.DM.01
+
+--------------------------------------------------------------------------------
+
+9. VXVCLS
+   Title: CBOE S&P 500 3-Month Volatility Index
+   Frequency: D
+   Popularity: 60
+   Notes:
+   Copyright, 2016, Chicago Board Options Exchange, Inc. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+10. M1109BUSM293NNBR
+   Title: Dow-Jones Industrial Stock Price Index for United States
+   Frequency: M
+   Popularity: 55
+   Notes:
+   Series Is Presented Here As Two Variables--(1)--Original Data, 1897-1916 (2)--Original Data, 1914-1958 20 Stocks Are Used Through September, 1928 And 30 Stocks Thereafter. A Detailed Description Of Methods Of Constucting Averages Is Given In "Basis Of Calculation Of Dow-Jones Average" Available From The Wall Street Journal. For A More Detailed Description Of The Series, See Business Cycle Indicators, Vol. Ii, Moore, NBER. This Index Is Based On Daily Closing Prices On The New York Stock Exchange. Through 1948, Averages Of Highest And Lowest Indexes For The Month Are Used. For 1949-1968, Averages Of Daily Closing Indexes Are Used. Source: Data Were Compiled By Dow Jones And Company From Quotations In The Wall Street Journal. Through June, 1952, Data Are From The Dow-Jones Averages, 13Th Edition, 1948, And Supplementary Averages (Barron'S Publishing Company). Thereafter, Through 1968, Data Are From Barron'S National Business And Financial Weekly.
+
+This NBER data series m11009b appears on the NBER website in Chapter 11 at http://www.nber.org/databases/macrohistory/contents/chapter11.html.
+
+NBER Indicator: m11009b
+
+--------------------------------------------------------------------------------
+

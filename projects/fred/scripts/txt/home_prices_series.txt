@@ -1,0 +1,126 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. CSUSHPINSA
+   Title: S&P CoreLogic Case-Shiller U.S. National Home Price Index
+   Frequency: M
+   Popularity: 86
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+2. CSUSHPISA
+   Title: S&P CoreLogic Case-Shiller U.S. National Home Price Index
+   Frequency: M
+   Popularity: 74
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+3. USSTHPI
+   Title: All-Transactions House Price Index for the United States
+   Frequency: Q
+   Popularity: 75
+   Notes:
+   Estimated using sales prices and appraisal data.
+
+--------------------------------------------------------------------------------
+
+4. QCAR628BIS
+   Title: Real Residential Property Prices for Canada
+   Frequency: Q
+   Popularity: 71
+   Notes:
+   Source Code: Q:CA:R:628
+
+Coverage includes national residential average. The series is deflated using CPI.
+
+For more information, please see https://www.bis.org/statistics/pp_detailed.htm.
+
+Any use of the series shall be cited as follows: "Sources: National sources, BIS Residential Property Price database, http://www.bis.org/statistics/pp.htm."
+
+Copyright, 2016, Bank for International Settlements (BIS). Terms and conditions of use are available at http://www.bis.org/terms_conditions.htm#Copyright_and_Permissions.
+
+--------------------------------------------------------------------------------
+
+5. CUSR0000SAF11
+   Title: Consumer Price Index for All Urban Consumers: Food at Home in U.S. City Average
+   Frequency: M
+   Popularity: 69
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+6. QCAR368BIS
+   Title: Real Residential Property Prices for Canada
+   Frequency: Q
+   Popularity: 37
+   Notes:
+   Source Code: Q:CA:R:368
+
+Coverage includes national residential average. The series is deflated using CPI.
+
+For more information, please see https://www.bis.org/statistics/pp_detailed.htm.
+
+Any use of the series shall be cited as follows: "Sources: National sources, BIS Residential Property Price database, http://www.bis.org/statistics/pp.htm."
+
+Copyright, 2016, Bank for International Settlements (BIS). Terms and conditions of use are available at http://www.bis.org/terms_conditions.htm#Copyright_and_Permissions.
+
+--------------------------------------------------------------------------------
+
+7. CUUR0000SAF11
+   Title: Consumer Price Index for All Urban Consumers: Food at Home in U.S. City Average
+   Frequency: M
+   Popularity: 40
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+8. QCNR628BIS
+   Title: Real Residential Property Prices for China
+   Frequency: Q
+   Popularity: 67
+   Notes:
+   Source Code: Q:CN:R:628
+
+Coverage includes Q1 2007-Q4 2015: New dwellings in 70 cities in China; from Q1 2016: Existing buildings in 70 cities in China. The series is deflated using CPI.
+
+For more information, please see https://www.bis.org/statistics/pp_detailed.htm.
+
+Any use of the series shall be cited as follows: "Sources: National sources, BIS Residential Property Price database, http://www.bis.org/statistics/pp.htm."
+
+Copyright, 2016, Bank for International Settlements (BIS). Terms and conditions of use are available at http://www.bis.org/terms_conditions.htm#Copyright_and_Permissions.
+
+--------------------------------------------------------------------------------
+
+9. CUUS0000SAF11
+   Title: Consumer Price Index for All Urban Consumers: Food at Home in U.S. City Average
+   Frequency: SA
+   Popularity: 5
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+10. QCNR368BIS
+   Title: Real Residential Property Prices for China
+   Frequency: Q
+   Popularity: 36
+   Notes:
+   Source Code: Q:CN:R:368
+
+Coverage includes Q1 2007-Q4 2015: New dwellings in 70 cities in China; from Q1 2016: Existing buildings in 70 cities in China. The series is deflated using CPI.
+
+For more information, please see https://www.bis.org/statistics/pp_detailed.htm.
+
+Any use of the series shall be cited as follows: "Sources: National sources, BIS Residential Property Price database, http://www.bis.org/statistics/pp.htm."
+
+Copyright, 2016, Bank for International Settlements (BIS). Terms and conditions of use are available at http://www.bis.org/terms_conditions.htm#Copyright_and_Permissions.
+
+--------------------------------------------------------------------------------
+

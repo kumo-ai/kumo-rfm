@@ -1,0 +1,106 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. CP
+   Title: Corporate Profits After Tax (without IVA and CCAdj)
+   Frequency: Q
+   Popularity: 70
+   Notes:
+   BEA Account Code: A055RC
+
+
+
+--------------------------------------------------------------------------------
+
+2. HOSINVUSM495N
+   Title: Existing Home Sales: Housing Inventory
+   Frequency: M
+   Popularity: 68
+   Notes:
+   The National Association of Realtors monthly housing indicators are based on a representative sample of local boards and multiple listing services. Sales volume, inventory, and price levels for existing homes are measured for the US in aggregate and by census region. Existing homes, unlike new homes, are homes that are owned and occupied before coming onto the market.
+
+Inventory indicates the number of properties marked as "active" on the market or those pending sales. When a seller lists a property, it becomes counted as inventory.
+
+For more information, see Methodology: Existing-Home Sales (https://www.nar.realtor/research-and-statistics/housing-statistics/existing-home-sales/methodology).
+
+Copyright, 2016, National Association of Realtors. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+3. ACTLISCOUUS
+   Title: Housing Inventory: Active Listing Count in the United States
+   Frequency: M
+   Popularity: 79
+   Notes:
+   The count of active single-family and condo/townhome listings for a given market during the specified month (excludes pending listings).
+
+With the release of its September 2022 housing trends report, Realtor.com incorporated a new and improved methodology for capturing and reporting housing inventory trends and metrics. The new methodology updates and improves the calculation of time on market and improves handling of duplicate listings. Most areas across the country will see minor changes with a smaller handful of areas seeing larger updates. As a result of these changes, the data released since October 2022 will not be directly comparable with previous data releases (files downloaded before October 2022) and Realtor.com economics blog posts. However, future data releases, including historical data, will consistently apply the new methodology. More details are available at the source's Real Estate Data Library (https://www.realtor.com/research/data/).
+
+With the release of its November 2021 housing trends report, Realtor.com incorporated a new and improved methodology for capturing and reporting housing inventory trends and metrics. The new methodology uses the latest and most accurate data mapping of listing statuses to yield a cleaner and more consistent measurement of active listings at both the national and local level. The methodology has also been adjusted to better account for missing data in some fields including square footage. Most areas across the country will see minor changes with a smaller handful of areas seeing larger updates. As a result of these changes, the data released since December 2021 will not be directly comparable with previous data releases (files downloaded before December 2021) and Realtor.com economics blog posts. However, future data releases, including historical data, will consistently apply the new methodology. More details are available at the source's Real Estate Data Library (https://www.realtor.com/research/data/).
+
+--------------------------------------------------------------------------------
+
+4. ETOTALUSQ176N
+   Title: Housing Inventory Estimate: Total Housing Units in the United States
+   Frequency: Q
+   Popularity: 65
+   Notes:
+   Housing unit is a house, an apartment, a group of rooms, or a single room occupied or intended for occupancy as separate living quarters. Separate living quarters are those in which the occupants live separately from others in the structure and which have direct access from the outside of the building or through a common hall. For vacant units, the criteria of separateness and direct access are applied to the intended occupants whenever possible. If the information cannot be obtained, the criteria are applied to the previous occupants. Tents and boats are excluded if vacant, used for business, or used for extra sleeping space or vacations. Vacant seasonal/migratory mobile homes are included in the count of vacant seasonal/migratory housing units. Living quarters of the following types are excluded from the housing unit inventory: Dormitories, bunkhouses, and barracks; quarters in predominantly transient hotels, motels, and the like, except those occupied by persons who consider the hotel their usual place of residence; quarters in institutions, general hospitals, and military installations except those occupied by staff members or resident employees who have separate living arrangements.
+
+--------------------------------------------------------------------------------
+
+5. ISRATIO
+   Title: Total Business: Inventories to Sales Ratio
+   Frequency: M
+   Popularity: 60
+   Notes:
+   Effective June 14, 2001, data were reconstructed to reflect the switch from the Standard Industrial Classification (SIC) system to the North American Industry Classification System (NAICS).
+
+--------------------------------------------------------------------------------
+
+6. BUSINV
+   Title: Total Business Inventories
+   Frequency: M
+   Popularity: 58
+   Notes:
+   Effective June 14, 2001, data were reconstructed to reflect the switch from the Standard Industrial Classification (SIC) system to the North American Industry Classification System (NAICS).
+
+--------------------------------------------------------------------------------
+
+7. TOTBUSIRNSA
+   Title: Total Business: Inventories to Sales Ratio
+   Frequency: M
+   Popularity: 12
+   Notes:
+   The inventories to sales ratios show the relationship of the end-of-month values of inventory to the monthly sales. These ratios can be looked at as indications of the number of months of inventory that are on hand in relation to the sales for a month. For example, a ratio of 2.5 would indicate that business have enough merchandise on hand to cover two and a half months of sales.
+
+--------------------------------------------------------------------------------
+
+8. RETAILIRSA
+   Title: Retailers: Inventories to Sales Ratio
+   Frequency: M
+   Popularity: 58
+   Notes:
+   The inventories to sales ratios show the relationship of the end-of-month values of inventory to the monthly sales. These ratios can be looked at as indications of the number of months of inventory that are on hand in relation to the sales for a month. For example, a ratio of 2.5 would indicate that the retail stores have enough merchandise on hand to cover two and a half months of sales.
+
+--------------------------------------------------------------------------------
+
+9. TOTBUSIMNSA
+   Title: Total Business Inventories
+   Frequency: M
+   Popularity: 14
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+10. TOTBUSMPCIMSA
+   Title: Total Business Inventories
+   Frequency: M
+   Popularity: 13
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+

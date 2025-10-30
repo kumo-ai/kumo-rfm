@@ -1,0 +1,26 @@
+# FRED Search Terms Configuration
+# One term per line. Lines starting with # are comments.
+# You can edit this file to customize what data to fetch.
+
+# Core Economic Indicators
+GDP
+inflation
+unemployment
+employment
+
+# Interest Rates
+federal funds rate
+treasury yield
+mortgage rate
+
+# Housing
+housing starts
+home prices
+Case-Shiller
+
+# Consumer
+retail sales
+consumer confidence
+personal income
+
+# Add your custom terms below:

@@ -1,0 +1,129 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. CIVPART
+   Title: Labor Force Participation Rate
+   Frequency: M
+   Popularity: 83
+   Notes:
+   The series comes from the 'Current Population Survey (Household Survey)'
+The source code is: LNS11300000
+
+The Labor Force Participation Rate is defined by the Current Population Survey (CPS) as “the number of people in the labor force as a percentage of the civilian noninstitutional population […] the participation rate is the percentage of the population that is either working or actively looking for work.” 
+
+The Labor Force Participation Rate is collected in the CPS and published by the BLS. It is provided on a monthly basis, so this data is used in part by macroeconomists as an initial economic indicator of current labor market trends. The labor force participation rate helps government agencies, financial markets, and researchers gauge the overall health of the economy. 
+
+Note that long-run changes in labor force participation may reflect secular economic trends that are unrelated to the overall health of the economy. For instance, demographic changes such as the aging of population can lead to a secular increase of exits from the labor force, shrinking the labor force and decreasing the labor force participation rate. 
+
+For more information, see:
+U.S. Bureau of Labor Statistics, CES Overview (https://www.bls.gov/web/empsit/cesprog.htm)
+U.S. Bureau of Labor Statistics, Concepts and Definitions (CPS) (https://www.bls.gov/cps/definitions.htm#lfpr)
+
+--------------------------------------------------------------------------------
+
+2. LNU01300000
+   Title: Labor Force Participation Rate
+   Frequency: M
+   Popularity: 30
+   Notes:
+   The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LNU01300000
+
+--------------------------------------------------------------------------------
+
+3. U6RATE
+   Title: Total Unemployed, Plus All Persons Marginally Attached to the Labor Force, Plus Total Employed Part Time for Economic Reasons, as a Percent of the Civilian Labor Force Plus All Persons Marginally Attached to the Labor Force (U-6)
+   Frequency: M
+   Popularity: 71
+   Notes:
+   The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LNS13327709
+
+--------------------------------------------------------------------------------
+
+4. CLF16OV
+   Title: Civilian Labor Force Level
+   Frequency: M
+   Popularity: 70
+   Notes:
+   Persons 16 years of age and older.
+
+The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LNS11000000
+
+--------------------------------------------------------------------------------
+
+5. U6RATENSA
+   Title: Total Unemployed, Plus All Persons Marginally Attached to the Labor Force, Plus Total Employed Part Time for Economic Reasons, as a Percent of the Civilian Labor Force Plus All Persons Marginally Attached to the Labor Force (U-6)
+   Frequency: M
+   Popularity: 21
+   Notes:
+   The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LNU03327709
+
+--------------------------------------------------------------------------------
+
+6. LNU01000000
+   Title: Civilian Labor Force Level
+   Frequency: M
+   Popularity: 27
+   Notes:
+   The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LNU01000000
+
+--------------------------------------------------------------------------------
+
+7. LNS11300060
+   Title: Labor Force Participation Rate - 25-54 Yrs.
+   Frequency: M
+   Popularity: 65
+   Notes:
+   The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LNS11300060
+
+--------------------------------------------------------------------------------
+
+8. LNU01300060
+   Title: Labor Force Participation Rate - 25-54 Yrs.
+   Frequency: M
+   Popularity: 39
+   Notes:
+   The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LNU01300060
+
+--------------------------------------------------------------------------------
+
+9. LNS11300002
+   Title: Labor Force Participation Rate - Women
+   Frequency: M
+   Popularity: 64
+   Notes:
+   To obtain estimates of women worker employment, the ratio of weighted women employees to the weighted all employees in the sample is assumed to equal the same ratio in the universe. The current month's women worker ratio, thus, is estimated and then multiplied by the all-employee estimate. The weighted-difference-link-and-taper formula (described in the source) is used to estimate the current month's women worker ratio. This formula adds the change in the matched sample's women worker ratio (the weighted-difference link) to the prior month's estimate, which has been slightly modified to reflect changes in the sample composition (the taper).
+
+The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LNS11300002
+
+--------------------------------------------------------------------------------
+
+10. LNU01300002
+   Title: Labor Force Participation Rate - Women
+   Frequency: M
+   Popularity: 31
+   Notes:
+   To obtain estimates of women worker employment, the ratio of weighted women employees to the weighted all employees in the sample is assumed to equal the same ratio in the universe. The current month's women worker ratio, thus, is estimated and then multiplied by the all-employee estimate. The weighted-difference-link-and-taper formula (described in the source) is used to estimate the current month's women worker ratio. This formula adds the change in the matched sample's women worker ratio (the weighted-difference link) to the prior month's estimate, which has been slightly modified to reflect changes in the sample composition (the taper).
+
+The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LNU01300002
+
+--------------------------------------------------------------------------------
+

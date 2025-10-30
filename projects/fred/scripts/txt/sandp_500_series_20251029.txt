@@ -1,0 +1,1449 @@
+FRED Series Query Results
+Total Series Found: 101
+================================================================================
+
+1. SP500
+   Title: S&P 500
+   Frequency: D
+   Popularity: 91
+   Notes:
+   The observations for the S&P 500 represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.
+
+The Federal Reserve Bank of St. Louis and S&P Dow Jones Indices LLC have reached a new agreement on the use of Standard & Poors and Dow Jones Averages series in FRED. FRED and its associated services will include 10 years of daily history for Standard & Poors and Dow Jones Averages series.
+
+The S&P 500 is regarded as a gauge of the large cap U.S. equities market. The index includes 500 leading companies in leading industries of the U.S. economy, which are publicly held on either the NYSE or NASDAQ, and covers 75% of U.S. equities. Since this is a price index and not a total return index, the S&P 500 index here does not contain dividends.
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of S&P 500 in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC ("S&P"). S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' use of S&P 500.
+
+Permission to reproduce S&P 500 can be requested from index_services@spdji.com. More contact details are available here (http://us.spindices.com/contact-us), including phone numbers for all regional offices.
+
+--------------------------------------------------------------------------------
+
+2. VXVCLS
+   Title: CBOE S&P 500 3-Month Volatility Index
+   Frequency: D
+   Popularity: 60
+   Notes:
+   Copyright, 2016, Chicago Board Options Exchange, Inc. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+3. MEHOINUSA646N
+   Title: Median Household Income in the United States
+   Frequency: A
+   Popularity: 74
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+4. STLFSI
+   Title: St. Louis Fed Financial Stress Index (DISCONTINUED)
+   Frequency: W
+   Popularity: 36
+   Notes:
+   The methodology for the St. Louis Fed's Financial Stress Index was revised and this series is discontinued. The new version, STLFSI3, can be found here (https://fred.stlouisfed.org/series/STLFSI3).
+
+The STLFSI measures the degree of financial stress in the markets and is constructed from 18 weekly data series: seven interest rate series, six yield spreads and five other indicators. Each of these variables captures some aspect of financial stress. Accordingly, as the level of financial stress in the economy changes, the data series are likely to move together.
+
+How to Interpret the Index:
+The average value of the index, which begins in late 1993, is designed to be zero. Thus, zero is viewed as representing normal financial market conditions. Values below zero suggest below-average financial market stress, while values above zero suggest above-average financial market stress.
+
+More information:
+For additional information on the STLFSI and its construction, see "Measuring Financial Market Stress" (https://files.stlouisfed.org/research/publications/es/10/ES1002.pdf) and the related appendix (https://files.stlouisfed.org/files/htdocs/publications/net/NETJan2010Appendix.pdf).
+
+See this list (https://www.stlouisfed.org/news-releases/st-louis-fed-financial-stress-index/stlfsi-key) of the components that are used to construct the STLFSI.
+
+As of 07/15/2010 the Vanguard Financial Exchange-Traded Fund series has been replaced with the S&P 500 Financials Index. This change was made to facilitate a more timely and automated updating of the FSI. Switching from the Vanguard series to the S&P series produced no meaningful change in the index.
+
+Copyright, 2016, Federal Reserve Bank of St. Louis.
+
+--------------------------------------------------------------------------------
+
+5. MEHOINUSCAA646N
+   Title: Median Household Income in California
+   Frequency: A
+   Popularity: 53
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+6. EMVOVERALLEMV
+   Title: Equity Market Volatility Tracker: Overall
+   Frequency: M
+   Popularity: 48
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+7. EMVMACROBUS
+   Title: Equity Market Volatility Tracker: Macroeconomic News and Outlook: Business Investment And Sentiment
+   Frequency: M
+   Popularity: 35
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+8. MEHOINUSNYA646N
+   Title: Median Household Income in New York
+   Frequency: A
+   Popularity: 36
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+9. MEHOINUSNJA646N
+   Title: Median Household Income in New Jersey
+   Frequency: A
+   Popularity: 35
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+10. MEHOINUSMAA646N
+   Title: Median Household Income in Massachusetts
+   Frequency: A
+   Popularity: 35
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+11. MEHOINUSTXA646N
+   Title: Median Household Income in Texas
+   Frequency: A
+   Popularity: 35
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+12. EMVIMMIGRATION
+   Title: Equity Market Volatility Tracker: Immigration
+   Frequency: M
+   Popularity: 27
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+13. EMVMACROINTEREST
+   Title: Equity Market Volatility Tracker: Macroeconomic News and Outlook: Interest Rates
+   Frequency: M
+   Popularity: 26
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+14. EMVCOMMMKT
+   Title: Equity Market Volatility Tracker: Commodity Markets
+   Frequency: M
+   Popularity: 26
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+15. MEHOINUSFLA646N
+   Title: Median Household Income in Florida
+   Frequency: A
+   Popularity: 30
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+16. MEHOINUSALA646N
+   Title: Median Household Income in Alabama
+   Frequency: A
+   Popularity: 29
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+17. MEHOINUSTNA646N
+   Title: Median Household Income in Tennessee
+   Frequency: A
+   Popularity: 25
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+18. MEHOINUSCOA646N
+   Title: Median Household Income in Colorado
+   Frequency: A
+   Popularity: 24
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+19. MEHOINUSWIA646N
+   Title: Median Household Income in Wisconsin
+   Frequency: A
+   Popularity: 24
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+20. EMVMACROINFLATION
+   Title: Equity Market Volatility Tracker: Macroeconomic News and Outlook: Inflation
+   Frequency: M
+   Popularity: 19
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+21. MEHOINUSNCA646N
+   Title: Median Household Income in North Carolina
+   Frequency: A
+   Popularity: 23
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+22. MEHOINUSMNA646N
+   Title: Median Household Income in Minnesota
+   Frequency: A
+   Popularity: 23
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+23. MEHOINUSCTA646N
+   Title: Median Household Income in Connecticut
+   Frequency: A
+   Popularity: 23
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+24. MEHOINUSNVA646N
+   Title: Median Household Income in Nevada
+   Frequency: A
+   Popularity: 23
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+25. MEHOINUSGAA646N
+   Title: Median Household Income in Georgia
+   Frequency: A
+   Popularity: 23
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+26. EMVFINCRISES
+   Title: Equity Market Volatility Tracker: Financial Crises
+   Frequency: M
+   Popularity: 17
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+27. MEHOINUSORA646N
+   Title: Median Household Income in Oregon
+   Frequency: A
+   Popularity: 21
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+28. MEHOINUSUTA646N
+   Title: Median Household Income in Utah
+   Frequency: A
+   Popularity: 21
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+29. MEHOINUSILA646N
+   Title: Median Household Income in Illinois
+   Frequency: A
+   Popularity: 21
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+30. MEHOINUSMIA646N
+   Title: Median Household Income in Michigan
+   Frequency: A
+   Popularity: 20
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+31. MEHOINUSPAA646N
+   Title: Median Household Income in Pennsylvania
+   Frequency: A
+   Popularity: 20
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+32. MEHOINUSKYA646N
+   Title: Median Household Income in Kentucky
+   Frequency: A
+   Popularity: 20
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+33. MEHOINUSOHA646N
+   Title: Median Household Income in Ohio
+   Frequency: A
+   Popularity: 20
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+34. MEHOINUSIDA646N
+   Title: Median Household Income in Idaho
+   Frequency: A
+   Popularity: 20
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+35. EMVEXRATES
+   Title: Equity Market Volatility Tracker: Exchange Rates
+   Frequency: M
+   Popularity: 15
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+36. EMVELECTGOVRN
+   Title: Equity Market Volatility Tracker: Elections And Political Governance
+   Frequency: M
+   Popularity: 15
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+37. MEHOINUSMDA646N
+   Title: Median Household Income in Maryland
+   Frequency: A
+   Popularity: 19
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+38. MEHOINUSWAA646N
+   Title: Median Household Income in Washington
+   Frequency: A
+   Popularity: 19
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+39. EMVGOVTSPEND
+   Title: Equity Market Volatility Tracker: Government Spending Deficits And Debt
+   Frequency: M
+   Popularity: 14
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+40. MEHOINUSMEA646N
+   Title: Median Household Income in Maine
+   Frequency: A
+   Popularity: 17
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+41. MEHOINUSLAA646N
+   Title: Median Household Income in Louisiana
+   Frequency: A
+   Popularity: 17
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+42. EMVMACROCONSUME
+   Title: Equity Market Volatility Tracker: Macroeconomic News and Outlook: Consumer Spending And Sentiment
+   Frequency: M
+   Popularity: 12
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+43. MEHOINUSVAA646N
+   Title: Median Household Income in Virginia
+   Frequency: A
+   Popularity: 16
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+44. MEHOINUSAZA646N
+   Title: Median Household Income in Arizona
+   Frequency: A
+   Popularity: 16
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+45. MEHOINUSMSA646N
+   Title: Median Household Income in Mississippi
+   Frequency: A
+   Popularity: 16
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+46. EMVTRADEPOLEMV
+   Title: Equity Market Volatility Tracker: Trade Policy
+   Frequency: M
+   Popularity: 10
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+47. EMVENRGYENVREG
+   Title: Equity Market Volatility Tracker: Energy And Environmental Regulation
+   Frequency: M
+   Popularity: 10
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+48. EMVMONETARYPOL
+   Title: Equity Market Volatility Tracker: Monetary Policy
+   Frequency: M
+   Popularity: 10
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+49. MEHOINUSOKA646N
+   Title: Median Household Income in Oklahoma
+   Frequency: A
+   Popularity: 14
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+50. EMVHOUSELANDMGMT
+   Title: Equity Market Volatility Tracker: Housing And Land Management
+   Frequency: M
+   Popularity: 9
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+51. EMVFISCALPOL
+   Title: Equity Market Volatility Tracker: Fiscal Policy
+   Frequency: M
+   Popularity: 8
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+52. MEHOINUSINA646N
+   Title: Median Household Income in Indiana
+   Frequency: A
+   Popularity: 12
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+53. MEHOINUSMOA646N
+   Title: Median Household Income in Missouri
+   Frequency: A
+   Popularity: 12
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+54. MEHOINUSSCA646N
+   Title: Median Household Income in South Carolina
+   Frequency: A
+   Popularity: 12
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+55. MEHOINUSIAA646N
+   Title: Median Household Income in Iowa
+   Frequency: A
+   Popularity: 12
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+56. MEHOINUSNMA646N
+   Title: Median Household Income in New Mexico
+   Frequency: A
+   Popularity: 11
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+57. MEHOINUSWVA646N
+   Title: Median Household Income in West Virginia
+   Frequency: A
+   Popularity: 11
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+58. MEHOINUSAKA646N
+   Title: Median Household Income in Alaska
+   Frequency: A
+   Popularity: 11
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+59. MEHOINUSHIA646N
+   Title: Median Household Income in Hawaii
+   Frequency: A
+   Popularity: 11
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+60. EMVMACRORE
+   Title: Equity Market Volatility Tracker: Macroeconomic News and Outlook: Real Estate Markets
+   Frequency: M
+   Popularity: 6
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+61. MEHOINUSNHA646N
+   Title: Median Household Income in New Hampshire
+   Frequency: A
+   Popularity: 10
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+62. MEHOINUSDCA646N
+   Title: Median Household Income in District of Columbia
+   Frequency: A
+   Popularity: 10
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+63. MEHOINUSNDA646N
+   Title: Median Household Income in North Dakota
+   Frequency: A
+   Popularity: 10
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+64. MEHOINUSMTA646N
+   Title: Median Household Income in Montana
+   Frequency: A
+   Popularity: 10
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+65. EMVMACROTRADE
+   Title: Equity Market Volatility Tracker: Macroeconomic News and Outlook: Trade
+   Frequency: M
+   Popularity: 5
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+66. SMCD678FRBCLE
+   Title: Contributions to the Cleveland Financial Stress Index: Stock Market Crashes (DISCONTINUED)
+   Frequency: D
+   Popularity: 5
+   Notes:
+   In May of 2016, the source discovered errors in the calculation of the CFSI and began a detailed review of the index and its underlying model. Following that review, the source decided to discontinue the CFSI. https://www.clevelandfed.org/en/our-research/indicators-and-data/cleveland-financial-stress-index.aspx
+
+The source has posted to their website a message regarding this release: Cleveland Financial Stress Index under review and a revised index expected in the fourth quarter of 2016. A thorough review of the index is being conducted to both simplify the index and enhance its robustness, while also taking into consideration changes in financial markets and institutions. This review and the revisions to the CFSI are expected to be completed sometime during the fourth quarter of this year, and additional details will be made available at that time. Thank you for your patience while we improve the CFSI.
+
+This chart shows the contribution of the stock market crashes indicator to the CFSI. This indicator is measured as the ratio of the current value of the S&P 500 Financial Index relative to its maximum over the previous 365 days. It captures the extent to which equity values have dropped over the previous year. It also captures expectations about the future of the banking industry.
+
+--------------------------------------------------------------------------------
+
+67. EMVMACROFININD
+   Title: Equity Market Volatility Tracker: Macroeconomic News and Outlook: Other Financial Indicators
+   Frequency: M
+   Popularity: 5
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+68. MEHOINUSARA646N
+   Title: Median Household Income in Arkansas
+   Frequency: A
+   Popularity: 9
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+69. MEHOINUSRIA646N
+   Title: Median Household Income in Rhode Island
+   Frequency: A
+   Popularity: 9
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+70. EMVHEALTHCAREMAT
+   Title: Equity Market Volatility Tracker: Healthcare Matters
+   Frequency: M
+   Popularity: 4
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+71. EMVMACROLABORMKT
+   Title: Equity Market Volatility Tracker: Macroeconomic News and Outlook: Labor Markets
+   Frequency: M
+   Popularity: 4
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+72. EMVHEALTHCAREPOL
+   Title: Equity Market Volatility Tracker: Healthcare Policy
+   Frequency: M
+   Popularity: 4
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+73. MEHOINUSSDA646N
+   Title: Median Household Income in South Dakota
+   Frequency: A
+   Popularity: 8
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+74. MEHOINUSNEA646N
+   Title: Median Household Income in Nebraska
+   Frequency: A
+   Popularity: 8
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+75. MEHOINUSVTA646N
+   Title: Median Household Income in Vermont
+   Frequency: A
+   Popularity: 8
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+76. MEHOINUSKSA646N
+   Title: Median Household Income in Kansas
+   Frequency: A
+   Popularity: 8
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+77. EMVWELFARE
+   Title: Equity Market Volatility Tracker: Entitlement And Welfare Programs
+   Frequency: M
+   Popularity: 3
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+78. EMVTRADEPUBUTEMV
+   Title: Equity Market Volatility Tracker: Transportation, Infrastructure, and Public Utilities
+   Frequency: M
+   Popularity: 3
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+79. EMVFINREG
+   Title: Equity Market Volatility Tracker: Financial Regulation
+   Frequency: M
+   Popularity: 3
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+80. EMVMACRONEWS
+   Title: Equity Market Volatility Tracker: Macroeconomic News And Outlook
+   Frequency: M
+   Popularity: 3
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+81. EMVPOLRLTDEMV
+   Title: Equity Market Volatility Tracker: Policy Related
+   Frequency: M
+   Popularity: 3
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+82. MEHOINUSDEA646N
+   Title: Median Household Income in Delaware
+   Frequency: A
+   Popularity: 7
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+83. EMNLABORREG
+   Title: Equity Market Volatility Tracker: Labor Regulations
+   Frequency: M
+   Popularity: 2
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+84. EMVAGRPOLICY
+   Title: Equity Market Volatility Tracker: Agricultural Policy
+   Frequency: M
+   Popularity: 2
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+85. EMVTAXESEMV
+   Title: Equity Market Volatility Tracker: Taxes
+   Frequency: M
+   Popularity: 2
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+86. EMVMACROBROAD
+   Title: Equity Market Volatility Tracker: Macroeconomic News and Outlook: Broad Quantity Indicators
+   Frequency: M
+   Popularity: 2
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+87. MEHOINUSWYA646N
+   Title: Median Household Income in Wyoming
+   Frequency: A
+   Popularity: 6
+   Notes:
+   Household data are collected as of March.
+
+As stated in the Census's "Source and Accuracy of Estimates for Income, Poverty, and Health Insurance Coverage in the United States: 2011" (http://www.census.gov/hhes/www/p60_243sa.pdf):
+
+Estimation of Median Incomes. The Census Bureau has changed the methodology for computing median income over time. The Census Bureau has computed medians using either Pareto interpolation or linear interpolation. Currently, we are using linear interpolation to estimate all medians. Pareto interpolation assumes a decreasing density of population within an income interval, whereas linear interpolation assumes a constant density of population within an income interval. The Census Bureau calculated estimates of median income and associated standard errors for 1979 through 1987 using Pareto interpolation if the estimate was larger than $20,000 for people or $40,000 for families and households. This is because the width of the income interval containing the estimate is greater than $2,500.
+
+We calculated estimates of median income and associated standard errors for 1976, 1977, and 1978 using Pareto interpolation if the estimate was larger than $12,000 for people or $18,000 for families and households. This is because the width of the income interval containing the estimate is greater than $1,000. All other estimates of median income and associated standard errors for 1976 through 2011 (2012 ASEC) and almost all of the estimates of median income and associated standard errors for 1975 and earlier were calculated using linear interpolation.
+
+Thus, use caution when comparing median incomes above $12,000 for people or $18,000 for families and households for different years. Median incomes below those levels are more comparable from year to year since they have always been calculated using linear interpolation. For an indication of the comparability of medians calculated using Pareto interpolation with medians calculated using linear interpolation, see Series P-60, Number 114, Money Income in 1976 of Families and Persons in the United States (www2.census.gov/prod2/popscan/p60-114.pdf).
+
+--------------------------------------------------------------------------------
+
+88. EMVCOMPMAT
+   Title: Equity Market Volatility Tracker: Competition Matters
+   Frequency: M
+   Popularity: 1
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+89. EMVLAWTORT
+   Title: Equity Market Volatility Tracker: Lawsuit And Tort Reform Supreme Court Decisions
+   Frequency: M
+   Popularity: 1
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+90. EMVFOODDRUG
+   Title: Equity Market Volatility Tracker: Food And Drug Policy
+   Frequency: M
+   Popularity: 1
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+91. EMVNATSEC
+   Title: Equity Market Volatility Tracker: National Security Policy
+   Frequency: M
+   Popularity: 1
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+92. EMVLITGMAT
+   Title: Equity Market Volatility Tracker: Litigation Matters
+   Frequency: M
+   Popularity: 1
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+93. EMVREGEMV
+   Title: Equity Market Volatility Tracker: Regulation
+   Frequency: M
+   Popularity: 1
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+94. EMVLABORDISPUTES
+   Title: Equity Market Volatility Tracker: Labor Disputes
+   Frequency: M
+   Popularity: 1
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+95. EMVCOMPPOL
+   Title: Equity Market Volatility Tracker: Competition Policy
+   Frequency: M
+   Popularity: 1
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+96. EMVGOVTSPENT
+   Title: Equity Market Volatility Tracker: Government Sponsored Enterprises
+   Frequency: M
+   Popularity: 1
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+97. EMVOTHERREG
+   Title: Equity Market Volatility Tracker: Other Regulation
+   Frequency: M
+   Popularity: 1
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+98. EMVIPPOL
+   Title: Equity Market Volatility Tracker: Intellectual Property Policy
+   Frequency: M
+   Popularity: 1
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+99. EMVIPMAT
+   Title: Equity Market Volatility Tracker: Intellectual Property Matters
+   Frequency: M
+   Popularity: 1
+   Notes:
+   The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.
+
+For more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)
+
+--------------------------------------------------------------------------------
+
+100. M14068USM144NNBR
+   Title: Bills Bought, Federal Reserve Banks for United States
+   Frequency: M
+   Popularity: 1
+   Notes:
+   Data Represent Monthly Averages Of Daily Figures. The Variable Ends In September 1939. The Figure For October 1939 Is Less Than $500,000 And Thereafter No Bills Were Bought (See Banking And Monetary Statistics, 1943, P. 362). Source: Federal Reserve Board, Data For 1915-1934: Frb Annual Report, 1928, Pp. 47-49; 1933, Pp. 92-93; 1934, P. 83. Data For 1935-1939: Banking And Monetary Statistics.
+
+This NBER data series m14068 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.
+
+NBER Indicator: m14068
+
+--------------------------------------------------------------------------------
+
+101. Q16088USQ509NNBR
+   Title: Diffusion Index, New Capital Appropriations, 500 Manufacturing Companies, Four Quarter Span for United States
+   Frequency: Q
+   Popularity: 1
+   Notes:
+   Data Cover Manufacturing Companies With Assets Over $15 Million. Source: G.H. Moore, Business Cycle Indicators, Vol. 2, NBER, P. 159 (National Industrial Conference Board Data)
+
+This NBER data series q16088 appears on the NBER website in Chapter 16 at http://www.nber.org/databases/macrohistory/contents/chapter16.html.
+
+NBER Indicator: q16088
+
+--------------------------------------------------------------------------------
+

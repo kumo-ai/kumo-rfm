@@ -1,0 +1,1247 @@
+FRED Series Query Results
+Total Series Found: 106
+================================================================================
+
+1. CURRCIR
+   Title: Currency in Circulation
+   Frequency: M
+   Popularity: 73
+   Notes:
+   Data prior to 1991 are from various issues of Banking and Monetary Statistics and the Annual Statistical Digest. Data from 1991 forward are calculated using data from the H.4.1 Release - Factors Affecting Reserve Balances.
+As of March 1, 2019, this series is calculated as a monthly average of fred.stlouisfed.org/series/WCURCIR.
+
+--------------------------------------------------------------------------------
+
+2. MBCURRCIR
+   Title: Monetary Base: Currency in Circulation
+   Frequency: M
+   Popularity: 57
+   Notes:
+   H.6 Technical Q&As (https://www.federalreserve.gov/releases/h6/h6_technical_qa.htm) posted on August 20, 2020.
+
+Currency in circulation includes Federal Reserve notes and coin outside the U.S. Treasury and Federal Reserve Banks. The total includes Treasury estimates of coins outstanding and Treasury paper currency outstanding. This definition of currency in circulation differs from the currency component of the money stock (CURRENCY) (https://fred.stlouisfed.org/series/CURRENCY), which excludes currency held in vaults of depository institutions.
+
+For questions on the data, please contact the data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h6/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+3. WCURCIR
+   Title: Liabilities and Capital: Other Factors Draining Reserve Balances: Currency in Circulation: Week Average
+   Frequency: W
+   Popularity: 34
+   Notes:
+   Currency in circulation includes paper currency and coin held both by the public and in the vaults of depository institutions. The total includes Treasury estimates of coins outstanding and Treasury paper currency outstanding. This definition of currency in circulation differs from the currency component of the money stock, a measure of currency used in some other Federal Reserve reports (for example, the H.6 release), which excludes currency held in vaults of depository institutions.
+
+1984-1985 and Jan 11-Mar 15, 1989: Annual Statistical Digest 1984, 1985, 1989 Table 2.
+Jan 8, 1986 to date except weeks ending Jan 11, 1989 - Mar 15, 1989: Federal Reserve Board H.4.1.
+
+--------------------------------------------------------------------------------
+
+4. WCICL
+   Title: Liabilities and Capital: Other Factors Draining Reserve Balances: Currency in Circulation: Wednesday Level
+   Frequency: W
+   Popularity: 21
+   Notes:
+   Currency in circulation includes paper currency and coin held both by the public and in the vaults of depository institutions. The total includes Treasury estimates of coins outstanding and Treasury paper currency outstanding. This definition of currency in circulation differs from the currency component of the money stock, a measure of currency used in some other Federal Reserve reports (for example, the H.6 release), which excludes currency held in vaults of depository institutions.
+
+--------------------------------------------------------------------------------
+
+5. CURRVAL100
+   Title: Value of Currency in Circulation: $100
+   Frequency: A
+   Popularity: 17
+   Notes:
+   Includes Federal Reserve notes, U.S. notes, and currency no longer issued.
+
+--------------------------------------------------------------------------------
+
+6. CURRVALALL
+   Title: Value of Currency in Circulation: Total
+   Frequency: A
+   Popularity: 15
+   Notes:
+   Includes Federal Reserve notes, U.S. notes, and currency no longer issued.
+
+--------------------------------------------------------------------------------
+
+7. CURRVOLALL
+   Title: Volume of Currency in Circulation: Total
+   Frequency: A
+   Popularity: 13
+   Notes:
+   Includes Federal Reserve notes, U.S. notes, and currency no longer issued.
+
+--------------------------------------------------------------------------------
+
+8. CURRVAL20
+   Title: Value of Currency in Circulation: $20
+   Frequency: A
+   Popularity: 6
+   Notes:
+   Includes Federal Reserve notes, U.S. notes, and currency no longer issued.
+
+--------------------------------------------------------------------------------
+
+9. CURRVAL1
+   Title: Value of Currency in Circulation: $1
+   Frequency: A
+   Popularity: 6
+   Notes:
+   Includes Federal Reserve notes, U.S. notes, and currency no longer issued.
+
+--------------------------------------------------------------------------------
+
+10. M2V
+   Title: Velocity of M2 Money Stock
+   Frequency: Q
+   Popularity: 82
+   Notes:
+   Calculated as the ratio of quarterly nominal GDP (https://fred.stlouisfed.org/series/GDP) to the quarterly average of M2 money stock (https://fred.stlouisfed.org/series/M2SL).
+
+The velocity of money is the frequency at which one unit of currency is used to purchase domestically- produced goods and services within a given time period. In other words, it is the number of times one dollar is spent to buy goods and services per unit of time. If the velocity of money is increasing, then more transactions are occurring between individuals in an economy.
+The frequency of currency exchange can be used to determine the velocity of a given component of the money supply, providing some insight into whether consumers and businesses are saving or spending their money. There are several components of the money supply,: M1, M2, and MZM (M3 is no longer tracked by the Federal Reserve); these components are arranged on a spectrum of narrowest to broadest. Consider M1, the narrowest component. M1 is the money supply of currency in circulation (notes and coins, traveler's checks [non-bank issuers], demand deposits, and checkable deposits). A decreasing velocity of M1 might indicate fewer short- term consumption transactions are taking place. We can think of shorter- term transactions as consumption we might make on an everyday basis.
+
+Beginning May 2020, M2 consists of M1 plus (1) small-denomination time deposits (time deposits in amounts of less than $100,000) less IRA and Keogh balances at depository institutions; and (2) balances in retail MMFs less IRA and Keogh balances at MMFs. Seasonally adjusted M2 is constructed by summing savings deposits (before May 2020), small-denomination time deposits, and retail MMFs, each seasonally adjusted separately, and adding this result to seasonally adjusted M1. For more information on the H.6 release changes and the regulatory amendment that led to the creation of the other liquid deposits component and its inclusion in the M1 monetary aggregate, see the H.6 announcements (https://www.federalreserve.gov/feeds/h6.html) and Technical Q&As (https://www.federalreserve.gov/releases/h6/h6_technical_qa.htm) posted on December 17, 2020.
+
+
+MZM (money with zero maturity) is the broadest component and consists of the supply of financial assets redeemable at par on demand: notes and coins in circulation, traveler's checks (non-bank issuers), demand deposits, other checkable deposits, savings deposits, and all money market funds. The velocity of MZM helps determine how often financial assets are switching hands within the economy.
+
+--------------------------------------------------------------------------------
+
+11. MBCURRCIRW
+   Title: Monetary Base; Currency in Circulation (DISCONTINUED)
+   Frequency: W
+   Popularity: 4
+   Notes:
+   The Board of Governors discontinued the H.3 statistical release on September 17, 2020. For more information, please see the announcement (https://www.federalreserve.gov/feeds/h3.html) posted on August 20, 2020.
+
+Currency in circulation includes paper currency and coin held both by the public and in the vaults of depository institutions. The total includes Treasury estimates of coins outstanding and Treasury paper currency outstanding. This definition of currency in circulation differs from the currency component of the money stock, (CURRENCY) (https://fred.stlouisfed.org/series/CURRENCY), which excludes currency held in vaults of depository institutions.
+
+Effective February 2, 1984, reserve computation and maintenance periods have been changed from weekly to bi-weekly. Series with data prior to February 2, 1984 have different values reported from one week to the next. After February 2, 1984, the value repeats for 2 consecutive weeks.
+
+--------------------------------------------------------------------------------
+
+12. CURRVOL20
+   Title: Volume of Currency in Circulation: $20
+   Frequency: A
+   Popularity: 3
+   Notes:
+   Includes Federal Reserve notes, U.S. notes, and currency no longer issued.
+
+--------------------------------------------------------------------------------
+
+13. BOGZ1FL713125015Q
+   Title: Monetary Authority; Currency in Circulation, Excluding Treasury Currency; Liability, Level
+   Frequency: Q
+   Popularity: 1
+   Notes:
+   Source ID: FL713125015.Q
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FL713125015&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+14. BOGZ1FR713125015A
+   Title: Monetary Authority; Currency in Circulation, Excluding Treasury Currency; Liability, Revaluation
+   Frequency: A
+   Popularity: 1
+   Notes:
+   Source ID: FR713125015.A
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FR713125015&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+15. BOGZ1FA713125015A
+   Title: Monetary Authority; Currency in Circulation, Excluding Treasury Currency; Liability, Transactions
+   Frequency: A
+   Popularity: 1
+   Notes:
+   Source ID: FA713125015.A
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FA713125015&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+16. BOGZ1FU713125015Q
+   Title: Monetary Authority; Currency in Circulation, Excluding Treasury Currency; Liability, Transactions
+   Frequency: Q
+   Popularity: 1
+   Notes:
+   Source ID: FU713125015.Q
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FU713125015&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+17. BOGZ1FU713125015A
+   Title: Monetary Authority; Currency in Circulation, Excluding Treasury Currency; Liability, Transactions
+   Frequency: A
+   Popularity: 1
+   Notes:
+   Source ID: FU713125015.A
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FU713125015&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+18. BOGZ1FL713125015A
+   Title: Monetary Authority; Currency in Circulation, Excluding Treasury Currency; Liability, Level
+   Frequency: A
+   Popularity: 0
+   Notes:
+   Source ID: FL713125015.A
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FL713125015&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+19. BOGZ1FR713125015Q
+   Title: Monetary Authority; Currency in Circulation, Excluding Treasury Currency; Liability, Revaluation
+   Frequency: Q
+   Popularity: 0
+   Notes:
+   Source ID: FR713125015.Q
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FR713125015&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+20. BOGZ1FA713125015Q
+   Title: Monetary Authority; Currency in Circulation, Excluding Treasury Currency; Liability, Transactions
+   Frequency: Q
+   Popularity: 0
+   Notes:
+   Source ID: FA713125015.Q
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FA713125015&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+21. CURRVOL1
+   Title: Volume of Currency in Circulation: $1
+   Frequency: A
+   Popularity: 2
+   Notes:
+   Includes Federal Reserve notes, U.S. notes, and currency no longer issued.
+
+--------------------------------------------------------------------------------
+
+22. CURRVOL2
+   Title: Volume of Currency in Circulation: $2
+   Frequency: A
+   Popularity: 2
+   Notes:
+   Includes Federal Reserve notes, U.S. notes, and currency no longer issued.
+
+--------------------------------------------------------------------------------
+
+23. CURRVAL10
+   Title: Value of Currency in Circulation: $10
+   Frequency: A
+   Popularity: 2
+   Notes:
+   Includes Federal Reserve notes, U.S. notes, and currency no longer issued.
+
+--------------------------------------------------------------------------------
+
+24. CURRVOL100
+   Title: Volume of Currency in Circulation: $100
+   Frequency: A
+   Popularity: 2
+   Notes:
+   Includes Federal Reserve notes, U.S. notes, and currency no longer issued.
+
+--------------------------------------------------------------------------------
+
+25. CURRVAL500
+   Title: Value of Currency in Circulation: $500 to $10,000
+   Frequency: A
+   Popularity: 2
+   Notes:
+   Includes Federal Reserve notes, U.S. notes, and currency no longer issued.
+
+--------------------------------------------------------------------------------
+
+26. RESTBCXAWXCH1NWW
+   Title: Liabilities and Capital: Other Factors Draining Reserve Balances: Currency in Circulation: Change in Week Average from Previous Week Average
+   Frequency: W
+   Popularity: 2
+
+--------------------------------------------------------------------------------
+
+27. BOGMBASE
+   Title: Monetary Base: Total
+   Frequency: M
+   Popularity: 78
+   Notes:
+   H.6 Technical Q&As (https://www.federalreserve.gov/releases/h6/h6_technical_qa.htm) posted on August 20, 2020.
+
+The monetary base equals currency in circulation plus reserve balances.
+
+For questions on the data, please contact the data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h6/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+28. CURRVAL2
+   Title: Value of Currency in Circulation: $2
+   Frequency: A
+   Popularity: 1
+   Notes:
+   Includes Federal Reserve notes, U.S. notes, and currency no longer issued.
+
+--------------------------------------------------------------------------------
+
+29. CURRVOL50
+   Title: Volume of Currency in Circulation: $50
+   Frequency: A
+   Popularity: 1
+   Notes:
+   Includes Federal Reserve notes, U.S. notes, and currency no longer issued.
+
+--------------------------------------------------------------------------------
+
+30. CURRVOL5
+   Title: Volume of Currency in Circulation: $5
+   Frequency: A
+   Popularity: 1
+   Notes:
+   Includes Federal Reserve notes, U.S. notes, and currency no longer issued.
+
+--------------------------------------------------------------------------------
+
+31. CURRVOL10
+   Title: Volume of Currency in Circulation: $10
+   Frequency: A
+   Popularity: 1
+   Notes:
+   Includes Federal Reserve notes, U.S. notes, and currency no longer issued.
+
+--------------------------------------------------------------------------------
+
+32. CURRVAL5
+   Title: Value of Currency in Circulation: $5
+   Frequency: A
+   Popularity: 1
+   Notes:
+   Includes Federal Reserve notes, U.S. notes, and currency no longer issued.
+
+--------------------------------------------------------------------------------
+
+33. CURRVAL50
+   Title: Value of Currency in Circulation: $50
+   Frequency: A
+   Popularity: 1
+   Notes:
+   Includes Federal Reserve notes, U.S. notes, and currency no longer issued.
+
+--------------------------------------------------------------------------------
+
+34. BOGZ1FL713125000Q
+   Title: Monetary Authority; Currency in Circulation; Liability, Level
+   Frequency: Q
+   Popularity: 1
+   Notes:
+   Source ID: FL713125000.Q
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FL713125000&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+35. BOGZ1FL713125000A
+   Title: Monetary Authority; Currency in Circulation; Liability, Level
+   Frequency: A
+   Popularity: 1
+   Notes:
+   Source ID: FL713125000.A
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FL713125000&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+36. BOGZ1FU713125000Q
+   Title: Monetary Authority; Currency in Circulation; Liability, Transactions
+   Frequency: Q
+   Popularity: 1
+   Notes:
+   Source ID: FU713125000.Q
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FU713125000&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+37. BOGZ1FU713125000A
+   Title: Monetary Authority; Currency in Circulation; Liability, Transactions
+   Frequency: A
+   Popularity: 1
+   Notes:
+   Source ID: FU713125000.A
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FU713125000&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+38. BOGZ1FA713125000Q
+   Title: Monetary Authority; Currency in Circulation; Liability, Transactions
+   Frequency: Q
+   Popularity: 1
+   Notes:
+   Source ID: FA713125000.Q
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FA713125000&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+39. BOGZ1FA713125000A
+   Title: Monetary Authority; Currency in Circulation; Liability, Transactions
+   Frequency: A
+   Popularity: 1
+   Notes:
+   Source ID: FA713125000.A
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FA713125000&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+40. BOGZ1FR713125000Q
+   Title: Monetary Authority; Currency in Circulation; Liability, Revaluation
+   Frequency: Q
+   Popularity: 1
+   Notes:
+   Source ID: FR713125000.Q
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FR713125000&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+41. BOGZ1FR713125000A
+   Title: Monetary Authority; Currency in Circulation; Liability, Revaluation
+   Frequency: A
+   Popularity: 1
+   Notes:
+   Source ID: FR713125000.A
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FR713125000&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+42. CURRVOL500
+   Title: Volume of Currency in Circulation: $500 to $10,000
+   Frequency: A
+   Popularity: 1
+   Notes:
+   Includes Federal Reserve notes, U.S. notes, and currency no longer issued.
+
+--------------------------------------------------------------------------------
+
+43. RESTBCXAWXCH52NWW
+   Title: Liabilities and Capital: Other Factors Draining Reserve Balances: Currency in Circulation: Change in Week Average from Year Ago Week Average
+   Frequency: W
+   Popularity: 1
+
+--------------------------------------------------------------------------------
+
+44. M14082GBM440NNBR
+   Title: Bank and Currency Notes in Circulation, Bank of England for Great Britain
+   Frequency: M
+   Popularity: 1
+   Notes:
+   Data Are Bank Notes And Currency Notes In Circulation For The 11Th-17Th Of The Month. Source: London And Cambridge Economic Service, Monthly Bulletins, January 1923 And Following Issues, And Special Quarterly Issues.
+
+This NBER data series m14082 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.
+
+NBER Indicator: m14082
+
+--------------------------------------------------------------------------------
+
+45. M1V
+   Title: Velocity of M1 Money Stock
+   Frequency: Q
+   Popularity: 67
+   Notes:
+   Calculated as the ratio of quarterly nominal GDP (GDP (https://fred.stlouisfed.org/series/GDP)) to the quarterly average of M1 money stock (M1SL (https://fred.stlouisfed.org/series/M1SL))
+
+The velocity of money is the frequency at which one unit of currency is used to purchase domestically- produced goods and services within a given time period. In other words, it is the number of times one dollar is spent to buy goods and services per unit of time. If the velocity of money is increasing, then more transactions are occurring between individuals in an economy.
+
+The frequency of currency exchange can be used to determine the velocity of a given component of the money supply, providing some insight into whether consumers and businesses are saving or spending their money. There are several components of the money supply,: M1, M2, and MZM (M3 is no longer tracked by the Federal Reserve); these components are arranged on a spectrum of narrowest to broadest. Consider M1, the narrowest component. M1 is the money supply of currency in circulation (notes and coins, demand deposits, and other liquid deposits). A decreasing velocity of M1 might indicate fewer short- term consumption transactions are taking place. We can think of shorter- term transactions as consumption we might make on an everyday basis.
+
+Beginning May 2020, M1 consists of (1) currency outside the U.S. Treasury, Federal Reserve Banks, and the vaults of depository institutions; (2) demand deposits at commercial banks (excluding those amounts held by depository institutions, the U.S. government, and foreign banks and official institutions) less cash items in the process of collection and Federal Reserve float; and (3) other liquid deposits, consisting of OCDs and savings deposits (including money market deposit accounts). Seasonally adjusted M1 is constructed by summing currency, demand deposits, and OCDs (before May 2020) or other liquid deposits (beginning May 2020), each seasonally adjusted separately. For more information on the H.6 release changes and the regulatory amendment that led to the creation of the other liquid deposits component and its inclusion in the M1 monetary aggregate, see the H.6 announcements (https://www.federalreserve.gov/feeds/h6.html) and Technical Q&As (https://www.federalreserve.gov/releases/h6/h6_technical_qa.htm) posted on December 17, 2020.
+
+The broader M2 component includes M1 in addition to saving deposits, certificates of deposit (less than $100,000), and money market deposits for individuals. Comparing the velocities of M1 and M2 provides some insight into how quickly the economy is spending and how quickly it is saving.
+
+MZM (money with zero maturity) is the broadest component and consists of the supply of financial assets redeemable at par on demand: notes and coins in circulation, traveler’s checks (non-bank issuers), demand deposits, other checkable deposits, savings deposits, and all money market funds. The velocity of MZM helps determine how often financial assets are switching hands within the economy.
+
+--------------------------------------------------------------------------------
+
+46. DTWEXM
+   Title: Nominal Major Currencies U.S. Dollar Index (Goods Only) (DISCONTINUED)
+   Frequency: D
+   Popularity: 44
+   Notes:
+   A weighted average of the foreign exchange value of the U.S. dollar against a subset of the broad index currencies that circulate widely outside the country of issue.
+Major currencies index includes the Euro Area, Canada, Japan, United Kingdom, Switzerland, Australia, and Sweden. For more information about trade-weighted indexes visit the Board of Governors (http://www.federalreserve.gov/pubs/bulletin/2005/winter05_index.pdf).
+
+--------------------------------------------------------------------------------
+
+47. TWEXMMTH
+   Title: Nominal Major Currencies U.S. Dollar Index (Goods Only) (DISCONTINUED)
+   Frequency: M
+   Popularity: 29
+   Notes:
+   Averages of daily figures. A weighted average of the foreign exchange value of the U.S. dollar against a subset of the broad index currencies that circulate widely outside the country of issue.
+Major currency index includes the Euro Area, Canada, Japan, United Kingdom, Switzerland, Australia, and Sweden. For more information about trade-weighted indexes see http://www.federalreserve.gov/pubs/bulletin/2005/winter05_index.pdf.
+
+This data series is updated from the source files in the Data Download Program (http://www.federalreserve.gov/datadownload/Choose.aspx?rel=h10). The files are updated on a weekly basis every Monday. If Monday is a holiday, the data files are updated the next business day.
+
+Monthly values are averages of the daily data available. Preliminary value for the current month is provided by the source even if not all daily values are available for the entire month.
+
+Please note that the values reported on the press release may not correspond to the values in the Data Download Program when the press release is published on a day other than Monday. This inconsistency is resolved on the next available weekly release date.
+
+--------------------------------------------------------------------------------
+
+48. TWEXMANL
+   Title: Nominal Major Currencies U.S. Dollar Index (Goods Only) (DISCONTINUED)
+   Frequency: A
+   Popularity: 6
+   Notes:
+   Averages of daily figures. A weighted average of the foreign exchange value of the U.S. dollar against a subset of the broad index currencies that circulate widely outside the country of issue.
+Major currency index includes the Euro Area, Canada, Japan, United Kingdom, Switzerland, Australia, and Sweden. For more information about trade-weighted indexes see http://www.federalreserve.gov/pubs/bulletin/2005/winter05_index.pdf.
+
+--------------------------------------------------------------------------------
+
+49. MYAGM2JPM189S
+   Title: M2 for Japan
+   Frequency: M
+   Popularity: 50
+   Notes:
+   M2 comprises notes and coins in circulation outside banking corporations; demand and savings deposits, fixed and installment savings deposits, time deposits, and certificates of deposit of households, nonfinancial corporations, local governments, securities companies, Tanshi companies, and some other financial corporations such as securities finance companies with banking corporations in national and foreign currency; and nonresident deposits with banking corporations in national currency. Beginning in April 2003, M2 comprises notes and coins in circulation outside depository corporations and demand and savings deposits, fixed and installment savings deposits, time deposits, and certificates of deposit of households, nonfinancial corporations, local governments, and some other financial corporations such as securities finance companies with banking corporations in national and foreign currency.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+50. MYAGM2JPM189N
+   Title: M2 for Japan
+   Frequency: M
+   Popularity: 12
+   Notes:
+   M2 comprises notes and coins in circulation outside banking corporations; demand and savings deposits, fixed and installment savings deposits, time deposits, and certificates of deposit of households, nonfinancial corporations, local governments, securities companies, Tanshi companies, and some other financial corporations such as securities finance companies with banking corporations in national and foreign currency; and nonresident deposits with banking corporations in national currency. Beginning in April 2003, M2 comprises notes and coins in circulation outside depository corporations and demand and savings deposits, fixed and installment savings deposits, time deposits, and certificates of deposit of households, nonfinancial corporations, local governments, and some other financial corporations such as securities finance companies with banking corporations in national and foreign currency.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+51. M14081GBM440NNBR
+   Title: Total Circulation for Great Britain
+   Frequency: M
+   Popularity: 3
+   Notes:
+   Data Through 1907 Were Computed From Thirteen Published Figures Per Year. Those Figures Published Before The Tenth Of The Month Were Considered To Fall At The Beginning Of The Month; Those Figures Published After The Twenty-First Of The Month Were Considered To Fall On The Beginning Of The Next Month. Those Figures Published Between The Tenth And The Twenty-First Were Averaged. After 1907 Monthly Figures Were Published. Source: Bankers' Magazine.
+
+This NBER data series m14081 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.
+
+NBER Indicator: m14081
+
+--------------------------------------------------------------------------------
+
+52. TWEXM
+   Title: Trade Weighted U.S. Dollar Index: Major Currencies, Goods (DISCONTINUED)
+   Frequency: W
+   Popularity: 38
+   Notes:
+   Averages of daily figures. A weighted average of the foreign exchange value of the U.S. dollar against a subset of the broad index currencies that circulate widely outside the country of issue.
+Major currency index includes the Euro Area, Canada, Japan, United Kingdom, Switzerland, Australia, and Sweden. For more information about trade-weighted indexes see http://www.federalreserve.gov/pubs/bulletin/2005/winter05_index.pdf.
+
+--------------------------------------------------------------------------------
+
+53. MZMV
+   Title: Velocity of MZM Money Stock (DISCONTINUED)
+   Frequency: Q
+   Popularity: 29
+   Notes:
+   This series has been discontinued and will no longer be updated. The institutional money market funds component (IMFSL (https://fred.stlouisfed.org/series/IMFSL)) used to calculate MZM has been discontinued by the Board of Governors and is no longer available in the H.6 statistical release, Money Stock Measures. For further information about the changes to the H.6 statistical release, please see the announcements (https://www.federalreserve.gov/feeds/h6.html) provided by the source.
+
+Calculated as the ratio of quarterly nominal GDP (GDP (https://fred.stlouisfed.org/series/GDP)) to the quarterly average of MZM money stock (MZMSL (https://fred.stlouisfed.org/series/MZMSL)).
+
+The velocity of money is the frequency at which one unit of currency is used to purchase domestically- produced goods and services within a given time period. In other words, it is the number of times one dollar is spent to buy goods and services per unit of time. If the velocity of money is increasing, then more transactions are occurring between individuals in an economy.
+The frequency of currency exchange can be used to determine the velocity of a given component of the money supply, providing some insight into whether consumers and businesses are saving or spending their money. There are several components of the money supply,: M1, M2, and MZM (M3 is no longer tracked by the Federal Reserve); these components are arranged on a spectrum of narrowest to broadest. Consider M1, the narrowest component. M1 is the money supply of currency in circulation (notes and coins, traveler’s checks [non-bank issuers], demand deposits, and checkable deposits). A decreasing velocity of M1 might indicate fewer short- term consumption transactions are taking place. We can think of shorter- term transactions as consumption we might make on an everyday basis.
+
+The broader M2 component includes M1 in addition to saving deposits, certificates of deposit (less than $100,000), and money market deposits for individuals. Comparing the velocities of M1 and M2 provides some insight into how quickly the economy is spending and how quickly it is saving.
+
+MZM (money with zero maturity) is the broadest component and consists of the supply of financial assets redeemable at par on demand: notes and coins in circulation, traveler’s checks (non-bank issuers), demand deposits, other checkable deposits, savings deposits, and all money market funds. The velocity of MZM helps determine how often financial assets are switching hands within the economy.
+
+--------------------------------------------------------------------------------
+
+54. MYAGM1CNM189N
+   Title: M1 for China
+   Frequency: M
+   Popularity: 18
+   Notes:
+   M1 comprises currency in circulation plus demand deposits in national currency of resident non-bank non-government sectors with the PBC and banking institutions. Currency in circulation refers to notes and coins by the PBC less the amount held by banking institutions.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+55. CURRENCY
+   Title: Currency Component of M1 (DISCONTINUED)
+   Frequency: W
+   Popularity: 10
+   Notes:
+   WCURRNS (https://fred.stlouisfed.org/series/WCURRNS), and the seasonally adjusted monthly series is CURRSL (https://fred.stlouisfed.org/series/CURRSL).
+
+Starting on February 23, 2021, the H.6 statistical release is now published at a monthly frequency and contains only monthly average data needed to construct the monetary aggregates. Weekly average, non-seasonally adjusted data will continue to be made available, while weekly average, seasonally adjusted data will no longer be provided. For further information about the changes to the H.6 statistical release, see the announcements (https://www.federalreserve.gov/feeds/h6.html) provided by the source.
+
+The currency component of M1, sometimes called "money stock currency," is defined as currency in circulation outside the U.S. Treasury, Federal Reserve Banks, and the vaults of depository institutions. Data on total currency in circulation are obtained weekly from balance sheets of the Federal Reserve Banks and from the U.S. Treasury. Weekly currency in circulation data are published each week on the Federal Reserve Board's H.4.1 statistical release "Factors Affecting Reserve Balances of Depository Institutions and Condition Statement of Federal Reserve Banks." Vault cash is reported on the FR 2900 and subtracted from total currency in circulation. For institutions that do not file the FR 2900, vault cash is estimated using data reported on the Call Reports.
+
+For questions on the data, please contact the data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h6/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+56. BOGMBASEW
+   Title: Monetary Base; Total (DISCONTINUED)
+   Frequency: W
+   Popularity: 21
+   Notes:
+   The Board of Governors discontinued the H.3 statistical release on September 17, 2020. For more information, please see the announcement (https://www.federalreserve.gov/feeds/h3.html) posted on August 20, 2020.
+
+The series equals total balances maintained plus currency in circulation.
+
+Effective February 2, 1984, reserve computation and maintenance periods have been changed from weekly to bi-weekly. Series with data prior to February 2, 1984 have different values reported from one week to the next. After February 2, 1984, the value repeats for 2 consecutive weeks.
+
+--------------------------------------------------------------------------------
+
+57. MYAGM1TRM189N
+   Title: M1 for Turkey
+   Frequency: M
+   Popularity: 4
+   Notes:
+   M1 comprises currency in circulation and transferable deposits in national currency of other financial corporations, state and local governments, public nonfinancial corporations, and private sector in national currency with the CBRT and commercial banks. Currency in circulation refers to notes and coins issued by the CBRT and Treasury and cash in transit in national and foreign currency less the amount of notes and coins held by commercial banks. Beginning October 1999, excludes cash in transit. Beginning December 2005, comprises currency in circulation and transferable deposits in national and foreign currency of other financial corporations, state and local governments, public nonfinancial corporations, private sector, and social security institutions in national currency with the CBRT and other depository corporations.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+58. MYAGM2RUM189N
+   Title: M2 for Russian Federation
+   Frequency: M
+   Popularity: 15
+   Notes:
+   M2 comprises currency in circulation and demand, time, and savings deposits in national currency of other financial corporations, public nonfinancial corporations, private nonfinancial corporations, and households with the CBR and other depository corporations.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+59. BASMNYARA189N
+   Title: Base Money for Argentina
+   Frequency: A
+   Popularity: 7
+   Notes:
+   Base Money comprises currency in circulation, reserve deposits, and correspondent accounts of banking institutions in national currency with the CBRA. Currency in circulation refers to notes and coins issued by the CBRA less the amount held by the CBRA.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+60. MYAGM1ARM189N
+   Title: M1 for Argentina
+   Frequency: M
+   Popularity: 6
+   Notes:
+   M1 comprises currency in circulation outside the banking system and transferable deposits in national and foreign currency. Currency in circulation outside the banking system refers to notes and coins issued by the CBRA less the amount held by banking institutions, including the CBRA. Transferable deposits refer to current account deposits of state and local governments, public nonfinancial corporations, private sector, and residents abroad with banking institutions.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+61. WTFORBAFL
+   Title: Liabilities and Capital: Other Factors Draining Reserve Balances: Total Factors, Other Than Reserve Balances, Absorbing Reserve Funds: Wednesday Level
+   Frequency: W
+   Popularity: 14
+   Notes:
+   This item is the sum of "currency in circulation," "reverse repurchase agreements," "Treasury cash holdings," "deposits with Federal Reserve Banks other than reserve balances," and "other liabilities and capital.
+
+--------------------------------------------------------------------------------
+
+62. TWEXO
+   Title: Trade Weighted U.S. Dollar Index: Other Important Trading Partners, Goods (DISCONTINUED)
+   Frequency: W
+   Popularity: 11
+   Notes:
+   Averages of daily figures. A weighted average of the foreign exchange value of the U.S. dollar against a subset of the broad index currencies that do not circulate widely outside the country of issue.
+Countries whose currencies are included in the other important trading partners index are Mexico, China, Taiwan, Korea, Singapore, Hong Kong, Malaysia, Brazil, Thailand, Philippines, Indonesia, India, Israel, Saudi Arabia, Russia, Argentina, Venezuela, Chile and Colombia.
+For more information about trade-weighted indexes see http://www.federalreserve.gov/pubs/bulletin/2005/winter05_index.pdf.
+
+--------------------------------------------------------------------------------
+
+63. WTFORBAFA
+   Title: Liabilities and Capital: Other Factors Draining Reserve Balances: Total Factors, Other Than Reserve Balances, Absorbing Reserve Funds: Week Average
+   Frequency: W
+   Popularity: 12
+   Notes:
+   This item is the sum of "currency in circulation," "reverse repurchase agreements," "Treasury cash holdings," "deposits with Federal Reserve Banks other than reserve balances," and "other liabilities and capital.
+
+--------------------------------------------------------------------------------
+
+64. MYAGM1EZM196N
+   Title: M1 for Euro Area
+   Frequency: M
+   Popularity: 11
+   Notes:
+   M1 comprises currency in circulation and overnight deposits.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+65. TWEXMPA
+   Title: Real Major Dollar Index (Goods Only) (DISCONTINUED)
+   Frequency: M
+   Popularity: 9
+   Notes:
+   Averages of daily figures. Series is price adjusted. A weighted average of the foreign exchange value of the U.S. dollar against a subset of the broad index currencies that circulate widely outside the country of issue.
+
+Major currencies index includes the Euro Area, Canada, Japan, United Kingdom, Switzerland, Australia, and Sweden. For more information about trade-weighted indexes see the Board of Governors methodology (https://www.federalreserve.gov/econres/notes/feds-notes/revisions-to-the-federal-reserve-dollar-indexes-20190115.htm).
+
+--------------------------------------------------------------------------------
+
+66. MYAGM1EZM159N
+   Title: M1 for Euro Area
+   Frequency: M
+   Popularity: 2
+   Notes:
+   M1 comprises currency in circulation and overnight deposits.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+67. MYAGM1EZQ159N
+   Title: M1 for Euro Area
+   Frequency: Q
+   Popularity: 1
+   Notes:
+   M1 comprises currency in circulation and overnight deposits.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+68. MYAGM1EZQ196N
+   Title: M1 for Euro Area
+   Frequency: Q
+   Popularity: 1
+   Notes:
+   M1 comprises currency in circulation and overnight deposits.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+69. DTWEXO
+   Title: Nominal Other Important Trading Partners U.S. Dollar Index (Goods Only) (DISCONTINUED)
+   Frequency: D
+   Popularity: 7
+   Notes:
+   A weighted average of the foreign exchange value of the U.S. dollar against a subset of the broad index currencies that do not circulate widely outside the country of issue.
+Countries whose currencies are included in the other important trading partners index are Mexico, China, Taiwan, Korea, Singapore, Hong Kong, Malaysia, Brazil, Thailand, Philippines, Indonesia, India, Israel, Saudi Arabia, Russia, Argentina, Venezuela, Chile and Colombia.
+For more information about trade-weighted indexes see http://www.federalreserve.gov/pubs/bulletin/2005/winter05_index.pdf.
+
+--------------------------------------------------------------------------------
+
+70. MYAGM1JPM189N
+   Title: M1 for Japan
+   Frequency: M
+   Popularity: 10
+   Notes:
+   M1 comprises notes and coins in circulation outside banking corporations and demand and savings deposits of households, nonfinancial corporations, local governments, securities companies, Tanshi companies, and some other financial corporations such as securities finance companies with banking corporations in national currency. The banking corporations surveyed comprise the BOJ, domestically licensed banks (excluding Japan Post Bank), foreign-owned banks in Japan, Shinkin Central Bank, Shinkin banks, Norinchukin Bank, and Shoko Chukin Bank. Beginning in April 2003, M1 comprises notes and coins in circulation outside depository corporations and demand and savings deposits of households, nonfinancial corporations, local governments, and some other financial corporations such as securities finance companies with depository corporations in national currency. The depository corporations surveyed comprise the above-mentioned "banking corporations", Japan Post Bank, Shinkumi Federation Bank, Shinkumi banks, Rokinren Bank, labor banks, Prefectural Credit Federations of Agricultural Cooperatives, agricultural cooperatives, Prefectural Credit Federations of Fishery Cooperatives, and fishery coops.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+71. TWEXOMTH
+   Title: Nominal Other Important Trading Partners U.S. Dollar Index (Goods Only) (DISCONTINUED)
+   Frequency: M
+   Popularity: 3
+   Notes:
+   Averages of daily figures. A weighted average of the foreign exchange value of the U.S. dollar against a subset of the broad index currencies that do not circulate widely outside the country of issue.
+Countries whose currencies are included in the other important trading partners index are Mexico, China, Taiwan, Korea, Singapore, Hong Kong, Malaysia, Brazil, Thailand, Philippines, Indonesia, India, Israel, Saudi Arabia, Russia, Argentina, Venezuela, Chile and Colombia.
+For more information about trade-weighted indexes see http://www.federalreserve.gov/pubs/bulletin/2005/winter05_index.pdf.
+
+This data series is updated from the source files in the Data Download Program (http://www.federalreserve.gov/datadownload/Choose.aspx?rel=h10). The files are updated on a weekly basis every Monday. If Monday is a holiday, the data files are updated the next business day.
+
+Monthly values are averages of the daily data available. Preliminary value for the current month is provided by the source even if not all daily values are available for the entire month.
+
+Please note that the values reported on the press release may not correspond to the values in the Data Download Program when the press release is published on a day other than Monday. This inconsistency is resolved on the next available weekly release date.
+
+--------------------------------------------------------------------------------
+
+72. MYAGM1JPM189S
+   Title: M1 for Japan
+   Frequency: M
+   Popularity: 7
+   Notes:
+   M1 comprises notes and coins in circulation outside banking corporations and demand and savings deposits of households, nonfinancial corporations, local governments, securities companies, Tanshi companies, and some other financial corporations such as securities finance companies with banking corporations in national currency. The banking corporations surveyed comprise the BOJ, domestically licensed banks (excluding Japan Post Bank), foreign-owned banks in Japan, Shinkin Central Bank, Shinkin banks, Norinchukin Bank, and Shoko Chukin Bank. Beginning in April 2003, M1 comprises notes and coins in circulation outside depository corporations and demand and savings deposits of households, nonfinancial corporations, local governments, and some other financial corporations such as securities finance companies with depository corporations in national currency. The depository corporations surveyed comprise the above-mentioned "banking corporations", Japan Post Bank, Shinkumi Federation Bank, Shinkumi banks, Rokinren Bank, labor banks, Prefectural Credit Federations of Agricultural Cooperatives, agricultural cooperatives, Prefectural Credit Federations of Fishery Cooperatives, and fishery coops.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+73. TWEXOANL
+   Title: Nominal Other Important Trading Partners U.S. Dollar Index (Goods Only) (DISCONTINUED)
+   Frequency: A
+   Popularity: 2
+   Notes:
+   Averages of daily figures. A weighted average of the foreign exchange value of the U.S. dollar against a subset of the broad index currencies that do not circulate widely outside the country of issue.
+Countries whose currencies are included in the other important trading partners index are Mexico, China, Taiwan, Korea, Singapore, Hong Kong, Malaysia, Brazil, Thailand, Philippines, Indonesia, India, Israel, Saudi Arabia, Russia, Argentina, Venezuela, Chile and Colombia.
+For more information about trade-weighted indexes see http://www.federalreserve.gov/pubs/bulletin/2005/winter05_index.pdf.
+
+--------------------------------------------------------------------------------
+
+74. MYAGM1IDM189N
+   Title: M1 for Indonesia
+   Frequency: M
+   Popularity: 4
+   Notes:
+   M1 comprises currency outside depository corporations and transferable deposits. Currency outside depository corporations is the amount of currency in circulation less the Rupiah currency note and coin holdings of other depository corporations. Transferable deposits are current account deposits in national currency that other financial corporations, state and local governments, and the private sector hold in the BI and other depository corporations.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+75. MYAGM1KRM189S
+   Title: M1 for Republic of Korea
+   Frequency: M
+   Popularity: 6
+   Notes:
+   M1 refers to currency in circulation and demand and transferable savings deposits in national currency of nonbank financial institutions, state and local governments, nonfinancial public enterprises and the private sector with banking institutions.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+76. MYAGM1KRM189N
+   Title: M1 for Republic of Korea
+   Frequency: M
+   Popularity: 1
+   Notes:
+   M1 refers to currency in circulation and demand and transferable savings deposits in national currency of nonbank financial institutions, state and local governments, nonfinancial public enterprises and the private sector with banking institutions.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+77. SBASENS
+   Title: St. Louis Source Base (DISCONTINUED)
+   Frequency: M
+   Popularity: 5
+   Notes:
+   Updates of this series will be ceased on December 20, 2019. Interested users can construct a proxy by summing Currency in circulation (H.4.1 release); Service Related Balances and Adjustments (H.4.1 release); and Reserve Balances with FR Banks (H.4.1 release). The discontinued series plotted on the same graph with the calculated data can be accessed for comparison at https://fred.stlouisfed.org/graph/?g=oJ6w
+For more details, see the FRED Announcement (https://news.research.stlouisfed.org/2019/12/discontinuance-of-st-louis-monetary-base-and-reserves-data/).
+
+--------------------------------------------------------------------------------
+
+78. WSBASE
+   Title: St. Louis Source Base (DISCONTINUED)
+   Frequency: W
+   Popularity: 2
+   Notes:
+   Updates of this series will be ceased on December 19, 2019. Interested users can construct a proxy by summing Currency in circulation (H.4.1 release); Service Related Balances and Adjustments (H.4.1 release); and Reserve Balances with FR Banks (H.4.1 release). The discontinued series plotted on the same graph with the calculated data can be accessed for comparison here (https://fred.stlouisfed.org/graph/?g=p6WY).
+For more details, see the FRED Announcement (https://news.research.stlouisfed.org/2019/12/discontinuance-of-st-louis-monetary-base-and-reserves-data/).
+
+--------------------------------------------------------------------------------
+
+79. ADJSBASE
+   Title: St. Louis Source Base (DISCONTINUED)
+   Frequency: BW
+   Popularity: 2
+   Notes:
+   Updates of this series will be ceased on December 19, 2019. Interested users can construct a proxy by summing Currency in circulation (H.4.1 release); Service Related Balances and Adjustments (H.4.1 release); and Reserve Balances with FR Banks (H.4.1 release). The discontinued series plotted on the same graph with the calculated data can be accessed for comparison here (https://fred.stlouisfed.org/graph/?g=oJ5N).
+For more details, see the FRED Announcement (https://news.research.stlouisfed.org/2019/12/discontinuance-of-st-louis-monetary-base-and-reserves-data/).
+
+--------------------------------------------------------------------------------
+
+80. MYAGM1SAM189N
+   Title: M1 for Saudi Arabia
+   Frequency: M
+   Popularity: 3
+   Notes:
+   M1 comprises currency outside banks and demand deposits of businesses, individuals, and government entities in national currency with commercial banks. Currency in circulation refers to notes and coins issued by SAMA less the amount held by commercial banks.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+81. M1433BUSM144NNBR
+   Title: Silver Held in the Treasury, Treasury and Federal Reserve Banks for United States
+   Frequency: M
+   Popularity: 3
+   Notes:
+   Series Is Presented Here As Two Variables--(1)--Original Data, 1878-1914 (2)--Original Data, 1914-1949. Data Are For Total Stock Of Silver Including Coverage Of Treasury Notes For 1890, Which, Prior To March 1915 Were Included In "Other Currency". Source: Computed By NBER From Annual Reports Of The Secretary Of The Treasury; And Circulation Statements Of U.S. Money.
+
+This NBER data series m14133b appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.
+
+NBER Indicator: m14133b
+
+--------------------------------------------------------------------------------
+
+82. M1425AUSM144SNBR
+   Title: Currency Held by the Public for United States
+   Frequency: M
+   Popularity: 4
+   Notes:
+   Series Is Presented Here As Two Variables--(1)--Seasonally Adjusted Data, 1867-1906 (2)--Seasonally Adjusted, 1907-1946 (3)--Original Data, 1947-1968 (4)--Seasonally Adjusted, 1947-1968. Data Represent Vault Cash Of All Banks Subtracted From Currency In Circulation Outside The Treasury And Federal Reserve Banks. Data Are For The Wednesday Nearest The End Of The Month. Source: Friedman And Schwartz, Monetary Statistics Of The United States (NBER, 1970), Table 27, Column 3, Pp. 402-415.
+
+This NBER data series m14125a appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.
+
+NBER Indicator: m14125a
+
+--------------------------------------------------------------------------------
+
+83. TWEXOPA
+   Title: Real OITP Dollar Index (Goods Only) (DISCONTINUED)
+   Frequency: M
+   Popularity: 2
+   Notes:
+   Averages of daily figures. Series is price adjusted. A weighted average of the foreign exchange value of the U.S. dollar against a subset of the broad index currencies that do not circulate widely outside the country of issue.
+
+Countries whose currencies are included in the other important trading partners index are Mexico, China, Taiwan, Korea, Singapore, Hong Kong, Malaysia, Brazil, Thailand, Philippines, Indonesia, India, Israel, Saudi Arabia, Russia, Argentina, Venezuela, Chile and Colombia.
+
+For more information about trade-weighted indexes see the Board of Governors methodology (https://www.federalreserve.gov/econres/notes/feds-notes/revisions-to-the-federal-reserve-dollar-indexes-20190115.htm).
+
+--------------------------------------------------------------------------------
+
+84. MYAGM0PLM189N
+   Title: M0 for Poland
+   Frequency: M
+   Popularity: 3
+   Notes:
+   M0 comprises currency in circulation (including vault cash) and current account balances of other MFIs with the NBP in national currency.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+85. MYAGM3JPM189N
+   Title: M3 for Japan
+   Frequency: M
+   Popularity: 4
+   Notes:
+   M3 comprises notes and coins in circulation outside banking corporations; demand and savings deposits, fixed and installment savings deposits, time deposits, and certificates of deposit of households, nonfinancial corporations, local governments, securities companies, Tanshi companies, and some other financial corporations such as securities finance companies with depository corporations in national and foreign currency; and nonresident deposits with banking corporations in national currency. Beginning in April 2003, M3 comprises notes and coins in circulation outside depository corporations and demand and savings deposits, fixed and installment savings deposits, time deposits, and certificates of deposit of households, nonfinancial corporations, local governments, and some other financial corporations such as securities finance companies with depository corporations in national and foreign currency.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+86. MYAGM3JPM189S
+   Title: M3 for Japan
+   Frequency: M
+   Popularity: 3
+   Notes:
+   M3 comprises notes and coins in circulation outside banking corporations; demand and savings deposits, fixed and installment savings deposits, time deposits, and certificates of deposit of households, nonfinancial corporations, local governments, securities companies, Tanshi companies, and some other financial corporations such as securities finance companies with depository corporations in national and foreign currency; and nonresident deposits with banking corporations in national currency. Beginning in April 2003, M3 comprises notes and coins in circulation outside depository corporations and demand and savings deposits, fixed and installment savings deposits, time deposits, and certificates of deposit of households, nonfinancial corporations, local governments, and some other financial corporations such as securities finance companies with depository corporations in national and foreign currency.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+87. MYAGM0RUM189N
+   Title: M0 for Russian Federation
+   Frequency: M
+   Popularity: 3
+   Notes:
+   M0 comprises currency in circulation outside depository corporations.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+88. BOGUMBNS
+   Title: Board of Governors Monetary Base, Not Adjusted for Changes in Reserve Requirements (DISCONTINUED)
+   Frequency: M
+   Popularity: 2
+   Notes:
+   This series has been discontinued with a phase of the simplification of reserves administration (https://federalregister.gov/a/2012-8562). The simplification of reserves administration provides an opportunity to streamline the process of calculating the monetary base so that it reflects the fundamental concept of this measure. The fundamental concept of the monetary base, or "high-powered money," is the sum of total balances maintained by depository institutions at the Federal Reserve plus currency in circulation.
+Please see the new monetary base at https://fred.stlouisfed.org/series/BOGMBASE.
+
+--------------------------------------------------------------------------------
+
+89. M14006USM144NNBR
+   Title: Circulation for United States
+   Frequency: M
+   Popularity: 3
+   Notes:
+   Data Were Computed By NBER By Summing National Bank Circulation And State Bank Circulation. Monthly Coverage Varies From Year To Year. Except For 1875 And 1914, Which Only Have Data For Three Months, All Years Have Scattered Five Month Coverage. Source: Annual Reports Of The Comptroller Of The Currency.
+
+This NBER data series m14006 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.
+
+NBER Indicator: m14006
+
+--------------------------------------------------------------------------------
+
+90. MYAGM1ZAM189N
+   Title: M1 for South Africa
+   Frequency: M
+   Popularity: 3
+   Notes:
+   M1A comprises notes and coins in circulation outside the depository corporations and check and transferable deposits of households, local governments, public and private nonfinancial corporations, and other financial corporations (including the PIC beginning in January 1996) with the depository corporations.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+91. M14065USM144NNBR
+   Title: Notes in Circulation, Federal Reserve Banks for United States
+   Frequency: M
+   Popularity: 3
+   Notes:
+   Data For 1914-1941 Represent Monthly Averages Of Daily Figures; Data For 1942-1949 Are Averages Of Wednesday Figures, For Weeks Ending On The First, Second, Or Third Of The Month Data Were Added To The Preceeding Month. An Act Of May 12, 1933 Made All Coins And Currencies Of The United States Legal Tender And Eligible For Use As Reserve Against Such Deposits. Since That Date, Therefore, Cash Reserves Include Coins And Currency Not Previously Eligible For Such Use. For Comparative Purposes, Revised Figures Are Given In The 1933 Annual Report, Table 10, P. 94. Source: Federal Reserve Board, Data For 1914-1933: Annual Report Of The Frb, 1928, Pp. 50-52; 1932, P. 52; 1933, P. 94, Table 9410. Data For 1934: Federal Reserve Bulletin, Successive Monthly Issues. Data For 1935-1941: Banking And Monetary Statistics. Data For 1942-1949: Frb Bulletin.
+
+This NBER data series m14065 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.
+
+NBER Indicator: m14065
+
+--------------------------------------------------------------------------------
+
+92. MYAGM0ZAM189N
+   Title: M0 for South Africa
+   Frequency: M
+   Popularity: 2
+   Notes:
+   M0 comprises notes and coins in circulation outside the SARB and other depository corporations' deposits with the SARB in national currency.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+93. CURRRSBPMT
+   Title: Reserve Bank $1 Coin Payments to Circulation
+   Frequency: Q
+   Popularity: 2
+
+--------------------------------------------------------------------------------
+
+94. M14005USM144NNBR
+   Title: National Banks, Circulation, Total for United States
+   Frequency: M
+   Popularity: 2
+   Notes:
+   Data Are For "National Bank Notes Outstanding", Not "National Bank Notes In Circulation". Data Were Computed By NBER By Summing National Bank Circulation And State Bank Circulation. Monthly Coverage Varies From Year To Year. Every Year Has Scattered Five Month Coverage Except For 1914 Which Only Has Data For Three Months. Source: Annual Report Of The Comptroller Of The Currency, 1916, Vol. Ii, Pp. 333-361.
+
+This NBER data series m14005 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.
+
+NBER Indicator: m14005
+
+--------------------------------------------------------------------------------
+
+95. M1424BUSM144NNBR
+   Title: National Bank Notes Outstanding Outside the Treasury for United States
+   Frequency: M
+   Popularity: 2
+   Notes:
+   Series Is Presented Here As Three Variables--(1)--Original Data, 1864-1879 (2)--Original Data, 1874-1919 (3)--Original Data, 1914-1949. Data For 1874-February 1887 Were Computed By Subtracting National Bank Notes In The Treasury From The Total Outstanding. All Data Were Published As Of The First Of The Month, But Are Given Here As Of The End Of The Preceeding Month. Data For August 1914-January 1915 Include Additional Circulating Notes Issued Under Authority Of The Act Of May 30, 1908 As Amended By Acts Of December 23, 1913 And August 4, 1914. Source: Data For 1874-May 1878: Computed By NBER From The Annual Report Of The Comptroller Fo The Currency, 1891, P. 125. Data For June 1878-February 1887: Computed By NBER From The Annual Report Of The Secretary Of The Treasury On The State Of Finances For The Fiscal Year Ended 1898, P. 44. Data For March 1887-1919: U.S. Department Of Treasury, Circulation Statement Of U.S. Money, Monthly Publication.
+
+This NBER data series m14124b appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.
+
+NBER Indicator: m14124b
+
+--------------------------------------------------------------------------------
+
+96. MYAGM0GBM189N
+   Title: M0 for United Kingdom, Level
+   Frequency: M
+   Popularity: 2
+   Notes:
+   M0 comprises notes and coin in circulation outside the Bank of England, plus bankers' operational balances with the Bank of England. M4 comprises notes and coin in circulation outside the Bank of England and banking institutions in the U.K., plus non-bank private sector sterling deposits held with U.K. banking institutions. Beginning July 2009, refers to M4 excluding intermediate OFCs (M4ex). Additional detail is available on the Bank of England website (https://www.bankofengland.co.uk/statistics/details/further-details-about-m4-data). M4 differs from Money plus Quasi-Money (line 35l) because it excludes private sector foreign currency deposits, and sterling and foreign currency deposits of official entities (local authorities and public enterprises).
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+97. M14007USM144NNBR
+   Title: Circulation, Other Than Central Reserve Cities for United States
+   Frequency: M
+   Popularity: 1
+   Notes:
+   Data Were Computed By NBER By Summing National Bank Circulation And State Bank Circulation. Data Exclude Chicago And St. Louis. Monthly Coverage Varies From Year To Year. Except For 1882, Which Only Has Data For October And December, And 1914, Which Has Three Month Coverage, All Other Years Have Scattered Five Month Coverage. Source: Computed By NBER From Annual Reports Of The Comptroller Of The Currency.
+
+This NBER data series m14007 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.
+
+NBER Indicator: m14007
+
+--------------------------------------------------------------------------------
+
+98. CURRRSBRCP
+   Title: Reserve Bank $1 Coin Receipts from Circulation
+   Frequency: Q
+   Popularity: 1
+
+--------------------------------------------------------------------------------
+
+99. M14008USM144NNBR
+   Title: Circulation, National Banks, Central Reserve Cities for United States
+   Frequency: M
+   Popularity: 1
+   Notes:
+   Data Were Computed By NBER By Summing National Bank Circulation And State Bank Circulation. Data Are For New York, Chicago, And St. Louis. Monthly Coverage Varies From Year To Year. Except For 1882, Which Only Has Data For October And December, And 1914, Which Has Three Month Coverage, All Other Years Have Scattered Five Month Coverage. Source: Computed By NBER From Annual Reports Of The Comptroller Of The Currency.
+
+This NBER data series m14008 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.
+
+NBER Indicator: m14008
+
+--------------------------------------------------------------------------------
+
+100. M14009US35620M144NNBR
+   Title: Circulation, National Banks for New York, NY
+   Frequency: M
+   Popularity: 1
+   Notes:
+   Data Were Computed By NBER By Summing National Bank Circulation And State Bank Circulation. Monthly Coverage Varies From Year To Year. Except For 1914, Which Has Only Data For Three Months, All Years Have Scattered Five Month Coverage. Data For December 1875-October 1876 And December 1877-June 1878 Are Rounded In The Source To Millions Only. Source: Computed By NBER From Annual Reports Of The Comptroller Of The Currency.
+
+This NBER data series m14009 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.
+
+NBER Indicator: m14009
+
+--------------------------------------------------------------------------------
+
+101. M1436BUSM144NNBR
+   Title: Other Currency Outside the Treasury and Federal Reserve Banks for United States
+   Frequency: M
+   Popularity: 1
+   Notes:
+   Series Is Presented Here As Three Variables--(1)--Original Data, 1878-1914 (2)--Original Data, 1914-1919 (3)--Original Data, 1919-1949. Data Exclude Gold, Silver, And National Bank Notes, But Include Minor Coin. Data For Federal Reserve Banks Are Revised By The Federal Reserve Board. Beginning March 1915 Treasury Notes Of 1890 Are Excluded From "Other Currency" And Included In Silver. Source: Computed By NBER Using Data From The U.S. Treasury Department Data: Annual Reports Of The Treasurer, 1886 And Following Years; Circulation Statements Of U.S. Money, 1887 And Following Years.
+
+This NBER data series m14136b appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.
+
+NBER Indicator: m14136b
+
+--------------------------------------------------------------------------------
+
+102. MYAGM0GBM189S
+   Title: M0 for United Kingdom, Flow
+   Frequency: M
+   Popularity: 1
+   Notes:
+   M0 comprises notes and coin in circulation outside the Bank of England, plus bankers' operational balances with the Bank of England. M4 comprises notes and coin in circulation outside the Bank of England and banking institutions in the U.K., plus non-bank private sector sterling deposits held with U.K. banking institutions. Beginning July 2009, refers to M4 excluding intermediate OFCs (M4ex). Additional detail is available on the Bank of England website (https://www.bankofengland.co.uk/statistics/details/further-details-about-m4-data). M4 differs from Money plus Quasi-Money (line 35l) because it excludes private sector foreign currency deposits, and sterling and foreign currency deposits of official entities (local authorities and public enterprises).
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+103. M1435BUSM144NNBR
+   Title: Total Currency Outside the Treasury and Federal Reserve Banks for United States
+   Frequency: M
+   Popularity: 1
+   Notes:
+   Series Is Presented Here As Two Variables--(1)--Original Data, 1878-1914 (2)--Original Data, 1914-1949. Data Include Minor Coin. Beginning December 17, 192, The Circulation Statement Is Dated For End Of Month Instead Of Beginning Of The Month. Data Are Based On Revised Daily Figures. Source: U.S. Treasury Department, Computed By NBER From Data Found In Annual Report Of The Treasurer, 1886; And Circulation Statement Of U.S. Money Since 1887.
+
+This NBER data series m14135b appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.
+
+NBER Indicator: m14135b
+
+--------------------------------------------------------------------------------
+
+104. M1435AUSM144NNBR
+   Title: Total Currency Outside the Treasury for United States
+   Frequency: M
+   Popularity: 1
+   Notes:
+   Series Is Presented Here As Two Variables--(1)--Original Data, 1878-1914 (2)--Original Data, 1914-1949. Data Exclude Minor Coin. First Of Month Data In The Source Are Presented Here As End Of Month Data. Source: U.S. Treasury Department, Computed By NBER From Data Found In Annual Report Of The Treasurer, 1886; And Circulation Statement Of U.S. Money Since 1887.
+
+This NBER data series m14135a appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.
+
+NBER Indicator: m14135a
+
+--------------------------------------------------------------------------------
+
+105. M1436AUSM144NNBR
+   Title: Other Currency Outside the Treasury for United States
+   Frequency: M
+   Popularity: 1
+   Notes:
+   Series Is Presented Here As Three Variables--(1)--Original Data, 1878-1914 (2)--Original Data, 1914-1919 (3)--Original Data, 1919-1949. Data Exclude Gold, Silver, National Bank Notes, And Minor Coin. Data Are End Of Month Figures Printed In Original Source As First Of Following Month. Source: Computed By NBER Using Data From The U.S. Treasury Department Data: Annual Reports Of The Treasurer, 1886 And Following Years; Circulation Statements Of U.S. Money, 1887 And Following Years.
+
+This NBER data series m14136a appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.
+
+NBER Indicator: m14136a
+
+--------------------------------------------------------------------------------
+
+106. M1436CUSM144NNBR
+   Title: Other Currency Outside the Treasury and Federal Reserve Banks for United States
+   Frequency: M
+   Popularity: 1
+   Notes:
+   Series Is Presented Here As Three Variables--(1)--Original Data, 1878-1914 (2)--Original Data, 1914-1919 (3)--Original Data, 1919-1949. Data Exclude Gold And Silver, But Include National Bank Notes And Minor Coin. Data For Federal Reserve Banks Are Revised By The Federal Reserve Board. Beginning December 31, 1927 Circulation Statements Are Dated For The End Of The Month Instead Of The Beginning Of The Succeeding Month And Figures On The Revised Daily Treasury Statement Basis Are Given Instead Of The Unrevised Figures Previously Used. Source: Computed By NBER Using Data From The U.S. Treasury Department Data: Annual Reports Of The Treasurer, 1886 And Following Years; Circulation Statements Of U.S. Money, 1887 And Following Years.
+
+This NBER data series m14136c appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.
+
+NBER Indicator: m14136c
+
+--------------------------------------------------------------------------------
+

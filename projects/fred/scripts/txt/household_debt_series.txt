@@ -1,0 +1,140 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. TDSP
+   Title: Household Debt Service Payments as a Percent of Disposable Personal Income
+   Frequency: Q
+   Popularity: 74
+   Notes:
+   Household Debt Service Ratio (DSR) (https://fred.stlouisfed.org/series/TDSP) is the ratio of total required household debt payments to total disposable income.
+
+The DSR is divided into two parts. The Mortgage DSR (MDSP) (https://fred.stlouisfed.org/series/MDSP) is total quarterly required mortgage payments divided by total quarterly disposable personal income. The Consumer DSR (CDSP) (https://fred.stlouisfed.org/series/CDSP) is total quarterly scheduled consumer debt payments divided by total quarterly disposable personal income. The Mortgage DSR and the Consumer DSR sum to the DSR.
+
+For questions on the data, please contact the data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/housedebt/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+2. HDTGPDUSQ163N
+   Title: Household Debt to GDP for United States
+   Frequency: Q
+   Popularity: 69
+   Notes:
+   The data for household debt comprise debt incurred by resident households of the economy only. This FSI measures the overall level of household indebtedness (commonly related to consumer loans and mortgages) as a share of GDP.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available from the IMF (http://www.imf.org/external/terms.htm).
+
+--------------------------------------------------------------------------------
+
+3. HCCSDODNS
+   Title: Households and Nonprofit Organizations; Consumer Credit; Liability, Level
+   Frequency: Q
+   Popularity: 44
+   Notes:
+   Source ID: LA153166000.Q
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=LA153166000&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+4. CMDEBT
+   Title: Households and Nonprofit Organizations; Debt Securities and Loans; Liability, Level
+   Frequency: Q
+   Popularity: 44
+   Notes:
+   Source ID: LA154104005.Q
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=LA154104005&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+5. BOGZ1FL154104005A
+   Title: Households and Nonprofit Organizations; Debt Securities and Loans; Liability, Level
+   Frequency: A
+   Popularity: 3
+   Notes:
+   Source ID: FL154104005.A
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FL154104005&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+6. BOGZ1LA154104005A
+   Title: Households and Nonprofit Organizations; Debt Securities and Loans; Liability, Level
+   Frequency: A
+   Popularity: 2
+   Notes:
+   Source ID: LA154104005.A
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=LA154104005&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+7. HHMSDODNS
+   Title: Households and Nonprofit Organizations; One-to-Four-Family Residential Mortgages; Liability, Level
+   Frequency: Q
+   Popularity: 37
+   Notes:
+   Source ID: LA153165105.Q
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=LA153165105&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+8. TCMILBSHNO
+   Title: Households and Nonprofit Organizations; Debt Securities and Loans; Liability, Level
+   Frequency: Q
+   Popularity: 14
+   Notes:
+   Source ID: FL154104005.Q
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FL154104005&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+9. HDTGPDCAQ163N
+   Title: Household Debt to GDP for Canada
+   Frequency: Q
+   Popularity: 39
+   Notes:
+   The data for household debt comprise debt incurred by resident households of the economy only. This FSI measures the overall level of household indebtedness (commonly related to consumer loans and mortgages) as a share of GDP.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+10. HDTGPDAUQ163N
+   Title: Household Debt to GDP for Australia
+   Frequency: Q
+   Popularity: 30
+   Notes:
+   The data for household debt comprise debt incurred by resident households of the economy only. This FSI measures the overall level of household indebtedness (commonly related to consumer loans and mortgages) as a share of GDP.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+

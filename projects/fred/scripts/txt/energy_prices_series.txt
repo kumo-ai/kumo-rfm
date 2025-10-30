@@ -1,0 +1,126 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. CORESTICKM159SFRBATL
+   Title: Sticky Price Consumer Price Index less Food and Energy
+   Frequency: M
+   Popularity: 83
+   Notes:
+   The Sticky Price Consumer Price Index (CPI) is calculated from a subset of goods and services included in the CPI that change price relatively infrequently. Because these goods and services change price relatively infrequently, they are thought to incorporate expectations about future inflation to a greater degree than prices that change on a more frequent basis. One possible explanation for sticky prices could be the costs firms incur when changing price.
+
+To obtain more information about this release see: Michael F. Bryan, and Brent H. Meyer. “Are Some Prices in the CPI More Forward Looking Than Others? We Think So.” Economic Commentary (Federal Reserve Bank of Cleveland) (May 19, 2010): 1–6. https://doi.org/10.26509/frbc-ec-201002 (https://doi.org/10.26509/frbc-ec-201002).
+
+--------------------------------------------------------------------------------
+
+2. CORESTICKM158SFRBATL
+   Title: Sticky Price Consumer Price Index less Food and Energy
+   Frequency: M
+   Popularity: 43
+   Notes:
+   The Sticky Price Consumer Price Index (CPI) is calculated from a subset of goods and services included in the CPI that change price relatively infrequently. Because these goods and services change price relatively infrequently, they are thought to incorporate expectations about future inflation to a greater degree than prices that change on a more frequent basis. One possible explanation for sticky prices could be the costs firms incur when changing price.
+
+To obtain more information about this release see: Michael F. Bryan, and Brent H. Meyer. “Are Some Prices in the CPI More Forward Looking Than Others? We Think So.” Economic Commentary Federal Reserve Bank of Cleveland May 19, 2010: 1–6. https://doi.org/10.26509/frbc-ec-201002 (https://doi.org/10.26509/frbc-ec-201002).
+
+--------------------------------------------------------------------------------
+
+3. CORESTICKM157SFRBATL
+   Title: Sticky Price Consumer Price Index less Food and Energy
+   Frequency: M
+   Popularity: 31
+   Notes:
+   The Sticky Price Consumer Price Index (CPI) is calculated from a subset of goods and services included in the CPI that change price relatively infrequently. Because these goods and services change price relatively infrequently, they are thought to incorporate expectations about future inflation to a greater degree than prices that change on a more frequent basis. One possible explanation for sticky prices could be the costs firms incur when changing price.
+
+To obtain more information about this release see: Michael F. Bryan, and Brent H. Meyer. “Are Some Prices in the CPI More Forward Looking Than Others? We Think So.” Economic Commentary (Federal Reserve Bank of Cleveland) (May 19, 2010): 1–6. https://doi.org/10.26509/frbc-ec-201002 (https://doi.org/10.26509/frbc-ec-201002).
+
+--------------------------------------------------------------------------------
+
+4. CORESTICKM679SFRBATL
+   Title: Sticky Price Consumer Price Index less Food and Energy
+   Frequency: M
+   Popularity: 31
+   Notes:
+   The Sticky Price Consumer Price Index (CPI) is calculated from a subset of goods and services included in the CPI that change price relatively infrequently. Because these goods and services change price relatively infrequently, they are thought to incorporate expectations about future inflation to a greater degree than prices that change on a more frequent basis. One possible explanation for sticky prices could be the costs firms incur when changing price.
+
+To obtain more information about this release see: Michael F. Bryan, and Brent H. Meyer. “Are Some Prices in the CPI More Forward Looking Than Others? We Think So.” Economic Commentary Federal Reserve Bank of Cleveland May 19, 2010: 1–6. https://doi.org/10.26509/frbc-ec-201002 (https://doi.org/10.26509/frbc-ec-201002).
+
+--------------------------------------------------------------------------------
+
+5. APU000072610
+   Title: Average Price: Electricity per Kilowatt-Hour in U.S. City Average
+   Frequency: M
+   Popularity: 77
+   Notes:
+   All electricity.
+
+Average consumer prices are calculated for household fuel, motor fuel, and food items from prices collected for the Consumer Price Index (CPI). Average prices are best used to measure the price level in a particular month, not to measure price change over time. It is more appropriate to use CPI index values for the particular item categories to measure price change.
+
+Prices, except for electricity, are collected monthly by BLS representatives in the 75 urban areas priced for the CPI. Electricity prices are collected for the BLS for the same 75 areas on a monthly basis by the Department of Energy using mail questionnaires. All fuel prices include applicable Federal, State, and local taxes; prices for natural gas and electricity also include fuel and purchased gas adjustments.
+
+For more information, please visit the Bureau of Labor Statistics (https://www.bls.gov/cpi/factsheets/average-prices.htm).
+
+--------------------------------------------------------------------------------
+
+6. PCEPILFE
+   Title: Personal Consumption Expenditures Excluding Food and Energy (Chain-Type Price Index)
+   Frequency: M
+   Popularity: 75
+   Notes:
+   BEA Account Code: DPCCRG
+
+The Personal Consumption Expenditures Price Index is a measure of the prices that people living in the United States, or those buying on their behalf, pay for goods and services. The change in the PCE price index is known for capturing inflation (or deflation) across a wide range of consumer expenses and reflecting changes in consumer behavior. For example, if car prices rise, car sales may decline while bicycle sales increase. 
+
+The PCE Price Index is produced by the Bureau of Economic Analysis (BEA), which revises previously published PCE data to reflect updated information or new methodology, providing consistency across decades of data that's valuable for researchers. They also offer the series as a Chain-Type index and excluding food and energy products, as above. The PCE price index less food excluding food and energy is used primarily for macroeconomic analysis and forecasting future values of the PCE price index.
+
+The PCE Price Index is similar to the Bureau of Labor Statistics' consumer price index for urban consumers. The two indexes, which have their own purposes and uses, are constructed differently, resulting in different inflation rates.
+
+For more information on the PCE price index, see:
+U.S. Bureau of Economic Analysis, Guide to the National Income and Product Accounts of the United States (NIPA) (https://www.bea.gov/national/pdf/nipaguid.pdf) 
+U.S. Bureau of Economic Analysis, Personal Consumption Expenditures Price Index (https://www.bea.gov/data/personal-consumption-expenditures-price-index)
+U.S. Bureau of Economic Analysis, Prices & Inflation (https://www.bea.gov/resources/learning-center/what-to-know-prices-inflation)
+U.S. Bureau of Labor Statistics, Differences between the Consumer Price Index and the Personal Consumption Expenditure Price Index (https://www.bls.gov/opub/btn/archive/differences-between-the-consumer-price-index-and-the-personal-consumption-expenditures-price-index.pdf)
+
+--------------------------------------------------------------------------------
+
+7. BPCCRO1Q156NBEA
+   Title: Personal Consumption Expenditures Excluding Food and Energy (Chain-Type Price Index)
+   Frequency: Q
+   Popularity: 40
+   Notes:
+   BEA Account Code: BPCCRO
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+8. DPCCRV1Q225SBEA
+   Title: Personal Consumption Expenditures (PCE) Excluding Food and Energy (Chain-Type Price Index)
+   Frequency: Q
+   Popularity: 73
+   Notes:
+   BEA Account Code: DPCCRV
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+9. DPCCRG3A086NBEA
+   Title: Personal consumption expenditures excluding food and energy (chain-type price index)
+   Frequency: A
+   Popularity: 25
+   Notes:
+   BEA Account Code: DPCCRG
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+10. CUUS0000SA0L1E
+   Title: Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average
+   Frequency: SA
+   Popularity: 11
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+

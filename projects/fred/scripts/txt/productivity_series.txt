@@ -1,0 +1,114 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. GDP
+   Title: Gross Domestic Product
+   Frequency: Q
+   Popularity: 95
+   Notes:
+   BEA Account Code: A191RC
+
+Gross domestic product (GDP), the featured measure of U.S. output, is the market value of the goods and services produced by labor and property located in the United States.For more information, see the Guide to the National Income and Product Accounts of the United States (NIPA) and the Bureau of Economic Analysis (http://www.bea.gov/national/pdf/nipaguid.pdf).
+
+--------------------------------------------------------------------------------
+
+2. GDPC1
+   Title: Real Gross Domestic Product
+   Frequency: Q
+   Popularity: 94
+   Notes:
+   BEA Account Code: A191RX
+
+Real gross domestic product is the inflation adjusted value of the goods and services produced by labor and property located in the United States.For more information see the Guide to the National Income and Product Accounts of the United States (NIPA). For more information, please visit the Bureau of Economic Analysis (http://www.bea.gov/national/pdf/nipaguid.pdf).
+
+--------------------------------------------------------------------------------
+
+3. A191RL1Q225SBEA
+   Title: Real Gross Domestic Product
+   Frequency: Q
+   Popularity: 76
+   Notes:
+   BEA Account Code: A191RL
+
+Gross domestic product (GDP) is the value of the goods and services produced by the nation's economy less the value of the goods and services used up in production. GDP is also equal to the sum of personal consumption expenditures, gross private domestic investment, net exports of goods and services, and government consumption expenditures and gross investment. Real values are inflation-adjusted estimates—that is, estimates that exclude the effects of price changes.
+
+For more information about this series, please visit the Bureau of Economic Analysis (http://www.bea.gov/national/).
+
+--------------------------------------------------------------------------------
+
+4. GDPA
+   Title: Gross Domestic Product
+   Frequency: A
+   Popularity: 68
+   Notes:
+   BEA Account Code: A191RC
+
+
+
+--------------------------------------------------------------------------------
+
+5. GDPCA
+   Title: Real Gross Domestic Product
+   Frequency: A
+   Popularity: 61
+   Notes:
+   BEA Account Code: A191RX
+
+A Guide to the National Income and Product Accounts of the United States (http://www.bea.gov/national/pdf/nipaguid.pdf) (NIPA)
+
+--------------------------------------------------------------------------------
+
+6. A191RP1Q027SBEA
+   Title: Gross Domestic Product
+   Frequency: Q
+   Popularity: 57
+   Notes:
+   BEA Account Code: A191RP
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+7. A191RL1A225NBEA
+   Title: Real Gross Domestic Product
+   Frequency: A
+   Popularity: 56
+   Notes:
+   BEA Account Code: A191RL
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+8. A191RO1Q156NBEA
+   Title: Real Gross Domestic Product
+   Frequency: Q
+   Popularity: 53
+   Notes:
+   BEA Account Code: A191RO
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+9. A191RP1A027NBEA
+   Title: Gross Domestic Product
+   Frequency: A
+   Popularity: 44
+   Notes:
+   BEA Account Code: A191RP
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+10. ND000334Q
+   Title: Real Gross Domestic Product
+   Frequency: Q
+   Popularity: 43
+   Notes:
+   BEA Account Code: ND000334
+
+--------------------------------------------------------------------------------
+

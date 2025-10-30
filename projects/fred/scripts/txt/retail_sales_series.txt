@@ -1,0 +1,108 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. TOTALSA
+   Title: Total Vehicle Sales
+   Frequency: M
+   Popularity: 79
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+2. TOTALNSA
+   Title: Total Vehicle Sales
+   Frequency: M
+   Popularity: 47
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+3. RSXFS
+   Title: Advance Retail Sales: Retail Trade
+   Frequency: M
+   Popularity: 70
+   Notes:
+   E-commerce sales are included in the total monthly sales estimates. 
+
+The value for the most recent month is an advance estimate that is based on data from a subsample of firms from the larger Monthly Retail Trade Survey. The advance estimate will be superseded in following months by revised estimates derived from the larger Monthly Retail Trade Survey. The associated series from the Monthly Retail Trade Survey is available at https://fred.stlouisfed.org/series/MRTSSM44000USS
+
+ Information about the Advance Monthly Retail Sales Survey can be found on the Census website at https://www.census.gov/retail/marts/about_the_surveys.html
+
+--------------------------------------------------------------------------------
+
+4. RSXFSN
+   Title: Advance Retail Sales: Retail Trade
+   Frequency: M
+   Popularity: 39
+   Notes:
+   E-commerce sales are included in the total monthly sales estimates. 
+
+The value for the most recent month is an advance estimate that is based on data from a subsample of firms from the larger Monthly Retail Trade Survey. The advance estimate will be superseded in following months by revised estimates derived from the larger Monthly Retail Trade Survey. The associated series from the Monthly Retail Trade Survey is available at https://fred.stlouisfed.org/series/MRTSSM44000USN
+
+ Information about the Advance Monthly Retail Sales Survey can be found on the Census website at https://www.census.gov/retail/marts/about_the_surveys.html
+
+--------------------------------------------------------------------------------
+
+5. HTRUCKSSAAR
+   Title: Motor Vehicle Retail Sales: Heavy Weight Trucks
+   Frequency: M
+   Popularity: 68
+   Notes:
+   Heavy trucks are trucks with more than 14,000 pounds gross vehicle weight.
+
+--------------------------------------------------------------------------------
+
+6. MARTSMPCSM44000USS
+   Title: Advance Retail Sales: Retail Trade
+   Frequency: M
+   Popularity: 29
+   Notes:
+   The value for the most recent month is an advance estimate that is based on data from a subsample of firms from the larger Monthly Retail Trade Survey. The advance estimate will be superseded in following months by revised estimates derived from the larger Monthly Retail Trade Survey. The associated series from the Monthly Retail Trade Survey is available at https://fred.stlouisfed.org/series/MRTSMPCSM44000USS
+
+ Information about the Advance Monthly Retail Sales Survey can be found on the Census website at https://www.census.gov/retail/marts/about_the_surveys.html
+
+--------------------------------------------------------------------------------
+
+7. MARTSMPCSM44000USN
+   Title: Advance Retail Sales: Retail Trade
+   Frequency: M
+   Popularity: 15
+   Notes:
+   The value for the most recent month is an advance estimate that is based on data from a subsample of firms from the larger Monthly Retail Trade Survey. The advance estimate will be superseded in following months by revised estimates derived from the larger Monthly Retail Trade Survey. The associated series from the Monthly Retail Trade Survey is available at https://fred.stlouisfed.org/series/MRTSMPCSM44000USN
+
+ Information about the Advance Monthly Retail Sales Survey can be found on the Census website at https://www.census.gov/retail/marts/about_the_surveys.html
+
+--------------------------------------------------------------------------------
+
+8. HTRUCKSSA
+   Title: Motor Vehicle Retail Sales: Heavy Weight Trucks
+   Frequency: M
+   Popularity: 32
+   Notes:
+   Heavy trucks are trucks with more than 14,000 pounds gross vehicle weight.
+
+--------------------------------------------------------------------------------
+
+9. HTRUCKSNSA
+   Title: Motor Vehicle Retail Sales: Heavy Weight Trucks
+   Frequency: M
+   Popularity: 27
+   Notes:
+   Heavy trucks are trucks with more than 14,000 pounds gross vehicle weight.
+
+--------------------------------------------------------------------------------
+
+10. RSAFS
+   Title: Advance Retail Sales: Retail Trade and Food Services
+   Frequency: M
+   Popularity: 63
+   Notes:
+   The value for the most recent month is an advance estimate that is based on data from a subsample of firms from the larger Monthly Retail Trade Survey. The advance estimate will be superseded in following months by revised estimates derived from the larger Monthly Retail Trade Survey. The associated series from the Monthly Retail Trade Survey is available at https://fred.stlouisfed.org/series/MRTSSM44X72USS
+
+ Information about the Advance Monthly Retail Sales Survey can be found on the Census website at https://www.census.gov/retail/marts/about_the_surveys.html
+
+--------------------------------------------------------------------------------
+

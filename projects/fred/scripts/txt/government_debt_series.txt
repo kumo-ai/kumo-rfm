@@ -1,0 +1,130 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. GFDEBTN
+   Title: Federal Debt: Total Public Debt
+   Frequency: Q
+   Popularity: 89
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+2. DEBTTLJPA188A
+   Title: Central government debt, total (% of GDP) for Japan
+   Frequency: A
+   Popularity: 47
+   Notes:
+   Debt is the entire stock of direct government fixed-term contractual obligations to others outstanding on a particular date. It includes domestic and foreign liabilities such as currency and money deposits, securities other than shares, and loans. It is the gross amount of government liabilities reduced by the amount of equity and financial derivatives held by the government. Because debt is a stock rather than a flow, it is measured as of a given date, usually the last day of the fiscal year.
+
+World Bank Source: International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.
+
+Source Indicator: GC.DOD.TOTL.GD.ZS
+
+--------------------------------------------------------------------------------
+
+3. GGGDTACNA188N
+   Title: General government gross debt for China
+   Frequency: A
+   Popularity: 43
+   Notes:
+   Gross debt consists of all liabilities that require payment or payments of interest and/or principal by the debtor to the creditor at a date or dates in the future. This includes debt liabilities in the form of Special Drawing Rights (SDRs), currency and deposits, debt securities, loans, insurance, pensions and standardized guarantee schemes, and other accounts payable. Thus, all liabilities in the Government Finance Statistics Manual 2001 (GFSM 2001) system are debt, except for equity and investment fund shares and financial derivatives and employee stock options. Debt can be valued at current market, nominal, or face values (GFSM 2001, paragraph 7.110). A projection of this data can be found at https://fred.stlouisfed.org/series/GGGDTPCNA188N.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+4. GGGDTAARA188N
+   Title: General government gross debt for Argentina
+   Frequency: A
+   Popularity: 41
+   Notes:
+   Gross debt consists of all liabilities that require payment or payments of interest and/or principal by the debtor to the creditor at a date or dates in the future. This includes debt liabilities in the form of Special Drawing Rights (SDRs), currency and deposits, debt securities, loans, insurance, pensions and standardized guarantee schemes, and other accounts payable. Thus, all liabilities in the Government Finance Statistics Manual 2001 (GFSM 2001) system are debt, except for equity and investment fund shares and financial derivatives and employee stock options. Debt can be valued at current market, nominal, or face values (GFSM 2001, paragraph 7.110). A projection of this data can be found at https://fred.stlouisfed.org/series/GGGDTPARA188N.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+5. GGGDTAJPA188N
+   Title: General government gross debt for Japan
+   Frequency: A
+   Popularity: 41
+   Notes:
+   Gross debt consists of all liabilities that require payment or payments of interest and/or principal by the debtor to the creditor at a date or dates in the future. This includes debt liabilities in the form of Special Drawing Rights (SDRs), currency and deposits, debt securities, loans, insurance, pensions and standardized guarantee schemes, and other accounts payable. Thus, all liabilities in the Government Finance Statistics Manual 2001 (GFSM 2001) system are debt, except for equity and investment fund shares and financial derivatives and employee stock options. Debt can be valued at current market, nominal, or face values (GFSM 2001, paragraph 7.110). A projection of this data can be found at https://fred.stlouisfed.org/series/GGGDTPJPA188N.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+6. ARGGGXWDGGDP
+   Title: General Government Gross Debt for Argentina
+   Frequency: A
+   Popularity: 9
+   Notes:
+   Observations for the current and future years are projections.
+
+The IMF provides these series as part of their Regional Economic Outlook (REO) reports. These reports discuss recent economic developments and prospects for countries in various regions. They also address economic policy developments that have affected economic performance in their regions and provide country-specific data and analysis.
+
+For more information, please see the Regional Economic Outlook (https://www.imf.org/en/publications/reo) publications.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available here (http://www.imf.org/external/terms.htm).
+
+--------------------------------------------------------------------------------
+
+7. GGGDTADEA188N
+   Title: General government gross debt for Germany
+   Frequency: A
+   Popularity: 39
+   Notes:
+   Gross debt consists of all liabilities that require payment or payments of interest and/or principal by the debtor to the creditor at a date or dates in the future. This includes debt liabilities in the form of Special Drawing Rights (SDRs), currency and deposits, debt securities, loans, insurance, pensions and standardized guarantee schemes, and other accounts payable. Thus, all liabilities in the Government Finance Statistics Manual 2001 (GFSM 2001) system are debt, except for equity and investment fund shares and financial derivatives and employee stock options. Debt can be valued at current market, nominal, or face values (GFSM 2001, paragraph 7.110). A projection of this data can be found at https://fred.stlouisfed.org/series/GGGDTPDEA188N.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+8. SLGSDODNS
+   Title: State and Local Governments; Debt Securities and Loans; Liability, Level
+   Frequency: Q
+   Popularity: 37
+   Notes:
+   Source ID: LA214104005.Q
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=LA214104005&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+9. SLGTCMDODNS
+   Title: State and Local Governments; Debt Securities and Loans; Liability, Level
+   Frequency: Q
+   Popularity: 7
+   Notes:
+   Source ID: FL214104005.Q
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FL214104005&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+10. BOGZ1LA214104005A
+   Title: State and Local Governments; Debt Securities and Loans; Liability, Level
+   Frequency: A
+   Popularity: 4
+   Notes:
+   Source ID: LA214104005.A
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=LA214104005&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+

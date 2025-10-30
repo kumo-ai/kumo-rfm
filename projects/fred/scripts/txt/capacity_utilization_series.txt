@@ -1,0 +1,94 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. TCU
+   Title: Capacity Utilization: Total Index
+   Frequency: M
+   Popularity: 67
+   Notes:
+   explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the  announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors.</p>
+
+--------------------------------------------------------------------------------
+
+2. CAPUTLB50001SQ
+   Title: Capacity Utilization: Total Index
+   Frequency: Q
+   Popularity: 11
+   Notes:
+   explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the  announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors.</p>
+
+--------------------------------------------------------------------------------
+
+3. CAPUTLB50001A
+   Title: Capacity Utilization: Total Index
+   Frequency: A
+   Popularity: 8
+   Notes:
+   explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the  announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors.</p>
+
+--------------------------------------------------------------------------------
+
+4. INDPRO
+   Title: Industrial Production: Total Index
+   Frequency: M
+   Popularity: 81
+   Notes:
+   explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the  announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors.</p>
+
+--------------------------------------------------------------------------------
+
+5. IPB50001N
+   Title: Industrial Production: Total Index
+   Frequency: M
+   Popularity: 39
+   Notes:
+   explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the  announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors.</p>
+
+--------------------------------------------------------------------------------
+
+6. IPB50001SQ
+   Title: Industrial Production: Total Index
+   Frequency: Q
+   Popularity: 26
+   Notes:
+   explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the  announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors.</p>
+
+--------------------------------------------------------------------------------
+
+7. IPB50001A
+   Title: Industrial Production: Total Index
+   Frequency: A
+   Popularity: 18
+   Notes:
+   explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the  announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors.</p>
+
+--------------------------------------------------------------------------------
+
+8. IPB50001NQ
+   Title: Industrial Production: Total Index
+   Frequency: Q
+   Popularity: 11
+   Notes:
+   explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the  announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors.</p>
+
+--------------------------------------------------------------------------------
+
+9. MCUMFN
+   Title: Capacity Utilization: Manufacturing (NAICS)
+   Frequency: M
+   Popularity: 49
+   Notes:
+   explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the  announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors.</p>
+
+--------------------------------------------------------------------------------
+
+10. CUMFN
+   Title: Capacity Utilization: Manufacturing (NAICS)
+   Frequency: Q
+   Popularity: 9
+   Notes:
+   explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the  announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors.</p>
+
+--------------------------------------------------------------------------------
+

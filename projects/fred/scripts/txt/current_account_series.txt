@@ -1,0 +1,128 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. IEABC
+   Title: Balance on current account
+   Frequency: Q
+   Popularity: 60
+   Notes:
+   Calculated by subtracting the imports of goods and services and income payments (debits) from the exports of goods and services and income receipts (credits)
+
+--------------------------------------------------------------------------------
+
+2. IEABCA
+   Title: Balance on current account
+   Frequency: A
+   Popularity: 35
+   Notes:
+   Calculated by subtracting the imports of goods and services and income payments (debits) from the exports of goods and services and income receipts (credits)
+
+--------------------------------------------------------------------------------
+
+3. IEABCN
+   Title: Balance on current account
+   Frequency: Q
+   Popularity: 15
+   Notes:
+   Calculated by subtracting the imports of goods and services and income payments (debits) from the exports of goods and services and income receipts (credits)
+
+--------------------------------------------------------------------------------
+
+4. NETFI
+   Title: Balance on Current Account, NIPA's
+   Frequency: Q
+   Popularity: 48
+   Notes:
+   BEA Account Code: A124RC
+
+A Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)
+
+--------------------------------------------------------------------------------
+
+5. USAB6BLTT02STSAQ
+   Title: Balance of Payments: Current Account: Balance (Revenue Minus Expenditure) for United States
+   Frequency: Q
+   Popularity: 48
+   Notes:
+   OECD Data Filters: 
+REF_AREA: USA
+COUNTERPART_AREA: WXD
+MEASURE: CA
+UNIT_MEASURE: PT_B1GQ
+ACCOUNTING_ENTRY: B
+FS_ENTRY: T
+ADJUSTMENT: Y
+FREQ: Q
+
+All OECD data should be cited as follows: OECD (year), (dataset name), (data source) DOI or https://data-explorer.oecd.org/ (https://data-explorer.oecd.org/). (accessed on (date)).
+
+--------------------------------------------------------------------------------
+
+6. CHNGDPNQDSMEI
+   Title: National Accounts: GDP by Expenditure: Current Prices: Gross Domestic Product: Total for China
+   Frequency: Q
+   Popularity: 46
+   Notes:
+   OECD Descriptor ID: NAEXCP01
+OECD unit ID: CNY
+OECD country ID: CHN
+
+All OECD data should be cited as follows: OECD, "Main Economic Indicators - complete database", Main Economic Indicators (database), https://dx.doi.org/10.1787/data-00052-en (Accessed on date) Copyright, 2016, OECD. Reprinted with permission
+
+--------------------------------------------------------------------------------
+
+7. USABCAGDPBP6
+   Title: Balance of Payments: Current account balance (credit less debit) for United States
+   Frequency: A
+   Popularity: 42
+   Notes:
+   Observations for the current and future years are projections.
+
+The IMF provides these series as part of their Regional Economic Outlook (REO) reports. These reports discuss recent economic developments and prospects for countries in various regions. They also address economic policy developments that have affected economic performance in their regions and provide country-specific data and analysis.
+
+For more information, please see the Regional Economic Outlook (https://www.imf.org/en/publications/reo) publications.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available here (http://www.imf.org/external/terms.htm).
+
+--------------------------------------------------------------------------------
+
+8. CHNGDPNADSMEI
+   Title: National Accounts: GDP by Expenditure: Current Prices: Gross Domestic Product: Total for China
+   Frequency: A
+   Popularity: 4
+   Notes:
+   OECD Descriptor ID: NAEXCP01
+OECD unit ID: CNY
+OECD country ID: CHN
+
+All OECD data should be cited as follows: OECD, "Main Economic Indicators - complete database", Main Economic Indicators (database), https://dx.doi.org/10.1787/data-00052-en (Accessed on date) Copyright, 2016, OECD. Reprinted with permission
+
+--------------------------------------------------------------------------------
+
+9. USAGFCFQDSMEI
+   Title: National Accounts: GDP by Expenditure: Current Prices: Gross Fixed Capital Formation for United States
+   Frequency: Q
+   Popularity: 30
+   Notes:
+   OECD Descriptor ID: NAEXCP04
+OECD unit ID: USD
+OECD country ID: USA
+
+All OECD data should be cited as follows: OECD, "Main Economic Indicators - complete database", Main Economic Indicators (database), https://dx.doi.org/10.1787/data-00052-en (Accessed on date) Copyright, 2016, OECD. Reprinted with permission
+
+--------------------------------------------------------------------------------
+
+10. AUSGDPNQDSMEI
+   Title: National Accounts: GDP by Expenditure: Current Prices: Gross Domestic Product: Total for Australia
+   Frequency: Q
+   Popularity: 29
+   Notes:
+   OECD Descriptor ID: NAEXCP01
+OECD unit ID: AUD
+OECD country ID: AUS
+
+All OECD data should be cited as follows: OECD, "Main Economic Indicators - complete database", Main Economic Indicators (database), https://dx.doi.org/10.1787/data-00052-en (Accessed on date) Copyright, 2016, OECD. Reprinted with permission
+
+--------------------------------------------------------------------------------
+

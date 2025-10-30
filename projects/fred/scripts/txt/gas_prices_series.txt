@@ -1,0 +1,104 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. GASREGW
+   Title: US Regular All Formulations Gas Price
+   Frequency: W
+   Popularity: 74
+   Notes:
+   Weighted average based on sampling of approximately 900 retail outlets, 8:00AM Monday. The price represents self-service unless only full-service is available and includes all taxes. See (http://www.eia.doe.gov/oil_gas/petroleum/data_publications/wrgp/mogas_home_page.html) for further definitions. Regular Gasoline has an antiknock index (average of the research octane rating and the motor octane number) greater than or equal to 85 and less than 88. Octane requirements may vary by altitude.
+
+--------------------------------------------------------------------------------
+
+2. GASREGM
+   Title: US Regular All Formulations Gas Price
+   Frequency: M
+   Popularity: 34
+   Notes:
+   Weighted average based on sampling of approximately 900 retail outlets, 8:00AM Monday. The price represents self-service unless only full-service is available and includes all taxes. See (http://www.eia.doe.gov/oil_gas/petroleum/data_publications/wrgp/mogas_home_page.html) for further definitions. Regular Gasoline has an antiknock index (average of the research octane rating and the motor octane number) greater than or equal to 85 and less than 88. Octane requirements may vary by altitude.
+
+--------------------------------------------------------------------------------
+
+3. DHHNGSP
+   Title: Henry Hub Natural Gas Spot Price
+   Frequency: D
+   Popularity: 68
+   Notes:
+   More information about this series can be found at http://www.eia.gov/dnav/ng/TblDefs/ng_pri_fut_tbldef2.asp
+
+--------------------------------------------------------------------------------
+
+4. GASREGA
+   Title: US Regular All Formulations Gas Price
+   Frequency: A
+   Popularity: 11
+   Notes:
+   Weighted average based on sampling of approximately 900 retail outlets, 8:00AM Monday. The price represents self-service unless only full-service is available and includes all taxes. See (http://www.eia.doe.gov/oil_gas/petroleum/data_publications/wrgp/mogas_home_page.html) for further definitions. All Formulations includes both conventional gasoline and reformulated gasoline.
+
+--------------------------------------------------------------------------------
+
+5. MHHNGSP
+   Title: Henry Hub Natural Gas Spot Price
+   Frequency: M
+   Popularity: 51
+   Notes:
+   More information about this series can be found at http://www.eia.gov/dnav/ng/TblDefs/ng_pri_fut_tbldef2.asp
+
+--------------------------------------------------------------------------------
+
+6. WHHNGSP
+   Title: Henry Hub Natural Gas Spot Price
+   Frequency: W
+   Popularity: 31
+   Notes:
+   More information about this series can be found at http://www.eia.gov/dnav/ng/TblDefs/ng_pri_fut_tbldef2.asp
+
+--------------------------------------------------------------------------------
+
+7. AHHNGSP
+   Title: Henry Hub Natural Gas Spot Price
+   Frequency: A
+   Popularity: 20
+   Notes:
+   More information about this series can be found at http://www.eia.gov/dnav/ng/TblDefs/ng_pri_fut_tbldef2.asp
+
+--------------------------------------------------------------------------------
+
+8. APU000074714
+   Title: Average Price: Gasoline, Unleaded Regular (Cost per Gallon/3.785 Liters) in U.S. City Average
+   Frequency: M
+   Popularity: 70
+   Notes:
+   All unleaded regular gasoline.
+
+Average consumer prices are calculated for household fuel, motor fuel, and food items from prices collected for the Consumer Price Index (CPI). Average prices are best used to measure the price level in a particular month, not to measure price change over time. It is more appropriate to use CPI index values for the particular item categories to measure price change.
+
+Prices, except for electricity, are collected monthly by BLS representatives in the 75 urban areas priced for the CPI. Electricity prices are collected for the BLS for the same 75 areas on a monthly basis by the Department of Energy using mail questionnaires. All fuel prices include applicable Federal, State, and local taxes; prices for natural gas and electricity also include fuel and purchased gas adjustments.
+
+For more information, please visit the Bureau of Labor Statistics (https://www.bls.gov/cpi/factsheets/average-prices.htm).
+
+--------------------------------------------------------------------------------
+
+9. PNGASEUUSDM
+   Title: Global price of Natural gas, EU
+   Frequency: M
+   Popularity: 60
+   Notes:
+   Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+
+10. PNGASEUUSDQ
+   Title: Global price of Natural gas, EU
+   Frequency: Q
+   Popularity: 13
+   Notes:
+   Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.
+
+Copyright  2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.
+
+--------------------------------------------------------------------------------
+

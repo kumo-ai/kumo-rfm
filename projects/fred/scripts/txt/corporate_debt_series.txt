@@ -1,0 +1,154 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. BCNSDODNS
+   Title: Nonfinancial Corporate Business; Debt Securities and Loans; Liability, Level
+   Frequency: Q
+   Popularity: 58
+   Notes:
+   Source ID: LA104104005.Q
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=LA104104005&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+2. TCMILBSNNCB
+   Title: Nonfinancial Corporate Business; Debt Securities and Loans; Liability, Level
+   Frequency: Q
+   Popularity: 27
+   Notes:
+   Source ID: FL104104005.Q
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FL104104005&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+3. BOGZ1FL104104005A
+   Title: Nonfinancial Corporate Business; Debt Securities and Loans; Liability, Level
+   Frequency: A
+   Popularity: 10
+   Notes:
+   Source ID: FL104104005.A
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FL104104005&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+4. BOGZ1LA104104005A
+   Title: Nonfinancial Corporate Business; Debt Securities and Loans; Liability, Level
+   Frequency: A
+   Popularity: 4
+   Notes:
+   Source ID: LA104104005.A
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=LA104104005&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+5. NCBCMDPMVCE
+   Title: Nonfinancial Corporate Business; Debt as a Percentage of the Market Value of Corporate Equities, Level
+   Frequency: Q
+   Popularity: 47
+   Notes:
+   Source ID: FL104104016.Q
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FL104104016&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+6. BOGZ1FL104104016A
+   Title: Nonfinancial Corporate Business; Debt as a Percentage of the Market Value of Corporate Equities, Level
+   Frequency: A
+   Popularity: 10
+   Notes:
+   Source ID: FL104104016.A
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FL104104016&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+7. NCBDBIQ027S
+   Title: Nonfinancial Corporate Business; Debt Securities; Liability, Level
+   Frequency: Q
+   Popularity: 39
+   Notes:
+   Source ID: FL104122005.Q
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FL104122005&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+8. NCBDBIA027N
+   Title: Nonfinancial Corporate Business; Debt Securities; Liability, Level
+   Frequency: A
+   Popularity: 5
+   Notes:
+   Source ID: FL104122005.A
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FL104122005&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+
+9. TDSAMRIAONCUS
+   Title: Amount Outstanding of Total Debt Securities in Non-Financial Corporations Sector, All Maturities, Residence of Issuer in United States
+   Frequency: Q
+   Popularity: 32
+   Notes:
+   This series appears in Table 18.
+Source Code: Q:US:3P:J:1:1:A:A:TO1:A:A:A:A:A:I
+
+Nationality refers to the ultimate obligor, as opposed to the immediate borrower on a residence basis, and is linked to the consolidation of assets and liabilities for related entities. Information on a nationality basis is useful to analyse potential support that might be available from the parent company and to understand links between borrowers in different countries and sectors.
+For example, the debts of a Cayman Islands subsidiary of a Brazilian bank may be guaranteed by the parent bank. Consistent with the approach taken in the international banking statistics, the BIS bases the nationality of an issuer on the residency of its controlling parent, regardless of any intermediate owners. (December 2012, BIS Quarterly Review, https://www.bis.org/publ/qtrpdf/r_qt1212h.pdf)
+
+Copyright, 2016, Bank for International Settlements (BIS). Terms and conditions of use are available at http://www.bis.org/terms_conditions.htm#Copyright_and_Permissions.
+
+--------------------------------------------------------------------------------
+
+10. NCBCMDPNWMV
+   Title: Nonfinancial Corporate Business; Debt as a Percentage of Net Worth (Market Value), Level
+   Frequency: Q
+   Popularity: 30
+   Notes:
+   Source ID: FL104104006.Q
+
+For more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).
+
+With each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).
+
+In the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FL104104006&t=) provided by the source.
+
+--------------------------------------------------------------------------------
+

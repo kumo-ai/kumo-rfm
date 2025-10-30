@@ -1,0 +1,124 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. MSPUS
+   Title: Median Sales Price of Houses Sold for the United States
+   Frequency: Q
+   Popularity: 90
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+2. ASPUS
+   Title: Average Sales Price of Houses Sold for the United States
+   Frequency: Q
+   Popularity: 84
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+3. EXHOSLUSM495S
+   Title: Existing Home Sales
+   Frequency: M
+   Popularity: 75
+   Notes:
+   The National Association of Realtors monthly housing indicators are based on a representative sample of local boards and multiple listing services. Sales volume, inventory, and price levels for existing homes are measured for the US in aggregate and by census region. Existing homes, unlike new homes, are homes that are owned and occupied before coming onto the market.
+
+Existing-home sales measures the transaction volume of existing single-family homes, condos, and co-ops.
+
+For more information, see Methodology: Existing-Home Sales (https://www.nar.realtor/research-and-statistics/housing-statistics/existing-home-sales/methodology).
+
+Copyright, 2016, National Association of Realtors. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+4. EXHOSLUSM495N
+   Title: Existing Home Sales
+   Frequency: M
+   Popularity: 46
+   Notes:
+   The National Association of Realtors monthly housing indicators are based on a representative sample of local boards and multiple listing services. Sales volume, inventory, and price levels for existing homes are measured for the US in aggregate and by census region. Existing homes, unlike new homes, are homes that are owned and occupied before coming onto the market.
+
+Existing-home sales measures the transaction volume of existing single-family homes, condos, and co-ops.
+
+For more information, see Methodology: Existing-Home Sales (https://www.nar.realtor/research-and-statistics/housing-statistics/existing-home-sales/methodology).
+
+Copyright, 2016, National Association of Realtors. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+5. HOSINVUSM495N
+   Title: Existing Home Sales: Housing Inventory
+   Frequency: M
+   Popularity: 68
+   Notes:
+   The National Association of Realtors monthly housing indicators are based on a representative sample of local boards and multiple listing services. Sales volume, inventory, and price levels for existing homes are measured for the US in aggregate and by census region. Existing homes, unlike new homes, are homes that are owned and occupied before coming onto the market.
+
+Inventory indicates the number of properties marked as "active" on the market or those pending sales. When a seller lists a property, it becomes counted as inventory.
+
+For more information, see Methodology: Existing-Home Sales (https://www.nar.realtor/research-and-statistics/housing-statistics/existing-home-sales/methodology).
+
+Copyright, 2016, National Association of Realtors. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+6. HSN1F
+   Title: New One Family Houses Sold: United States
+   Frequency: M
+   Popularity: 68
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+7. HSN1FNSA
+   Title: New One Family Houses Sold: United States
+   Frequency: M
+   Popularity: 38
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+8. HSN1FA
+   Title: New One Family Houses Sold: United States
+   Frequency: A
+   Popularity: 18
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+9. HOSSUPUSM673N
+   Title: Existing Home Sales: Months Supply
+   Frequency: M
+   Popularity: 62
+   Notes:
+   The National Association of Realtors monthly housing indicators are based on a representative sample of local boards and multiple listing services. Sales volume, inventory, and price levels for existing homes are measured for the US in aggregate and by census region. Existing homes, unlike new homes, are homes that are owned and occupied before coming onto the market.
+
+Months' supply refers to the number of months it would take for the current inventory of homes on the market to sell given the current sales pace.
+
+For more information, see Methodology: Existing-Home Sales (https://www.nar.realtor/research-and-statistics/housing-statistics/existing-home-sales/methodology).
+
+Copyright, 2016, National Association of Realtors. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+10. HOSMEDUSM052N
+   Title: Median Sales Price of Existing Homes
+   Frequency: M
+   Popularity: 61
+   Notes:
+   The National Association of Realtors monthly housing indicators are based on a representative sample of local boards and multiple listing services. Sales volume, inventory, and price levels for existing homes are measured for the US in aggregate and by census region. Existing homes, unlike new homes, are homes that are owned and occupied before coming onto the market.
+
+The median sales price measures the price at which half of existing homes sold for more and half sold for less.
+
+For more information, see Methodology: Existing-Home Sales (https://www.nar.realtor/research-and-statistics/housing-statistics/existing-home-sales/methodology).
+
+Copyright, 2016, National Association of Realtors. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+

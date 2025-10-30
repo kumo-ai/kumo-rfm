@@ -1,0 +1,88 @@
+FRED Series Query Results
+Total Series Found: 4
+================================================================================
+
+1. A09021USA174NNBR
+   Title: Deficits, Trading Companies for United States
+   Frequency: A
+   Popularity: 21
+   Notes:
+   1936-1940 Data Were Computed By NBER From Data In Statistics Of Income (See Notes). The 1938 Data Were Adjusted By NBER To Conform To 1937 Industrial Classification (See Notes). The Data For 1939-1940 Are Based On 1938 Standard Industrial Classification. Source: Bureau Of Internal Revenue: Statistics Of Income, 1916 And Successive Years.
+
+This NBER data series a09021 appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.
+
+NBER Indicator: a09021
+
+--------------------------------------------------------------------------------
+
+2. TDFUKA
+   Title: Trade Deficit in the United Kingdom
+   Frequency: A
+   Popularity: 8
+   Notes:
+   Calendar year average. This measure uses a break-adjusted measure of nominal GDP as the denominator.
+
+This series was constructed by the Bank of England as part of the Three Centuries of Macroeconomic Data project by combining data from a number of academic and official sources. For more information, please refer to the Three Centuries spreadsheet at https://www.bankofengland.co.uk/statistics/research-datasets. Users are advised to check the underlying assumptions behind this series in the relevant worksheets of the spreadsheet. In many cases alternative assumptions might be appropriate. Users are permitted to reproduce this series in their own work as it represents Bank calculations and manipulations of underlying series that are the copyright of the Bank of England provided that underlying sources are cited appropriately. For appropriate citation please see the Three Centuries spreadsheet for guidance and a list of the underlying sources.
+
+--------------------------------------------------------------------------------
+
+3. TDUKA
+   Title: Trade Deficit in the United Kingdom
+   Frequency: A
+   Popularity: 7
+   Notes:
+   Calendar year average. Users are advised to check the underlying assumptions behind the composite series in the relevant worksheets. In many cases alternative assumptions might be appropriate. Users are permitted to reproduce these series in their own work as they represent Bank calculations and manipulations of underlying series that are the copyright of the Bank of England. This series was constructed by the Bank of England as part of the Three Centuries of Macroeconomic Data project. For more information, please refer to https://www.bankofengland.co.uk/statistics/research-datasets
+
+This series was constructed by the Bank of England as part of the Three Centuries of Macroeconomic Data project by combining data from a number of academic and official sources. For more information, please refer to the Three Centuries spreadsheet at https://www.bankofengland.co.uk/statistics/research-datasets. Users are advised to check the underlying assumptions behind this series in the relevant worksheets of the spreadsheet. In many cases alternative assumptions might be appropriate. Users are permitted to reproduce this series in their own work as it represents Bank calculations and manipulations of underlying series that are the copyright of the Bank of England provided that underlying sources are cited appropriately. For appropriate citation please see the Three Centuries spreadsheet for guidance and a list of the underlying sources.
+
+--------------------------------------------------------------------------------
+
+4. CCDIHBQ156N
+   Title: CredAbility Consumer Distress Index for Household Budget (DISCONTINUED)
+   Frequency: Q
+   Popularity: 4
+   Notes:
+   Overview of the Index
+The Index is a quarterly comprehensive picture of the average American household’s financial condition. Built by assessing the key elements of financial health and distress, it converts a complex set of factors into a single, easy to understand number.
+
+Scope and History
+The index measures the U.S., all 50 states and more than 70 MSAs. The national and state versions date back to 1980 and the MSA versions date back to 1990.
+
+Public Data and Proprietary Methodology
+We use more than 65 data points from government, public and private data and a proprietary methodology for compiling, combining and evaluating data. With nearly 50 years of experience and insight into helping consumers in financial distress, we know the biggest causes of distress, how people react to financial challenges and proven strategies for regaining control. (Note: Our client data is not a data source for the Index)
+
+Measured on a 100 Point Scale
+Financial distress is measured on a 100 point scale and a score under 70 indicates financial distress. The lower the score equals more distress, a weaker financial position, more urgency to act, takes longer and is harder to resolve, and increases the probability of needing a third party help to resolve.
+
+The Index score is tied to one of 5 general rating categories, which reflect the strength and stability of the consumer’s position.
+Less than 60 Emergency / Crisis
+60 – 69 Distressed / Unstable
+70 – 79 Weakening / At-Risk
+80 – 89 Good / Stable
+90 and Above Excellent / Secure
+
+What Does the Index Measure?
+We measure the 5 categories of personal finance that reflect or lead to a secure, stable financial life—Employment, Housing, Credit, Household Budget and Net Worth. All are equally important, so have given each category equal weighting.
+
+Employment. Stable income is the foundation of any family’s finances. This category measures the impact of unemployment and underemployment on financial health.
+Key Measures: Unemployment, Underemployment
+Sample Data Source: Department of Labor, Bureau of Labor Statistics
+
+Housing. Safe, affordable housing is a priority for all families. This category measures how consumers are paying their mortgage/rent and the impact of housing costs on their finances.
+Key Measures: Mortgage and Rental Delinquencies, Housing as Percent of Budget
+Sample Data Source: National Delinquency Survey
+
+Credit. Responsible use of credit creates more borrowing options and lower costs. This category assesses the strength of credit scores and how well families manage their credit.
+Key Measures: Credit Scores, Trade Line Utilization, Credit Delinquencies, Per Capita Bankruptcies
+Sample Data Source: National Credit Bureau
+
+Household Budget. Spending less than you make is the daily choice that leads to long-term success. This category measures families’ spending patterns and saving for emergencies.
+Key Measures: Disposable Income, Savings, Consumer Confidence
+Sample Data Source: Department of Commerce, Bureau of Economic Analysis
+
+Net Worth. Strong, positive net worth creates options and independence. This category measures how well consumers are strengthening their personal balance sheets.
+Key Measures: Household Net Worth, Net Worth versus Funds Required for Long-Term Needs (e.g. retirement)
+Sample Data Source: Federal Reserve Flow of Funds, Survey of Consumer Finances
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,7 @@
+# FRED Search Terms
+# Generated from: I would like to know more about interest rates in the 1990s.
+# Date: 20251029_162821
+# Provider: ollama
+# Total terms: 1
+
+interest rate

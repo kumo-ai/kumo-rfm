@@ -1,0 +1,130 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. LES1252881600Q
+   Title: Employed full time: Median usual weekly real earnings: Wage and salary workers: 16 years and over
+   Frequency: Q
+   Popularity: 80
+   Notes:
+   Data measure usual weekly earnings of wage and salary workers. Wage and salary workers are workers who receive wages, salaries, commissions, tips, payment in kind, or piece rates. The group includes employees in both the private and public sectors but, for the purposes of the earnings series, it excludes all self-employed persons, both those with incorporated businesses and those with unincorporated businesses.
+Usual weekly earnings represent earnings before taxes and other deductions and include any overtime pay, commissions, or tips usually received (at the main job in the case of multiple jobholders). Prior to 1994, respondents were asked how much they usually earned per week. Since January 1994, respondents have been asked to identify the easiest way for them to report earnings (hourly, weekly, biweekly, twice monthly, monthly, annually, or other) and how much they usually earn in the reported time period. Earnings reported on a basis other than weekly are converted to a weekly equivalent. The term "usual" is determined by each respondent's own understanding of the term. If the respondent asks for a definition of "usual," interviewers are instructed to define the term as more than half the weeks worked during the past 4 or 5 months. Visit the BLS (https://www.bls.gov/cps/earnings.htm) for more information.
+
+The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LES1252881600
+
+--------------------------------------------------------------------------------
+
+2. LEU0252881600A
+   Title: Employed full time: Median usual weekly real earnings: Wage and salary workers: 16 years and over
+   Frequency: A
+   Popularity: 38
+   Notes:
+   Data measure usual weekly earnings of wage and salary workers. Wage and salary workers are workers who receive wages, salaries, commissions, tips, payment in kind, or piece rates. The group includes employees in both the private and public sectors but, for the purposes of the earnings series, it excludes all self-employed persons, both those with incorporated businesses and those with unincorporated businesses.
+Usual weekly earnings represent earnings before taxes and other deductions and include any overtime pay, commissions, or tips usually received (at the main job in the case of multiple jobholders). Prior to 1994, respondents were asked how much they usually earned per week. Since January 1994, respondents have been asked to identify the easiest way for them to report earnings (hourly, weekly, biweekly, twice monthly, monthly, annually, or other) and how much they usually earn in the reported time period. Earnings reported on a basis other than weekly are converted to a weekly equivalent. The term "usual" is determined by each respondent's own understanding of the term. If the respondent asks for a definition of "usual," interviewers are instructed to define the term as more than half the weeks worked during the past 4 or 5 months. For more information see https://www.bls.gov/cps/earnings.htm
+
+The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LEU0252881600
+
+--------------------------------------------------------------------------------
+
+3. LEU0252881600Q
+   Title: Employed full time: Median usual weekly real earnings: Wage and salary workers: 16 years and over
+   Frequency: Q
+   Popularity: 25
+   Notes:
+   Data measure usual weekly earnings of wage and salary workers. Wage and salary workers are workers who receive wages, salaries, commissions, tips, payment in kind, or piece rates. The group includes employees in both the private and public sectors but, for the purposes of the earnings series, it excludes all self-employed persons, both those with incorporated businesses and those with unincorporated businesses.
+Usual weekly earnings represent earnings before taxes and other deductions and include any overtime pay, commissions, or tips usually received (at the main job in the case of multiple jobholders). Prior to 1994, respondents were asked how much they usually earned per week. Since January 1994, respondents have been asked to identify the easiest way for them to report earnings (hourly, weekly, biweekly, twice monthly, monthly, annually, or other) and how much they usually earn in the reported time period. Earnings reported on a basis other than weekly are converted to a weekly equivalent. The term "usual" is determined by each respondent's own understanding of the term. If the respondent asks for a definition of "usual," interviewers are instructed to define the term as more than half the weeks worked during the past 4 or 5 months. For more information see https://www.bls.gov/cps/earnings.htm
+
+The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LEU0252881600
+
+--------------------------------------------------------------------------------
+
+4. CES0500000003
+   Title: Average Hourly Earnings of All Employees, Total Private
+   Frequency: M
+   Popularity: 77
+   Notes:
+   The series comes from the 'Current Employment Statistics (Establishment Survey).'
+The source code is: CES0500000003
+
+The Average Hourly Earnings of All Private Employees is a measure of the average hourly earnings of all private employees on a “gross” basis, including premium pay for overtime and late-shift work. These differ from wage rates in that average hourly earnings measure the actual return to a worker for a set period of time, rather than the amount contracted for a unit of work, the wage rate. This measure excludes benefits, irregular bonuses, retroactive pay, and payroll taxes paid by the employer.
+ 
+Average Hourly Earnings are collected in the Current Employment Statistics (CES) program and published by the BLS. It is provided on a monthly basis, so this data is used in part by macroeconomists as an initial economic indicator of current trends. Progressions in earnings specifically help policy makers understand some of the pressures driving inflation.
+
+It is important to note that this series measures the average hourly earnings of the pool of workers in each period. Thus, changes in average hourly earnings can be due to either changes in the set of workers observed in a given period, or due to changes in earnings. For instance, in recessions that lead to the disproportionate increase of unemployment in lower-wage jobs, average hourly earnings can increase due to changes in the pool of workers rather than due to the widespread increase of hourly earnings at the worker-level.
+
+For more information, see:
+U.S. Bureau of Labor Statistics, CES Overview (https://www.bls.gov/web/empsit/cesprog.htm)
+U.S. Bureau of Labor Statistics, BLS Handbook of Methods: Chapter 2. Employment, Hours, and Earnings from the Establishment Survey (https://www.bls.gov/opub/hom/pdf/ces-20110307.pdf)
+
+--------------------------------------------------------------------------------
+
+5. CEU0500000003
+   Title: Average Hourly Earnings of All Employees, Total Private
+   Frequency: M
+   Popularity: 45
+   Notes:
+   The series comes from the 'Current Employment Statistics (Establishment Survey).'
+
+The source code is: CEU0500000003
+
+--------------------------------------------------------------------------------
+
+6. ECIWAG
+   Title: Employment Cost Index: Wages and Salaries: Private Industry Workers
+   Frequency: Q
+   Popularity: 65
+   Notes:
+   On April 26, 2006, The Employment Cost Index converted to the 2002 North American Industry Classification System (NAICS) and the 2000 Standard Occupational Classification System (SOC). In addition, several computational changes were introduced, including rebasing all series to December 2005=100 from June 1989=100, the introduction of new employment weights and seasonal adjustment factors.
+For more detailed information on NAICS and SOC, including background and definitions, please see the Bureau of Labor Statistics (BLS) websites: https://www.bls.gov/bls/naics.htm (https://www.bls.gov/bls/naics.htm) and http://www.bls.gov/soc/home.htm (http://www.bls.gov/soc/home.htm).
+
+--------------------------------------------------------------------------------
+
+7. AHETPI
+   Title: Average Hourly Earnings of Production and Nonsupervisory Employees, Total Private
+   Frequency: M
+   Popularity: 66
+   Notes:
+   Production and related employees include working supervisors and all nonsupervisory employees (including group leaders and trainees) engaged in fabricating, processing, assembling, inspecting, receiving, storing, handling, packing, warehousing, shipping, trucking, hauling, maintenance, repair, janitorial, guard services, product development, auxiliary production for plant's own use (for example, power plant), recordkeeping, and other services closely associated with the above production operations.
+#Nonsupervisory employees include those individuals in private, service-providing industries who are not above the working-supervisor level. This group includes individuals such as office and clerical workers, repairers, salespersons, operators, drivers, physicians, lawyers, accountants, nurses, social workers, research aides, teachers, drafters, photographers, beauticians, musicians, restaurant workers, custodial workers, attendants, line installers and repairers, laborers, janitors, guards, and other employees at similar occupational levels whose services are closely associated with those of the employees listed.
+
+The series comes from the 'Current Employment Statistics (Establishment Survey).'
+
+The source code is: CES0500000008
+
+--------------------------------------------------------------------------------
+
+8. CWUR0000SA0
+   Title: Consumer Price Index for All Urban Wage Earners and Clerical Workers: All Items in U.S. City Average
+   Frequency: M
+   Popularity: 59
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+9. STTMINWGFG
+   Title: Federal Minimum Wage Rate under the Federal Fair Labor Standards Act
+   Frequency: A
+   Popularity: 57
+   Notes:
+   For the years 1968-1971 and 1976-1978, the displayed wage represents the largest minimum wage paid. Some individuals newly covered under state law received a lower wage.
+
+For more information, visit https://www.dol.gov/whd/state/stateMinWageHis.htm
+
+--------------------------------------------------------------------------------
+
+10. CWSR0000SA0
+   Title: Consumer Price Index for All Urban Wage Earners and Clerical Workers: All Items in U.S. City Average
+   Frequency: M
+   Popularity: 35
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+

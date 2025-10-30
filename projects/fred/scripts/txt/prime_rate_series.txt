@@ -1,0 +1,141 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. DPRIME
+   Title: Bank Prime Loan Rate
+   Frequency: D
+   Popularity: 74
+   Notes:
+   data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h15/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+2. MPRIME
+   Title: Bank Prime Loan Rate
+   Frequency: M
+   Popularity: 57
+   Notes:
+   data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h15/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+3. WPRIME
+   Title: Bank Prime Loan Rate
+   Frequency: W
+   Popularity: 37
+   Notes:
+   data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h15/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+4. RIFSPBLPNA
+   Title: Bank Prime Loan Rate
+   Frequency: A
+   Popularity: 24
+   Notes:
+   data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h15/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+5. RIFSPBLPND
+   Title: Bank Prime Loan Rate
+   Frequency: D
+   Popularity: 17
+   Notes:
+   data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h15/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+
+6. PRIME
+   Title: Bank Prime Loan Rate Changes: Historical Dates of Changes and Rates
+   Frequency: NA
+   Popularity: 72
+   Notes:
+   Effective Date.
+
+Early historical data for this series include the following:
+
+1929 range of 5.5 to 6
+1930 range of 3.5 to 6
+1931 range of 2.75 to 5
+1932 range of 3.25 to 4
+1933 range of 1.5 to 4
+1934 (date uncertain) value of 1.5
+1935 (date uncertain) value of 1.5
+1947-12 (specific date uncertain) value of 1.75
+1948-08 (specific date uncertain) value of 2
+1950-09-22: 2.25
+1951-01-08: 2.5
+1951-10-17: 2.75
+1951-12-19: 3
+1953-04-27: 3.25
+1954-03-17: 3
+
+EFFECTIVE 4/16/73 DUAL PRIME RATE
+
+--------------------------------------------------------------------------------
+
+7. IRSTPI01CAM156N
+   Title: Interest Rates: Immediate Rates (< 24 Hours): Prime Rates: Total for Canada
+   Frequency: M
+   Popularity: 25
+   Notes:
+   OECD Descriptor ID: IRSTPI01
+OECD unit ID: PC
+OECD country ID: CAN
+
+All OECD data should be cited as follows: OECD, "Main Economic Indicators - complete database", Main Economic Indicators (database), https://dx.doi.org/10.1787/data-00052-en (Accessed on date) Copyright, 2016, OECD. Reprinted with permission
+
+--------------------------------------------------------------------------------
+
+8. IRSTPI01CAA156N
+   Title: Interest Rates: Immediate Rates (< 24 Hours): Prime Rates: Total for Canada
+   Frequency: A
+   Popularity: 3
+   Notes:
+   OECD Descriptor ID: IRSTPI01
+OECD unit ID: PC
+OECD country ID: CAN
+
+All OECD data should be cited as follows: OECD, "Main Economic Indicators - complete database", Main Economic Indicators (database), https://dx.doi.org/10.1787/data-00052-en (Accessed on date) Copyright, 2016, OECD. Reprinted with permission
+
+--------------------------------------------------------------------------------
+
+9. IRSTPI01CAQ156N
+   Title: Interest Rates: Immediate Rates (< 24 Hours): Prime Rates: Total for Canada
+   Frequency: Q
+   Popularity: 1
+   Notes:
+   OECD Descriptor ID: IRSTPI01
+OECD unit ID: PC
+OECD country ID: CAN
+
+All OECD data should be cited as follows: OECD, "Main Economic Indicators - complete database", Main Economic Indicators (database), https://dx.doi.org/10.1787/data-00052-en (Accessed on date) Copyright, 2016, OECD. Reprinted with permission
+
+--------------------------------------------------------------------------------
+
+10. FEDFUNDS
+   Title: Federal Funds Effective Rate
+   Frequency: M
+   Popularity: 99
+   Notes:
+    Daily Federal Funds Rate from 1928-1954 (https://fred.stlouisfed.org/categories/33951).
+
+The federal funds rate is the interest rate at which depository institutions trade federal funds (balances held at Federal Reserve Banks) with each other overnight. When a depository institution has surplus balances in its reserve account, it lends to other banks in need of larger balances. In simpler terms, a bank with excess cash, which is often referred to as liquidity, will lend to another bank that needs to quickly raise liquidity. (1) The rate that the borrowing institution pays to the lending institution is determined between the two banks; the weighted average rate for all of these types of negotiations is called the effective federal funds rate.(2) The effective federal funds rate is essentially determined by the market but is influenced by the Federal Reserve as it uses the Interest on Reserve Balances rate to steer the federal funds rate toward the target range.(2)
+
+The Federal Open Market Committee (FOMC) meets eight times a year to determine the federal funds target range. The Fed's primary tool for influencing the federal funds rate is the interest the Fed pays on the funds that banks hold as reserve balances at their Federal Reserve Bank, which is the Interest on Reserves Balances (IORB) rate. Because banks are unlikely to lend funds in the federal funds market for less than they get paid in their reserve balance account at the Federal Reserve, the Interest on Reserve Balances (IORB) is an effective tool for guiding the federal funds rate. (3) Whether the Federal Reserve raises or lowers the target range for the federal funds rate depends on the state of the economy. If the FOMC believes the economy is growing too fast and inflation pressures are inconsistent with the dual mandate of the Federal Reserve, the Committee may temper economic activity by raising the target range for federal funds rate, and increasing the IORB rate to steer the federal funds rate into the target range. In the opposing scenario, the FOMC may spur greater economic activity by lowering the target range for federal funds rate, and decreasing the IORB rate to steer the federal funds rate into the target range. (3) Therefore, the FOMC must observe the current state of the economy to determine the best course of monetary policy that will maximize economic growth while adhering to the dual mandate set forth by Congress. In making its monetary policy decisions, the FOMC considers a wealth of economic data, such as: trends in prices and wages, employment, consumer spending and income, business investments, and foreign exchange markets.
+
+The federal funds rate is the central interest rate in the U.S. financial market. It influences other interest rates such as the prime rate, which is the rate banks charge their customers with higher credit ratings. Additionally, the federal funds rate indirectly influences longer- term interest rates such as mortgages, loans, and savings, all of which are very important to consumer wealth and confidence.(2)
+
+References
+(1) Federal Reserve Bank of New York. "Federal funds." Fedpoints, August 2007.
+(2) Monetary Policy (https://www.federalreserve.gov/monetarypolicy.htm), Board of Governors of the Federal Reserve System.
+(3) The Fed Explained (https://www.federalreserve.gov/aboutthefed/files/the-fed-explained.pdf), Board of Governors of the Federal Reserve System
+
+For further information, see The Fed's New Monetary Policy Tools (https://www.stlouisfed.org/publications/page-one-economics/2020/08/03/the-feds-new-monetary-policy-tools), Page One Economics, Federal Reserve Bank of St. Louis. 
+
+For questions on the data, please contact the data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h15/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).</p>
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,175 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. UMCSENT
+   Title: University of Michigan: Consumer Sentiment
+   Frequency: M
+   Popularity: 83
+   Notes:
+   At the request of the source, the data is delayed by 1 month. To obtain historical data prior to January 1978, please see FRED data series UMCSENT1.
+
+This data should be cited as follows: "Surveys of Consumers, University of Michigan, University of Michigan: Consumer Sentiment  [UMCSENT], retrieved from FRED, Federal Reserve Bank of St. Louis (https://fred.stlouisfed.org/series/UMCSENT/), (Accessed on date)"
+
+Copyright, 2016, Surveys of Consumers, University of Michigan. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+2. MICH
+   Title: University of Michigan: Inflation Expectation
+   Frequency: M
+   Popularity: 73
+   Notes:
+   Median expected price change next 12 months, Surveys of Consumers. The most recent value is not shown due to an agreement with the source.
+
+This data should be cited as follows: "Surveys of Consumers, University of Michigan, University of Michigan: Inflation Expectation [MICH], retrieved from FRED, Federal Reserve Bank of St. Louis https://fred.stlouisfed.org/series/MICH/, (Accessed on date)"
+
+Copyright, 2016, Surveys of Consumers, University of Michigan. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+3. CSCICP03USM665S
+   Title: Composite Leading Indicators: Composite Consumer Confidence Amplitude Adjusted for United States
+   Frequency: M
+   Popularity: 50
+   Notes:
+   OECD Data Filters: 
+REF_AREA: USA
+MEASURE: CCICP
+UNIT_MEASURE: IX
+ACTIVITY: _Z
+ADJUSTMENT: AA
+TRANSFORMATION: IX
+TIME_HORIZ: _Z
+METHODOLOGY: H
+FREQ: M
+
+All OECD data should be cited as follows: OECD (year), (dataset name), (data source) DOI or https://data-explorer.oecd.org/ (https://data-explorer.oecd.org/). (accessed on (date)).
+
+--------------------------------------------------------------------------------
+
+4. CSCICP02CNM460S
+   Title: Consumer Opinion Surveys: Composite Consumer Confidence for China
+   Frequency: M
+   Popularity: 46
+   Notes:
+   OECD Data Filters: 
+REF_AREA: CHN
+MEASURE: CCICP
+UNIT_MEASURE: PB
+ACTIVITY: _Z
+ADJUSTMENT: Y
+TRANSFORMATION: _Z
+TIME_HORIZ: _Z
+METHODOLOGY: N
+FREQ: M
+
+All OECD data should be cited as follows: OECD (year), (dataset name), (data source) DOI or https://data-explorer.oecd.org/ (https://data-explorer.oecd.org/). (accessed on (date)).
+
+--------------------------------------------------------------------------------
+
+5. USACSCICP02STSAM
+   Title: Consumer Opinion Surveys: Composite Consumer Confidence for United States
+   Frequency: M
+   Popularity: 41
+   Notes:
+   OECD Data Filters: 
+REF_AREA: USA
+MEASURE: CCICP
+UNIT_MEASURE: PB
+ACTIVITY: _Z
+ADJUSTMENT: Y
+TRANSFORMATION: _Z
+TIME_HORIZ: _Z
+METHODOLOGY: N
+FREQ: M
+
+All OECD data should be cited as follows: OECD (year), (dataset name), (data source) DOI or https://data-explorer.oecd.org/ (https://data-explorer.oecd.org/). (accessed on (date)).
+
+--------------------------------------------------------------------------------
+
+6. FMNHSHPSIUS
+   Title: Fannie Mae's National Housing Survey: Home Purchase Sentiment Index (HPSI)
+   Frequency: M
+   Popularity: 27
+   Notes:
+   The Home Purchase Sentiment Index (HPSI) is a composite index designed to track consumer's housing-related attitudes, intentions, and perceptions, using six key questions from Fannie Mae's National Housing Survey (NHS). To learn more about Fannie Mae's National Housing Survey and the Home Purchase Sentiment Index (HPSI), visit https://www.fanniemae.com/research-and-insights/surveys-indices/national-housing-survey/about-national-housing-survey. (https://www.fanniemae.com/research-and-insights/surveys-indices/national-housing-survey/about-national-housing-survey.) Copyright 2025, Fannie Mae
+
+--------------------------------------------------------------------------------
+
+7. CSCICP02GBM460S
+   Title: Consumer Opinion Surveys: Composite Consumer Confidence for United Kingdom
+   Frequency: M
+   Popularity: 26
+   Notes:
+   OECD Data Filters: 
+REF_AREA: GBR
+MEASURE: CCICP
+UNIT_MEASURE: PB
+ACTIVITY: _Z
+ADJUSTMENT: Y
+TRANSFORMATION: _Z
+TIME_HORIZ: _Z
+METHODOLOGY: N
+FREQ: M
+
+All OECD data should be cited as follows: OECD (year), (dataset name), (data source) DOI or https://data-explorer.oecd.org/ (https://data-explorer.oecd.org/). (accessed on (date)).
+
+--------------------------------------------------------------------------------
+
+8. CSCICP02AUM460S
+   Title: Consumer Opinion Surveys: Composite Consumer Confidence for Australia
+   Frequency: M
+   Popularity: 23
+   Notes:
+   OECD Data Filters: 
+REF_AREA: AUS
+MEASURE: CCICP
+UNIT_MEASURE: PB
+ACTIVITY: _Z
+ADJUSTMENT: Y
+TRANSFORMATION: _Z
+TIME_HORIZ: _Z
+METHODOLOGY: N
+FREQ: M
+
+All OECD data should be cited as follows: OECD (year), (dataset name), (data source) DOI or https://data-explorer.oecd.org/ (https://data-explorer.oecd.org/). (accessed on (date)).
+
+--------------------------------------------------------------------------------
+
+9. UMCSENT1
+   Title: University of Michigan: Consumer Sentiment (DISCONTINUED)
+   Frequency: NA
+   Popularity: 21
+   Notes:
+   Please see FRED data series UMCSENT for monthly data beginning in January 1978.
+
+This data should be cited as follows: "Surveys of Consumers, University of Michigan, University of Michigan: Consumer Sentiment (DISCONTINUED) [UMCSENT1], retrieved from FRED, Federal Reserve Bank of St. Louis https://fred.stlouisfed.org/series/UMCSENT1/, (Accessed on date)"
+
+For more information about the survey, please see:
+United States, and Bureau of Economic Analysis. Handbook of Cyclical Indicators: A Supplement to the Business Conditions Digest. (1977) p. 31, https://fraser.stlouisfed.org/publication/?pid=178
+
+Copyright, 2016, Surveys of Consumers, University of Michigan. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+10. CSCICP02EZM460S
+   Title: Consumer Opinion Surveys: Composite Consumer Confidence for Euro Area (19 Countries)
+   Frequency: M
+   Popularity: 19
+   Notes:
+   OECD Data Filters: 
+REF_AREA: EA19
+MEASURE: CCICP
+UNIT_MEASURE: PB
+ACTIVITY: _Z
+ADJUSTMENT: Y
+TRANSFORMATION: _Z
+TIME_HORIZ: _Z
+METHODOLOGY: N
+FREQ: M
+
+All OECD data should be cited as follows: OECD (year), (dataset name), (data source) DOI or https://data-explorer.oecd.org/ (https://data-explorer.oecd.org/). (accessed on (date)).
+
+--------------------------------------------------------------------------------
+

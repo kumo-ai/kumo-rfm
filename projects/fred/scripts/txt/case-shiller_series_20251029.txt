@@ -1,0 +1,1809 @@
+FRED Series Query Results
+Total Series Found: 181
+================================================================================
+
+1. CSUSHPINSA
+   Title: S&P CoreLogic Case-Shiller U.S. National Home Price Index
+   Frequency: M
+   Popularity: 86
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+2. CSUSHPISA
+   Title: S&P CoreLogic Case-Shiller U.S. National Home Price Index
+   Frequency: M
+   Popularity: 74
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+3. SPCS20RSA
+   Title: S&P CoreLogic Case-Shiller 20-City Composite Home Price Index
+   Frequency: M
+   Popularity: 62
+   Notes:
+   For more information regarding the index, please visit Standard and Poor's (https://us.spindices.com/index-family/sp-corelogic-case-shiller/sp-corelogic-case-shiller-composite).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of S&P Case-Shiller 20-City Home Price Index in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of S&P Case-Shiller 20-City Home Price Index.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details (http://us.spindices.com/contact-us/) are available, including phone numbers for all regional offices.
+
+--------------------------------------------------------------------------------
+
+4. SPCS20RNSA
+   Title: S&P CoreLogic Case-Shiller 20-City Composite Home Price Index
+   Frequency: M
+   Popularity: 27
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of S&P Case-Shiller 20-City Home Price Index in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of S&P Case-Shiller 20-City Home Price Index.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+5. SFXRSA
+   Title: S&P CoreLogic Case-Shiller CA-San Francisco Home Price Index
+   Frequency: M
+   Popularity: 60
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for San Francisco, California in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for San Francisco, California.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details (http://us.spindices.com/contact-us/) are available, including phone numbers for all regional offices.
+
+--------------------------------------------------------------------------------
+
+6. SFXRNSA
+   Title: S&P CoreLogic Case-Shiller CA-San Francisco Home Price Index
+   Frequency: M
+   Popularity: 16
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for San Francisco, California in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for San Francisco, California.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+7. LXXRSA
+   Title: S&P CoreLogic Case-Shiller CA-Los Angeles Home Price Index
+   Frequency: M
+   Popularity: 56
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Los Angeles, California in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Los Angeles, California.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+8. LXXRNSA
+   Title: S&P CoreLogic Case-Shiller CA-Los Angeles Home Price Index
+   Frequency: M
+   Popularity: 27
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Los Angeles, California in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Los Angeles, California.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+9. SDXRSA
+   Title: S&P CoreLogic Case-Shiller CA-San Diego Home Price Index
+   Frequency: M
+   Popularity: 53
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for San Diego, California in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for San Diego, California.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+10. NYXRSA
+   Title: S&P CoreLogic Case-Shiller NY-New York Home Price Index
+   Frequency: M
+   Popularity: 54
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for New York, New York in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for New York, New York.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+11. MIXRNSA
+   Title: S&P CoreLogic Case-Shiller FL-Miami Home Price Index
+   Frequency: M
+   Popularity: 52
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Miami, Florida in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Miami, Florida.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+12. SEXRNSA
+   Title: S&P CoreLogic Case-Shiller WA-Seattle Home Price Index
+   Frequency: M
+   Popularity: 51
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Seattle, Washington in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Seattle, Washington.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+13. SDXRNSA
+   Title: S&P CoreLogic Case-Shiller CA-San Diego Home Price Index
+   Frequency: M
+   Popularity: 20
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for San Diego, California in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for San Diego, California.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+14. SEXRSA
+   Title: S&P CoreLogic Case-Shiller WA-Seattle Home Price Index
+   Frequency: M
+   Popularity: 33
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Seattle, Washington in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Seattle, Washington.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+15. CHXRSA
+   Title: S&P CoreLogic Case-Shiller IL-Chicago Home Price Index
+   Frequency: M
+   Popularity: 52
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Chicago, Illinois in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Chicago, Illinois.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+16. MIXRSA
+   Title: S&P CoreLogic Case-Shiller FL-Miami Home Price Index
+   Frequency: M
+   Popularity: 27
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Miami, Florida in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Miami, Florida.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+17. NYXRNSA
+   Title: S&P CoreLogic Case-Shiller NY-New York Home Price Index
+   Frequency: M
+   Popularity: 16
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for New York, New York in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for New York, New York.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+18. CHXRNSA
+   Title: S&P CoreLogic Case-Shiller IL-Chicago Home Price Index
+   Frequency: M
+   Popularity: 15
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Chicago, Illinois in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Chicago, Illinois.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+19. DAXRNSA
+   Title: S&P CoreLogic Case-Shiller TX-Dallas Home Price Index
+   Frequency: M
+   Popularity: 49
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Dallas, Texas in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Dallas, Texas.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+20. DNXRSA
+   Title: S&P CoreLogic Case-Shiller CO-Denver Home Price Index
+   Frequency: M
+   Popularity: 47
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Denver, Colorado in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Denver, Colorado.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+21. DNXRNSA
+   Title: S&P CoreLogic Case-Shiller CO-Denver Home Price Index
+   Frequency: M
+   Popularity: 27
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Denver, Colorado in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Denver, Colorado.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+22. DAXRSA
+   Title: S&P CoreLogic Case-Shiller TX-Dallas Home Price Index
+   Frequency: M
+   Popularity: 26
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Dallas, Texas in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Dallas, Texas.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+23. BOXRSA
+   Title: S&P CoreLogic Case-Shiller MA-Boston Home Price Index
+   Frequency: M
+   Popularity: 48
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Boston, Massachusetts in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Boston, Massachusetts.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+24. LVXRNSA
+   Title: S&P CoreLogic Case-Shiller NV-Las Vegas Home Price Index
+   Frequency: M
+   Popularity: 47
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Las Vegas, Nevada in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Las Vegas, Nevada.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+25. PHXRNSA
+   Title: S&P CoreLogic Case-Shiller AZ-Phoenix Home Price Index
+   Frequency: M
+   Popularity: 46
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Phoenix, Arizona in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Phoenix, Arizona.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+26. LVXRSA
+   Title: S&P CoreLogic Case-Shiller NV-Las Vegas Home Price Index
+   Frequency: M
+   Popularity: 22
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Las Vegas, Nevada in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Las Vegas, Nevada.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+27. PHXRSA
+   Title: S&P CoreLogic Case-Shiller AZ-Phoenix Home Price Index
+   Frequency: M
+   Popularity: 22
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Phoenix, Arizona in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Phoenix, Arizona.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+28. BOXRNSA
+   Title: S&P CoreLogic Case-Shiller MA-Boston Home Price Index
+   Frequency: M
+   Popularity: 14
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Boston, Massachusetts in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Boston, Massachusetts.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+29. WDXRSA
+   Title: S&P CoreLogic Case-Shiller DC-Washington Home Price Index
+   Frequency: M
+   Popularity: 44
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Washington D.C. in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Washington D.C..
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+30. ATXRNSA
+   Title: S&P CoreLogic Case-Shiller GA-Atlanta Home Price Index
+   Frequency: M
+   Popularity: 40
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Atlanta, Georgia in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Atlanta, Georgia.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+31. WDXRNSA
+   Title: S&P CoreLogic Case-Shiller DC-Washington Home Price Index
+   Frequency: M
+   Popularity: 15
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Washington D.C. in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Washington D.C..
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+32. TPXRSA
+   Title: S&P CoreLogic Case-Shiller FL-Tampa Home Price Index
+   Frequency: M
+   Popularity: 41
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Tampa, Florida in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Tampa, Florida.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+33. ATXRSA
+   Title: S&P CoreLogic Case-Shiller GA-Atlanta Home Price Index
+   Frequency: M
+   Popularity: 20
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Atlanta, Georgia in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Atlanta, Georgia.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+34. NYXRCSA
+   Title: Condo Price Index for New York, New York
+   Frequency: M
+   Popularity: 49
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+35. TPXRNSA
+   Title: S&P CoreLogic Case-Shiller FL-Tampa Home Price Index
+   Frequency: M
+   Popularity: 16
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Tampa, Florida in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Tampa, Florida.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+36. POXRSA
+   Title: S&P CoreLogic Case-Shiller OR-Portland Home Price Index
+   Frequency: M
+   Popularity: 40
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Portland, Oregon in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Portland, Oregon.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+37. SPCS10RSA
+   Title: S&P CoreLogic Case-Shiller 10-City Composite Home Price Index
+   Frequency: M
+   Popularity: 37
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of S&P Case-Shiller 10-City Home Price Index in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of S&P Case-Shiller 10-City Home Price Index.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+38. NYXRCNSA
+   Title: Condo Price Index for New York, New York
+   Frequency: M
+   Popularity: 15
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+39. SPCS10RNSA
+   Title: S&P CoreLogic Case-Shiller 10-City Composite Home Price Index
+   Frequency: M
+   Popularity: 18
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of S&P Case-Shiller 10-City Home Price Index in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of S&P Case-Shiller 10-City Home Price Index.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+40. POXRNSA
+   Title: S&P CoreLogic Case-Shiller OR-Portland Home Price Index
+   Frequency: M
+   Popularity: 9
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Portland, Oregon in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Portland, Oregon.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+41. CRXRNSA
+   Title: S&P CoreLogic Case-Shiller NC-Charlotte Home Price Index
+   Frequency: M
+   Popularity: 34
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Charlotte, North Carolina in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Charlotte, North Carolina.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+42. CRXRSA
+   Title: S&P CoreLogic Case-Shiller NC-Charlotte Home Price Index
+   Frequency: M
+   Popularity: 15
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Charlotte, North Carolina in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Charlotte, North Carolina.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+43. MNXRSA
+   Title: S&P CoreLogic Case-Shiller MN-Minneapolis Home Price Index
+   Frequency: M
+   Popularity: 34
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Minneapolis, Minnesota in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Minneapolis, Minnesota.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+44. SFXRCNSA
+   Title: Condo Price Index for San Francisco, California
+   Frequency: M
+   Popularity: 39
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+45. SFXRCSA
+   Title: Condo Price Index for San Francisco, California
+   Frequency: M
+   Popularity: 23
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+46. MNXRNSA
+   Title: S&P CoreLogic Case-Shiller MN-Minneapolis Home Price Index
+   Frequency: M
+   Popularity: 4
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Minneapolis, Minnesota in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Minneapolis, Minnesota.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+47. DEXRSA
+   Title: S&P CoreLogic Case-Shiller MI-Detroit Home Price Index
+   Frequency: M
+   Popularity: 31
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Detroit, Michigan in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Detroit, Michigan.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+48. DEXRNSA
+   Title: S&P CoreLogic Case-Shiller MI-Detroit Home Price Index
+   Frequency: M
+   Popularity: 10
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Detroit, Michigan in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Detroit, Michigan.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+49. CEXRSA
+   Title: S&P CoreLogic Case-Shiller OH-Cleveland Home Price Index
+   Frequency: M
+   Popularity: 28
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Cleveland, Ohio in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Cleveland, Ohio.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+50. CEXRNSA
+   Title: S&P CoreLogic Case-Shiller OH-Cleveland Home Price Index
+   Frequency: M
+   Popularity: 11
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf).
+
+Copyright  2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Cleveland, Ohio in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of Home Price Index for Cleveland, Ohio.
+
+Permission to reproduce this series can be requested from index_services@spdji.com. More contact details are available from http://us.spindices.com/contact-us/, including phone numbers for all of its regional offices.
+
+--------------------------------------------------------------------------------
+
+51. CHXRCNSA
+   Title: Condo Price Index for Chicago, Illinois
+   Frequency: M
+   Popularity: 30
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+52. CHXRCSA
+   Title: Condo Price Index for Chicago, Illinois
+   Frequency: M
+   Popularity: 12
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+53. CHXRHTSA
+   Title: Home Price Index (High Tier) for Chicago, Illinois
+   Frequency: M
+   Popularity: 27
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+54. CHXRHTNSA
+   Title: Home Price Index (High Tier) for Chicago, Illinois
+   Frequency: M
+   Popularity: 11
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+55. SFXRHTNSA
+   Title: Home Price Index (High Tier) for San Francisco, California
+   Frequency: M
+   Popularity: 25
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+56. SFXRHTSA
+   Title: Home Price Index (High Tier) for San Francisco, California
+   Frequency: M
+   Popularity: 9
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+57. LXXRCSA
+   Title: Condo Price Index for Los Angeles, California
+   Frequency: M
+   Popularity: 25
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+58. SEXRHTNSA
+   Title: Home Price Index (High Tier) for Seattle, Washington
+   Frequency: M
+   Popularity: 21
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+59. SEXRHTSA
+   Title: Home Price Index (High Tier) for Seattle, Washington
+   Frequency: M
+   Popularity: 15
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+60. LXXRCNSA
+   Title: Condo Price Index for Los Angeles, California
+   Frequency: M
+   Popularity: 4
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+61. WDXRHTNSA
+   Title: Home Price Index (High Tier) for Washington D.C.
+   Frequency: M
+   Popularity: 20
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+62. PHXRMTSA
+   Title: Home Price Index (Middle Tier) for Phoenix, Arizona
+   Frequency: M
+   Popularity: 20
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+63. PHXRMTNSA
+   Title: Home Price Index (Middle Tier) for Phoenix, Arizona
+   Frequency: M
+   Popularity: 8
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+64. WDXRHTSA
+   Title: Home Price Index (High Tier) for Washington D.C.
+   Frequency: M
+   Popularity: 7
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+65. BOXRCSA
+   Title: Condo Price Index for Boston, Massachusetts
+   Frequency: M
+   Popularity: 20
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+66. BOXRCNSA
+   Title: Condo Price Index for Boston, Massachusetts
+   Frequency: M
+   Popularity: 5
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+67. SPCS20RPSNSA
+   Title: S&P CoreLogic Case-Shiller 20-City Home Price Sales Pair Counts
+   Frequency: M
+   Popularity: 13
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+68. LXXRHTNSA
+   Title: Home Price Index (High Tier) for Los Angeles, California
+   Frequency: M
+   Popularity: 14
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+69. LXXRHTSA
+   Title: Home Price Index (High Tier) for Los Angeles, California
+   Frequency: M
+   Popularity: 9
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+70. SDXRHTNSA
+   Title: Home Price Index (High Tier) for San Diego, California
+   Frequency: M
+   Popularity: 16
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+71. SDXRHTSA
+   Title: Home Price Index (High Tier) for San Diego, California
+   Frequency: M
+   Popularity: 4
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+72. NYXRHTSA
+   Title: Home Price Index (High Tier) for New York, New York
+   Frequency: M
+   Popularity: 15
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+73. USCSCOMHPISA
+   Title: S&P CoreLogic Case-Shiller U.S. National Home Price Index (DISCONTINUED)
+   Frequency: Q
+   Popularity: 8
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+74. USCSCOMHPINSA
+   Title: S&P CoreLogic Case-Shiller U.S. National Home Price Index (DISCONTINUED)
+   Frequency: Q
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+75. NYXRHTNSA
+   Title: Home Price Index (High Tier) for New York, New York
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+76. BOXRHTSA
+   Title: Home Price Index (High Tier) for Boston, Massachusetts
+   Frequency: M
+   Popularity: 12
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+77. BOXRHTNSA
+   Title: Home Price Index (High Tier) for Boston, Massachusetts
+   Frequency: M
+   Popularity: 3
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+78. SPCS10RPSNSA
+   Title: S&P CoreLogic Case-Shiller 10-City Home Price Sales Pair Counts
+   Frequency: M
+   Popularity: 5
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+79. MIXRHTSA
+   Title: Home Price Index (High Tier) for Miami, Florida
+   Frequency: M
+   Popularity: 8
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+80. MIXRHTNSA
+   Title: Home Price Index (High Tier) for Miami, Florida
+   Frequency: M
+   Popularity: 6
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+81. LVXRHTSA
+   Title: Home Price Index (High Tier) for Las Vegas, Nevada
+   Frequency: M
+   Popularity: 9
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+82. LVXRHTNSA
+   Title: Home Price Index (High Tier) for Las Vegas, Nevada
+   Frequency: M
+   Popularity: 4
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+83. DNXRHTSA
+   Title: Home Price Index (High Tier) for Denver, Colorado
+   Frequency: M
+   Popularity: 9
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+84. SDXRMTNSA
+   Title: Home Price Index (Middle Tier) for San Diego, California
+   Frequency: M
+   Popularity: 8
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+85. TPXRHTNSA
+   Title: Home Price Index (High Tier) for Tampa, Florida
+   Frequency: M
+   Popularity: 7
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+86. TPXRHTSA
+   Title: Home Price Index (High Tier) for Tampa, Florida
+   Frequency: M
+   Popularity: 5
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+87. SDXRMTSA
+   Title: Home Price Index (Middle Tier) for San Diego, California
+   Frequency: M
+   Popularity: 3
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+88. DNXRHTNSA
+   Title: Home Price Index (High Tier) for Denver, Colorado
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+89. LXXRMTSA
+   Title: Home Price Index (Middle Tier) for Los Angeles, California
+   Frequency: M
+   Popularity: 6
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+90. ATXRMTNSA
+   Title: Home Price Index (Middle Tier) for Atlanta, Georgia
+   Frequency: M
+   Popularity: 6
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+91. LXXRMTNSA
+   Title: Home Price Index (Middle Tier) for Los Angeles, California
+   Frequency: M
+   Popularity: 4
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+92. ATXRMTSA
+   Title: Home Price Index (Middle Tier) for Atlanta, Georgia
+   Frequency: M
+   Popularity: 3
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+93. SEXRMTSA
+   Title: Home Price Index (Middle Tier) for Seattle, Washington
+   Frequency: M
+   Popularity: 6
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+94. ATXRHTSA
+   Title: Home Price Index (High Tier) for Atlanta, Georgia
+   Frequency: M
+   Popularity: 6
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+95. PHXRHTSA
+   Title: Home Price Index (High Tier) for Phoenix, Arizona
+   Frequency: M
+   Popularity: 6
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+96. SFXRLTSA
+   Title: Home Price Index (Low Tier) for San Francisco, California
+   Frequency: M
+   Popularity: 6
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+97. POXRHTSA
+   Title: Home Price Index (High Tier) for Portland, Oregon
+   Frequency: M
+   Popularity: 5
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+98. SEXRMTNSA
+   Title: Home Price Index (Middle Tier) for Seattle, Washington
+   Frequency: M
+   Popularity: 3
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+99. ATXRHTNSA
+   Title: Home Price Index (High Tier) for Atlanta, Georgia
+   Frequency: M
+   Popularity: 3
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+100. POXRHTNSA
+   Title: Home Price Index (High Tier) for Portland, Oregon
+   Frequency: M
+   Popularity: 3
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+101. PHXRHTNSA
+   Title: Home Price Index (High Tier) for Phoenix, Arizona
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+102. SFXRLTNSA
+   Title: Home Price Index (Low Tier) for San Francisco, California
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+103. MNXRHTSA
+   Title: Home Price Index (High Tier) for Minneapolis, Minnesota
+   Frequency: M
+   Popularity: 5
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+104. MNXRMTNSA
+   Title: Home Price Index (Middle Tier) for Minneapolis, Minnesota
+   Frequency: M
+   Popularity: 5
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+105. SEXRLTSA
+   Title: Home Price Index (Low Tier) for Seattle, Washington
+   Frequency: M
+   Popularity: 5
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+106. MNXRMTSA
+   Title: Home Price Index (Middle Tier) for Minneapolis, Minnesota
+   Frequency: M
+   Popularity: 3
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+107. MNXRHTNSA
+   Title: Home Price Index (High Tier) for Minneapolis, Minnesota
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+108. SEXRLTNSA
+   Title: Home Price Index (Low Tier) for Seattle, Washington
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+109. CHXRMTSA
+   Title: Home Price Index (Middle Tier) for Chicago, Illinois
+   Frequency: M
+   Popularity: 5
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+110. LXXRLTSA
+   Title: Home Price Index (Low Tier) for Los Angeles, California
+   Frequency: M
+   Popularity: 4
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+111. LXXRLTNSA
+   Title: Home Price Index (Low Tier) for Los Angeles, California
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+112. CHXRMTNSA
+   Title: Home Price Index (Middle Tier) for Chicago, Illinois
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+113. MIXRLTSA
+   Title: Home Price Index (Low Tier) for Miami, Florida
+   Frequency: M
+   Popularity: 4
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+114. TPXRLTSA
+   Title: Home Price Index (Low Tier) for Tampa, Florida
+   Frequency: M
+   Popularity: 4
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+115. DAXRPSNSA
+   Title: Home Price Sales Pair Counts for Dallas, Texas
+   Frequency: M
+   Popularity: 4
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+116. SFXRMTSA
+   Title: Home Price Index (Middle Tier) for San Francisco, California
+   Frequency: M
+   Popularity: 3
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+117. WDXRMTNSA
+   Title: Home Price Index (Middle Tier) for Washington D.C.
+   Frequency: M
+   Popularity: 3
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+118. CHXRLTSA
+   Title: Home Price Index (Low Tier) for Chicago, Illinois
+   Frequency: M
+   Popularity: 3
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+119. NYXRLTSA
+   Title: Home Price Index (Low Tier) for New York, New York
+   Frequency: M
+   Popularity: 3
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+120. MIXRMTSA
+   Title: Home Price Index (Middle Tier) for Miami, Florida
+   Frequency: M
+   Popularity: 3
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+121. PHXRLTSA
+   Title: Home Price Index (Low Tier) for Phoenix, Arizona
+   Frequency: M
+   Popularity: 3
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+122. TPXRMTSA
+   Title: Home Price Index (Middle Tier) for Tampa, Florida
+   Frequency: M
+   Popularity: 3
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+123. SFXRMTNSA
+   Title: Home Price Index (Middle Tier) for San Francisco, California
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+124. WDXRMTSA
+   Title: Home Price Index (Middle Tier) for Washington D.C.
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+125. NYXRLTNSA
+   Title: Home Price Index (Low Tier) for New York, New York
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+126. MIXRMTNSA
+   Title: Home Price Index (Middle Tier) for Miami, Florida
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+127. PHXRLTNSA
+   Title: Home Price Index (Low Tier) for Phoenix, Arizona
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+128. MIXRLTNSA
+   Title: Home Price Index (Low Tier) for Miami, Florida
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+129. CHXRLTNSA
+   Title: Home Price Index (Low Tier) for Chicago, Illinois
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+130. TPXRLTNSA
+   Title: Home Price Index (Low Tier) for Tampa, Florida
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+131. TPXRMTNSA
+   Title: Home Price Index (Middle Tier) for Tampa, Florida
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+132. NYXRCPSNSA
+   Title: Condo Price Sales Pair Counts for New York, New York
+   Frequency: M
+   Popularity: 3
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+133. MIXRPSNSA
+   Title: Home Price Sales Pair Counts for Miami, Florida
+   Frequency: M
+   Popularity: 3
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+134. POXRMTNSA
+   Title: Home Price Index (Middle Tier) for Portland, Oregon
+   Frequency: M
+   Popularity: 3
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+135. NYXRMTSA
+   Title: Home Price Index (Middle Tier) for New York, New York
+   Frequency: M
+   Popularity: 3
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+136. SEXRPSNSA
+   Title: Home Price Sales Pair Counts for Seattle, Washington
+   Frequency: M
+   Popularity: 3
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+137. SFXRCPSNSA
+   Title: Condo Price Sales Pair Counts for San Francisco, California
+   Frequency: M
+   Popularity: 3
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+138. SDXRPSNSA
+   Title: Home Price Sales Pair Counts for San Diego, California
+   Frequency: M
+   Popularity: 3
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+139. SDXRLTSA
+   Title: Home Price Index (Low Tier) for San Diego, California
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+140. SDXRLTNSA
+   Title: Home Price Index (Low Tier) for San Diego, California
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+141. WDXRLTSA
+   Title: Home Price Index (Low Tier) for Washington D.C.
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+142. DNXRLTSA
+   Title: Home Price Index (Low Tier) for Denver, Colorado
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+143. POXRMTSA
+   Title: Home Price Index (Middle Tier) for Portland, Oregon
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+144. NYXRMTNSA
+   Title: Home Price Index (Middle Tier) for New York, New York
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+145. WDXRLTNSA
+   Title: Home Price Index (Low Tier) for Washington D.C.
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+146. DNXRLTNSA
+   Title: Home Price Index (Low Tier) for Denver, Colorado
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+147. BOXRMTSA
+   Title: Home Price Index (Middle Tier) for Boston, Massachusetts
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+148. ATXRLTSA
+   Title: Home Price Index (Low Tier) for Atlanta, Georgia
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+149. DNXRMTSA
+   Title: Home Price Index (Middle Tier) for Denver, Colorado
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+150. LVXRPSNSA
+   Title: Home Price Sales Pair Counts for Las Vegas, Nevada
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+151. BOXRLTSA
+   Title: Home Price Index (Low Tier) for Boston, Massachusetts
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+152. LXXRPSNSA
+   Title: Home Price Sales Pair Counts for Los Angeles, California
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+153. CRXRPSNSA
+   Title: Home Price Sales Pair Counts for Charlotte, North Carolina
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+154. LVXRLTSA
+   Title: Home Price Index (Low Tier) for Las Vegas, Nevada
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+155. CHXRPSNSA
+   Title: Home Price Sales Pair Counts for Chicago, Illinois
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+156. PHXRPSNSA
+   Title: Home Price Sales Pair Counts for Phoenix, Arizona
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+157. SFXRPSNSA
+   Title: Home Price Sales Pair Counts for San Francisco, California
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+158. NYXRPSNSA
+   Title: Home Price Sales Pair Counts for New York, New York
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+159. LXXRCPSNSA
+   Title: Condo Price Sales Pair Counts for Los Angeles, California
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+160. ATXRPSNSA
+   Title: Home Price Sales Pair Counts for Atlanta, Georgia
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+161. BOXRCPSNSA
+   Title: Condo Price Sales Pair Counts for Boston, Massachusetts
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+162. CHXRCPSNSA
+   Title: Condo Price Sales Pair Counts for Chicago, Illinois
+   Frequency: M
+   Popularity: 2
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+163. BOXRMTNSA
+   Title: Home Price Index (Middle Tier) for Boston, Massachusetts
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+164. ATXRLTNSA
+   Title: Home Price Index (Low Tier) for Atlanta, Georgia
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+165. DNXRMTNSA
+   Title: Home Price Index (Middle Tier) for Denver, Colorado
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+166. BOXRLTNSA
+   Title: Home Price Index (Low Tier) for Boston, Massachusetts
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+167. LVXRLTNSA
+   Title: Home Price Index (Low Tier) for Las Vegas, Nevada
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+168. POXRLTNSA
+   Title: Home Price Index (Low Tier) for Portland, Oregon
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+169. POXRLTSA
+   Title: Home Price Index (Low Tier) for Portland, Oregon
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+170. LVXRMTSA
+   Title: Home Price Index (Middle Tier) for Las Vegas, Nevada
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+171. LVXRMTNSA
+   Title: Home Price Index (Middle Tier) for Las Vegas, Nevada
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+172. DNXRPSNSA
+   Title: Home Price Sales Pair Counts for Denver, Colorado
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+173. CEXRPSNSA
+   Title: Home Price Sales Pair Counts for Cleveland, Ohio
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+174. MNXRPSNSA
+   Title: Home Price Sales Pair Counts for Minneapolis, Minnesota
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+175. TPXRPSNSA
+   Title: Home Price Sales Pair Counts for Tampa, Florida
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+176. MNXRLTNSA
+   Title: Home Price Index (Low Tier) for Minneapolis, Minnesota
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+177. MNXRLTSA
+   Title: Home Price Index (Low Tier) for Minneapolis, Minnesota
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+178. WDXRPSNSA
+   Title: Home Price Sales Pair Counts for Washington D.C.
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+179. POXRPSNSA
+   Title: Home Price Sales Pair Counts for Portland, Oregon
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+180. BOXRPSNSA
+   Title: Home Price Sales Pair Counts for Boston, Massachusetts
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+
+181. DEXRPSNSA
+   Title: Home Price Sales Pair Counts for Detroit, Michigan
+   Frequency: M
+   Popularity: 1
+   Notes:
+   For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission.
+
+--------------------------------------------------------------------------------
+

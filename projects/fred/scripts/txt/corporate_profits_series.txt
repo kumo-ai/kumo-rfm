@@ -1,0 +1,114 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. CP
+   Title: Corporate Profits After Tax (without IVA and CCAdj)
+   Frequency: Q
+   Popularity: 70
+   Notes:
+   BEA Account Code: A055RC
+
+
+
+--------------------------------------------------------------------------------
+
+2. A053RC1Q027SBEA
+   Title: National income: Corporate profits before tax (without IVA and CCAdj)
+   Frequency: Q
+   Popularity: 55
+   Notes:
+   BEA Account Code: A053RC
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+3. CPATAX
+   Title: Corporate Profits After Tax with Inventory Valuation Adjustment (IVA) and Capital Consumption Adjustment (CCAdj)
+   Frequency: Q
+   Popularity: 49
+   Notes:
+   BEA Account Code: A551RC
+
+A Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)
+
+--------------------------------------------------------------------------------
+
+4. A466RD3Q052SBEA
+   Title: Profit per unit of real gross value added of nonfinancial corporate business: Corporate profits after tax with IVA and CCAdj (unit profits from current production)
+   Frequency: Q
+   Popularity: 47
+   Notes:
+   BEA Account Code: A466RD
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+5. A466RD3A052NBEA
+   Title: Profit per unit of real gross value added of nonfinancial corporate business: Corporate profits after tax with IVA and CCAdj (unit profits from current production)
+   Frequency: A
+   Popularity: 6
+   Notes:
+   BEA Account Code: A466RD
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+6. CPROFIT
+   Title: Corporate Profits with Inventory Valuation Adjustment (IVA) and Capital Consumption Adjustment (CCAdj)
+   Frequency: Q
+   Popularity: 43
+   Notes:
+   BEA Account Code: A051RC
+
+A Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)
+
+--------------------------------------------------------------------------------
+
+7. W273RE1A156NBEA
+   Title: Shares of gross domestic income: Corporate profits with inventory valuation and capital consumption adjustments, domestic industries: Profits after tax with inventory valuation and capital consumption adjustments
+   Frequency: A
+   Popularity: 41
+   Notes:
+   BEA Account Code: W273RE
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+8. A466RC1A027NBEA
+   Title: Nonfinancial corporate business: Profits after tax (without IVA and CCAdj)
+   Frequency: A
+   Popularity: 12
+   Notes:
+   BEA Account Code: A466RC
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+9. A463RD3Q052SBEA
+   Title: Profit per unit of real gross value added of nonfinancial corporate business: Corporate profits with IVA and CCAdj (unit profits from current production)
+   Frequency: Q
+   Popularity: 29
+   Notes:
+   BEA Account Code: A463RD
+
+For more information about this series, please see http://www.bea.gov/national/.
+
+--------------------------------------------------------------------------------
+
+10. NFCPATAX
+   Title: Nonfinancial Corporate Business: Profits After Tax (without IVA and CCAdj)
+   Frequency: Q
+   Popularity: 26
+   Notes:
+   BEA Account Code: A466RC
+
+A Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)
+
+--------------------------------------------------------------------------------
+

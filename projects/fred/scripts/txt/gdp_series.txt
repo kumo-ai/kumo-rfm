@@ -1,0 +1,111 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. GFDEGDQ188S
+   Title: Federal Debt: Total Public Debt as Percent of Gross Domestic Product
+   Frequency: Q
+   Popularity: 88
+   Notes:
+   Federal Debt: Total Public Debt as Percent of Gross Domestic Product (GFDEGDQ188S) (https://fred.stlouisfed.org/series/GFDEGDQ188S) was first constructed by the Federal Reserve Bank of St. Louis in October 2012. It is calculated using Federal Government Debt: Total Public Debt (GFDEBTN) (https://fred.stlouisfed.org/series/GFDEBTN) and Gross Domestic Product, 1 Decimal (GDP) (https://fred.stlouisfed.org/series/GDP):
+GFDEGDQ188S = ((GFDEBTN/1000)/GDP)*100
+GFDEBTN/1000 transforms GFDEBTN from millions of dollars to billions of dollars.
+
+--------------------------------------------------------------------------------
+
+2. FYFSGDA188S
+   Title: Federal Surplus or Deficit [-] as Percent of Gross Domestic Product
+   Frequency: A
+   Popularity: 78
+   Notes:
+   Federal Surplus or Deficit [-] as Percent of Gross Domestic Product (FYFSGDA188S) (https://fred.stlouisfed.org/series/FYFSGDA188S) was first constructed by the Federal Reserve Bank of St. Louis in October 2012. It is calculated using Federal Surplus or Deficit [-] (FYFSD) (https://fred.stlouisfed.org/series/FYFSD) and Gross Domestic Product (GDPA) (https://fred.stlouisfed.org/series/GDPA):
+FYFSGDA188S = ((FYFSD/1000)/GDPA)*100
+FYFSD/1000 transforms FYFSD from millions of dollars to billions of dollars.
+
+--------------------------------------------------------------------------------
+
+3. FYFSDFYGDP
+   Title: Federal Surplus or Deficit [-] as Percent of Gross Domestic Product
+   Frequency: A
+   Popularity: 62
+   Notes:
+   No description available
+
+--------------------------------------------------------------------------------
+
+4. GDP
+   Title: Gross Domestic Product
+   Frequency: Q
+   Popularity: 95
+   Notes:
+   BEA Account Code: A191RC
+
+Gross domestic product (GDP), the featured measure of U.S. output, is the market value of the goods and services produced by labor and property located in the United States.For more information, see the Guide to the National Income and Product Accounts of the United States (NIPA) and the Bureau of Economic Analysis (http://www.bea.gov/national/pdf/nipaguid.pdf).
+
+--------------------------------------------------------------------------------
+
+5. GFDGDPA188S
+   Title: Gross Federal Debt as Percent of Gross Domestic Product
+   Frequency: A
+   Popularity: 67
+   Notes:
+   Gross Federal Debt as Percent of Gross Domestic Product (GFDGDPA188S) (https://fred.stlouisfed.org/series/GFDGDPA188S) was first constructed by the Federal Reserve Bank of St. Louis in January 2013. It is calculated using Gross Federal Debt (FYGFD) (https://fred.stlouisfed.org/series/FYGFD) and Gross Domestic Product (GDPA) (https://fred.stlouisfed.org/series/GDPA):
+GFDGDPA188S = (FYGFD/GDPA)*100
+
+--------------------------------------------------------------------------------
+
+6. FYONGDA188S
+   Title: Federal Net Outlays as Percent of Gross Domestic Product
+   Frequency: A
+   Popularity: 66
+   Notes:
+   Federal Net Outlays as Percent of Gross Domestic Product (FYONGDA188S) (https://fred.stlouisfed.org/series/FYONGDA188S) was first constructed by the Federal Reserve Bank of St. Louis in January 2013. It is calculated using Federal Net Outlays (FYONET) (https://fred.stlouisfed.org/series/FYONET) and Gross Domestic Product (GDPA) (https://fred.stlouisfed.org/series/GDPA):
+FYONGDA188S = ((FYONET/1000)/GDPA)*100
+FYONET/1000 transforms FYONET from millions of dollars to billions of dollars.
+
+--------------------------------------------------------------------------------
+
+7. FYFRGDA188S
+   Title: Federal Receipts as Percent of Gross Domestic Product
+   Frequency: A
+   Popularity: 63
+   Notes:
+   Federal Receipts as Percent of Gross Domestic Product (FYFRGDA188S) (https://fred.stlouisfed.org/series/FYFRGDA188S) was first constructed by the Federal Reserve Bank of St. Louis in January 2013. It is calculated using Federal Receipts (FYFR) (https://fred.stlouisfed.org/series/FYFR) and Gross Domestic Product (GDPA) (https://fred.stlouisfed.org/series/GDPA):
+FYFRGDA188S = ((FYFR/1000)/GDPA)*100
+FYFR/1000 transforms FYFR from millions of dollars to billions of dollars.
+
+--------------------------------------------------------------------------------
+
+8. FYOIGDA188S
+   Title: Federal Outlays: Interest as Percent of Gross Domestic Product
+   Frequency: A
+   Popularity: 63
+   Notes:
+   Federal Outlays: Interest as Percent of Gross Domestic Product (FYOIGDA188S) (https://fred.stlouisfed.org/series/FYOIGDA188S) was first constructed by the Federal Reserve Bank of St. Louis in January 2013. It is calculated using Federal Outlays: Interest (FYOINT) (https://fred.stlouisfed.org/series/FYOINT) and Gross Domestic Product (GDPA) (https://fred.stlouisfed.org/series/GDPA):
+FYOIGDA188S = ((FYOINT/1000)/GDPA)*100
+FYOINT/1000 transforms FYOINT from millions of dollars to billions of dollars.
+
+--------------------------------------------------------------------------------
+
+9. FYGFGDQ188S
+   Title: Federal Debt Held by the Public as Percent of Gross Domestic Product
+   Frequency: Q
+   Popularity: 58
+   Notes:
+   Federal Debt Held by the Public as Percent of Gross Domestic Product (FYGFGDQ188S) (https://fred.stlouisfed.org/series/FYGFGDQ188S) was first constructed by the Federal Reserve Bank of St. Louis in October 2012. It is calculated using Federal Debt Held by the Public (FYGFDPUN) (https://fred.stlouisfed.org/series/FYGFDPUN) and Gross Domestic Product, 1 Decimal (GDP) (https://fred.stlouisfed.org/series/GDP):
+FYGFGDQ188S = ((FYGFDPUN/1000)/GDP)*100
+FYGFDPUN/1000 transforms FYGFDPUN from millions of dollars to billions of dollars.
+
+--------------------------------------------------------------------------------
+
+10. GDPC1
+   Title: Real Gross Domestic Product
+   Frequency: Q
+   Popularity: 94
+   Notes:
+   BEA Account Code: A191RX
+
+Real gross domestic product is the inflation adjusted value of the goods and services produced by labor and property located in the United States.For more information see the Guide to the National Income and Product Accounts of the United States (NIPA). For more information, please visit the Bureau of Economic Analysis (http://www.bea.gov/national/pdf/nipaguid.pdf).
+
+--------------------------------------------------------------------------------
+

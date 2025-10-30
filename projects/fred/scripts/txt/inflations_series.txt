@@ -1,0 +1,9 @@
+FRED Series Query Results
+Total Series Found: 10
+================================================================================
+
+1. GFDEGDQ188S
+   Title: Federal Debt: Total Public Debt as Percent of Gross Domestic Product
+   Frequency: Q
+   Popularity: 88
+   Description:
