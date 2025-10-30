@@ -208,3 +208,49 @@ __marimo__/
 
 #DS_Store
 **/.DS_Store
+
+# === SECRETS (NEVER COMMIT) ===
+.env
+*.key
+*secret*
+*password*
+credentials*
+
+# === LARGE DATA FILES ===
+# Data files
+*.parquet
+*.csv
+*.json
+data/
+*.db
+*.sqlite
+
+# Embeddings (very large!)
+embeddings/
+*.npy
+*.index
+faiss.index
+
+# === VISUALIZATIONS ===
+# PNG files (generated outputs)
+*.png
+charts/
+my_charts/
+visualizations/
+outputs/visualizations/
+
+# But keep documentation
+!*.md
+
+# === PYTHON ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venvkumo/
+venv/
+.venv/
+
+# === LOGS ===
+*.log
+
