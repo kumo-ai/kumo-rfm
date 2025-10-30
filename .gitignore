@@ -254,3 +254,5 @@ venv/
 # === LOGS ===
 *.log
 
+projects/fred/scripts/data/*.json
+projects/fred/scripts/data/embeddings/
