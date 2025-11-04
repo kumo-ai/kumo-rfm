@@ -143,6 +143,7 @@ for dataset_name, task_name in tasks:
     y_test = test_df[task.target_col].to_numpy()[:len(y_pred)]
     
     # Convert probabilities to binary predictions using 0.5 threshold
+    # Note that the threshold value is a tunable parameter that should be adjusted to achieve the desired classification performance.
     y_pred_binary = (y_pred > 0.5).astype(int)
     
     # Calculate metrics
@@ -155,3 +156,4 @@ for dataset_name, task_name in tasks:
     print(f'AUPRC: {auprc:.4f}')
     print(f'F1 Macro: {f1_macro:.4f}')
     print(f'F1 Micro: {f1_micro:.4f}')
+
