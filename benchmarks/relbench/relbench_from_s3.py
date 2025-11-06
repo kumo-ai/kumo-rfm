@@ -83,6 +83,9 @@ if __name__ == "__main__":
     parser.add_argument('--max_test_steps', type=int, default=2)
     args = parser.parse_args()
 
+    if 'KUMO_API_KEY' not in os.environ:
+        rfm.authenticate()
+
     rfm.init()
 
     # ===============================================
@@ -122,9 +125,9 @@ if __name__ == "__main__":
     context_df = pd.read_parquet(f"{args.s3_base_path}context.parquet")
 
     if args.is_regression:
-        query = "PREDICT context.TARGET FOR context.index IN ({indices})"
+        query = "PREDICT context.TARGET FOR EACH context.index"
     else:
-        query = "PREDICT context.TARGET = 1 FOR context.index IN ({indices})"
+        query = "PREDICT context.TARGET = 1 FOR EACH context.index"
 
     # ===============================================
     # STEP 3: PREDICT
@@ -134,25 +137,20 @@ if __name__ == "__main__":
     test_df = test_df.sample(frac=1, random_state=24)
     test_df = test_df.reset_index(drop=True)
 
-    ys_pred = []
-    steps = list(range(0, len(test_df), args.batch_size))[:args.max_test_steps]
-    for i, step in enumerate(tqdm.tqdm(steps)):
-        indices = range(step, min(step + args.batch_size, len(test_df)))
-        _query = query.format(indices=', '.join(str(i) for i in indices))
-        
-        # Runs the prediction
+    test_df = test_df[:args.max_test_steps*args.batch_size]
+    with model.batch_mode(batch_size=args.batch_size, num_retries=1):
         df = model.predict(
-            _query,
+            query,
+            indices=range(len(test_df)),
             run_mode=args.run_mode,
             anchor_time='entity',
             num_neighbors=[1, 16, 16],
-            verbose=i == 0,
         )
         
         if args.is_regression:
-            ys_pred.append(df['TARGET_PRED'].to_numpy())
+            y_pred = df['TARGET_PRED'].to_numpy()
         else:
-            ys_pred.append(df['True_PROB'].to_numpy())
+            y_pred = df['True_PROB'].to_numpy()
 
     # ===============================================
     # STEP 4: EVALUATE
@@ -162,7 +160,6 @@ if __name__ == "__main__":
     # source could be used.
     # TODO: Get the ground-truth values for the test rows.
     # ===============================================
-    y_pred = np.concatenate(ys_pred)
     y_test = test_df["TARGET"].to_numpy()[:len(y_pred)]
     if args.is_regression:
         print(f'MAE: {np.abs(y_test - y_pred).mean():.4f}')

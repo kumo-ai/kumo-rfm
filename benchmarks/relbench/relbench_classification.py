@@ -120,26 +120,22 @@ for dataset_name, task_name in tasks:
     graph = add_context(graph, dataset_name, task_name)
     model = rfm.KumoRFM(graph)
 
-    query = "PREDICT context.TARGET = 1 FOR context.index IN ({indices})"
+    query = "PREDICT context.TARGET = 1 FOR EACH context.index"
 
-    ys_pred = []
     task = get_task(dataset_name, task_name, download=True)
     test_df = task.get_table('test', mask_input_cols=False).df
     test_df[task.target_col] = test_df[task.target_col].astype(int)
-    steps = list(range(0, len(test_df), args.batch_size))[:args.max_test_steps]
-    for i, step in enumerate(tqdm.tqdm(steps)):
-        indices = range(step, min(step + args.batch_size, len(test_df)))
-        _query = query.format(indices=', '.join(str(i) for i in indices))
+    test_df = test_df[:args.max_test_steps*args.batch_size]
+    with model.batch_mode(batch_size=args.batch_size, num_retries=1):
         df = model.predict(
-            _query,
+            query,
+            indices=range(len(test_df)),
             run_mode=args.run_mode,
             anchor_time='entity',
             num_neighbors=NUM_NEIGHBORS[(dataset_name, task_name)],
-            verbose=i == 0,
         )
-        ys_pred.append(df['True_PROB'].to_numpy())
 
-    y_pred = np.concatenate(ys_pred)
+    y_pred = df['True_PROB'].to_numpy()
     y_test = test_df[task.target_col].to_numpy()[:len(y_pred)]
     
     # Convert probabilities to binary predictions using 0.5 threshold
