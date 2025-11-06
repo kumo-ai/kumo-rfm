@@ -148,7 +148,6 @@ for dataset_name, task_name in tasks:
             run_mode=args.run_mode,
             anchor_time='entity',
             num_neighbors=NUM_NEIGHBORS[(dataset_name, task_name)],
-            verbose=True,
         )
     y_pred = df['TARGET_PRED'].to_numpy()
     y_test = test_df[task.target_col].to_numpy()[:len(y_pred)]
