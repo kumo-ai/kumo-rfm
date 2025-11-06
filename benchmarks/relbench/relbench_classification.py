@@ -133,7 +133,6 @@ for dataset_name, task_name in tasks:
             run_mode=args.run_mode,
             anchor_time='entity',
             num_neighbors=NUM_NEIGHBORS[(dataset_name, task_name)],
-            verbose=True,
         )
 
     y_pred = df['True_PROB'].to_numpy()
