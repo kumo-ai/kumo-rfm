@@ -1,5 +1,6 @@
 import argparse
 
+import os
 import numpy as np
 import pandas as pd
 import tqdm
@@ -15,6 +16,9 @@ parser.add_argument('--run_mode', type=str, default='best')
 parser.add_argument('--batch_size', type=int, default=1000)
 parser.add_argument('--max_test_steps', type=int, default=5)
 args = parser.parse_args()
+
+if 'KUMO_API_KEY' not in os.environ:
+    rfm.authenticate()
 
 rfm.init()
 
@@ -129,26 +133,23 @@ for dataset_name, task_name in tasks:
     graph = add_context(graph, dataset_name, task_name)
     model = rfm.KumoRFM(graph)
 
-    query = "PREDICT context.TARGET FOR context.index IN ({indices})"
+    query = "PREDICT context.TARGET FOR EACH context.index"
 
     ys_pred = []
     task = get_task(dataset_name, task_name, download=True)
     test_df = task.get_table('test', mask_input_cols=False).df
     test_df = test_df.sample(frac=1, random_state=24)
     test_df = test_df.reset_index(drop=True)
-    steps = list(range(0, len(test_df), args.batch_size))[:args.max_test_steps]
-    for i, step in enumerate(tqdm.tqdm(steps)):
-        indices = range(step, min(step + args.batch_size, len(test_df)))
-        _query = query.format(indices=', '.join(str(i) for i in indices))
+    test_df = test_df[:args.max_test_steps*args.batch_size]
+    with model.batch_mode(batch_size=args.batch_size, num_retries=1):
         df = model.predict(
-            _query,
+            query,
+            indices=range(len(test_df)),
             run_mode=args.run_mode,
             anchor_time='entity',
             num_neighbors=NUM_NEIGHBORS[(dataset_name, task_name)],
-            verbose=i == 0,
+            verbose=True,
         )
-        ys_pred.append(df['TARGET_PRED'].to_numpy())
-
-    y_pred = np.concatenate(ys_pred)
+    y_pred = df['TARGET_PRED'].to_numpy()
     y_test = test_df[task.target_col].to_numpy()[:len(y_pred)]
     print(f'MAE: {np.abs(y_test - y_pred).mean():.4f}')
