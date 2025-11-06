@@ -145,7 +145,6 @@ if __name__ == "__main__":
             run_mode=args.run_mode,
             anchor_time='entity',
             num_neighbors=[1, 16, 16],
-            verbose=True,
         )
         
         if args.is_regression:
