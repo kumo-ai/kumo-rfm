@@ -6,6 +6,7 @@
 * **Predictive Query Internals** [[**Jupyter**](./predictive_query_internals.ipynb) | [**Google Colab**](https://colab.research.google.com/drive/1OHhi8ytcldPIp5WldA4HrtVB5o3bDzAO)]: A tutorial on how Predictive Queries are mapped to ground-truth labels
 * **Hands-On Tutorial** [[**Jupyter**](hands_on.ipynb) | [**Google Colab**](https://colab.research.google.com/drive/1dscN_hE_ShnM_W2gHF8jxJTPWEPjIK85)]: A hands-on notebook that playfully introduces `KumoRFM` on the [Super Mario Maker](https://www.kaggle.com/datasets/leomauro/smmnet) dataset and asks you to fill out the blanks
 * **Single Tabular Data** [[**Jupyter**](./single_table.ipynb) | [**Google Colab**](https://colab.research.google.com/drive/14nkh7yz28-kvkgMqvVJoTRgCBq--e5mX)]: A tutorial on how to use `KumoRFM` on single tabular datasets
+* **Explanations Tutorial** [[**Jupyter**](./explanations.ipynb) | [**Google Colab**](https://colab.research.google.com/drive/1ZBrUZulZBHgxmSC-yIKIxirieo1eBC70?usp=sharing)]: A guide on the types of explanations available in KumoRFM and how to understand them
 * **RelBench** [[**Jupyter**](./relbench.ipynb) | [**Google Colab**](https://colab.research.google.com/drive/1mjWPmOsTcq1gNbKqcaMAZGRxxnH3-H22)]: A walkthrough on how to evaluate `KumoRFM` on [`rel-bench`](https://relbench.stanford.edu/) datasets and tasks
 * **SALT** [[**Jupyter**](./salt.ipynb) | [**Google Colab**](https://colab.research.google.com/drive/1m4Djd6_mMR9EHnYklwj7ytJncfjChbIa)]: A walkthrough on how to evaluate `KumoRFM` on the [`SALT`](https://github.com/SAP-samples/salt) dataset
 
