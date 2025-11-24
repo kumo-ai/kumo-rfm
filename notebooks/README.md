@@ -9,6 +9,7 @@
 * **Explanations Tutorial** [[**Jupyter**](./explanations.ipynb) | [**Google Colab**](https://colab.research.google.com/github/kumo-ai/kumo-rfm/blob/master/notebooks/explanations.ipynb)]: A guide on the types of explanations available in KumoRFM and how to understand them
 * **RelBench** [[**Jupyter**](./relbench.ipynb) | [**Google Colab**](https://colab.research.google.com/github/kumo-ai/kumo-rfm/blob/master/notebooks/relbench.ipynb)]: A walkthrough on how to evaluate `KumoRFM` on [`rel-bench`](https://relbench.stanford.edu/) datasets and tasks
 * **SALT** [[**Jupyter**](./salt.ipynb) | [**Google Colab**](https://colab.research.google.com/github/kumo-ai/kumo-rfm/blob/master/notebooks/salt.ipynb)]: A walkthrough on how to evaluate `KumoRFM` on the [`SALT`](https://github.com/SAP-samples/salt) dataset
+* **NL Explanation in Cortex** [[**Jupyter**](./cortex_summarize_explain.ipynb) | [**Google Colab**](https://colab.research.google.com/github/kumo-ai/kumo-rfm/blob/master/notebooks/cortex_summarize_explain.ipynb)]: A demo notebook showcasing how to summarize explanations into natural language using Snowflake Cortex Complete
 
 
 # MCP Notebooks
