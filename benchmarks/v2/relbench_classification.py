@@ -8,15 +8,15 @@ from relbench.tasks import get_task
 from sklearn.metrics import roc_auc_score
 
 NUM_NEIGHBORS = {
-    ("rel-hm", "user-churn"): [16, 16],
-    ("rel-amazon", "user-churn"): [16, 16],
+    ("rel-hm", "user-churn"): [64, 64],
+    ("rel-amazon", "user-churn"): [10, 10],
     ("rel-amazon", "item-churn"): [16, 16],
-    ("rel-f1", "driver-top3"): [16, 16],
-    ("rel-f1", "driver-dnf"): [16, 16],
-    ("rel-event", "user-repeat"): [16, 16],
-    ("rel-event", "user-ignore"): [16, 16],
-    ("rel-stack", "user-engagement"): [16, 16],
-    ("rel-stack", "user-badge"): [16, 16],
+    ("rel-f1", "driver-top3"): [10, 10],
+    ("rel-f1", "driver-dnf"): [10, 10],
+    ("rel-event", "user-repeat"): [10, 10],
+    ("rel-event", "user-ignore"): [128, 128],
+    ("rel-stack", "user-engagement"): [10, 10],
+    ("rel-stack", "user-badge"): [128, 128],
     ("rel-ratebeer", "beer-churn"): [10, 10],
     ("rel-ratebeer", "user-churn"): [16, 16],
     ("rel-ratebeer", "brewer-dormant"): [32],
@@ -24,21 +24,72 @@ NUM_NEIGHBORS = {
     ('rel-arxiv', 'paper-citation'): [16, 16],
 }
 
-CONTEXT_STRATEGY = {
-    ("rel-hm", "user-churn"): "random",
+CONTEXT_SIZE = {
+    ("rel-hm", "user-churn"): 10_000,
+    ("rel-amazon", "user-churn"): 5_000,
+    ("rel-amazon", "item-churn"): 10_000,
+    ("rel-f1", "driver-top3"): 5_000,
+    ("rel-f1", "driver-dnf"): 5_000,
+    ("rel-event", "user-repeat"): 3_000,
+    ("rel-event", "user-ignore"): 3_000,
+    ("rel-stack", "user-engagement"): 3_000,
+    ("rel-stack", "user-badge"): 5_000,
+    ("rel-ratebeer", "beer-churn"): 10_000,
+    ("rel-ratebeer", "user-churn"): 10_000,
+    ("rel-ratebeer", "brewer-dormant"): 10_000,
+    ("rel-mimic", "patient-iculengthofstay"): 10_000,
+    ("rel-arxiv", "paper-citation"): 10_000,
+}
+
+CONTEXT_SAMPLING_STRATEGY = {
+    ("rel-hm", "user-churn"): "recency",
     ("rel-amazon", "user-churn"): "random",
-    ("rel-amazon", "item-churn"): "random",
+    ("rel-amazon", "item-churn"): "stratified_recency",
     ("rel-f1", "driver-top3"): "random",
-    ("rel-f1", "driver-dnf"): "random",
-    ("rel-event", "user-repeat"): "recency",
-    ("rel-event", "user-ignore"): "recency",
-    ("rel-stack", "user-engagement"): "random",
-    ("rel-stack", "user-badge"): "random",
+    ("rel-f1", "driver-dnf"): "recency",
+    ("rel-event", "user-repeat"): "stratified_recency",
+    ("rel-event", "user-ignore"): "random",
+    ("rel-stack", "user-engagement"): "stratified_random",
+    ("rel-stack", "user-badge"): "stratified_random",
     ("rel-ratebeer", "beer-churn"): "stratified_random",
     ("rel-ratebeer", "user-churn"): "random",
     ("rel-ratebeer", "brewer-dormant"): "random",
     ("rel-mimic", "patient-iculengthofstay"): "random",
     ("rel-arxiv", "paper-citation"): "stratified_random",
+}
+
+NUM_ESTIMATORS = {
+    ("rel-hm", "user-churn"): 4,
+    ("rel-amazon", "user-churn"): 4,
+    ("rel-amazon", "item-churn"): 4,
+    ("rel-f1", "driver-top3"): 1,
+    ("rel-f1", "driver-dnf"): 1,
+    ("rel-event", "user-repeat"): 4,
+    ("rel-event", "user-ignore"): 1,
+    ("rel-stack", "user-engagement"): 1,
+    ("rel-stack", "user-badge"): 1,
+    ("rel-ratebeer", "beer-churn"): 4,
+    ("rel-ratebeer", "user-churn"): 4,
+    ("rel-ratebeer", "brewer-dormant"): 4,
+    ("rel-mimic", "patient-iculengthofstay"): 4,
+    ("rel-arxiv", "paper-citation"): 4,
+}
+
+LAG_TIMESTEPS = {
+    ("rel-hm", "user-churn"): 10,
+    ("rel-amazon", "user-churn"): 0,
+    ("rel-amazon", "item-churn"): 10,
+    ("rel-f1", "driver-top3"): 10,
+    ("rel-f1", "driver-dnf"): 10,
+    ("rel-event", "user-repeat"): 0,
+    ("rel-event", "user-ignore"): 10,
+    ("rel-stack", "user-engagement"): 0,
+    ("rel-stack", "user-badge"): 10,
+    ("rel-ratebeer", "beer-churn"): 10,
+    ("rel-ratebeer", "user-churn"): 10,
+    ("rel-ratebeer", "brewer-dormant"): 10,
+    ("rel-mimic", "patient-iculengthofstay"): 0,
+    ("rel-arxiv", "paper-citation"): 0,
 }
 
 PQ = {
@@ -98,14 +149,6 @@ PQ = {
      "WHERE COUNT(beers.*, -365, 0, days)>0"),
 }
 
-CONTEXT_SAMPLING_STRATEGIES = [
-    "recency",
-    "random",
-    "stratified_recency",
-    "stratified_random",
-    "best",
-]
-
 
 def build_task(
     model: rfm.KumoRFM,
@@ -135,8 +178,6 @@ def build_task(
         ignore_index=True,
     ).rename(columns=columns)
 
-    if context_sampling_strategy == "best":
-        context_sampling_strategy = CONTEXT_STRATEGY[(dataset, task_name)]
     if context_sampling_strategy == "recency":
         context_df = context_df.sort_values(
             ["TIME", "ENTITY"],
@@ -187,9 +228,6 @@ def build_task(
             query=PQ[(dataset, task_name)],
             lag_timesteps=lag_timesteps,
         )
-    elif lag_timesteps > 0:
-        print(
-            f"Lag labels not available for dataset={dataset} task={task_name}")
 
     return task_table
 
@@ -198,22 +236,11 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--dataset", type=str, required=True)
     parser.add_argument("--task", type=str, required=True)
-    parser.add_argument("--context_size", type=int, default=5_000)
-    parser.add_argument(
-        "--context_sampling_strategy",
-        type=str,
-        default="random",
-        choices=CONTEXT_SAMPLING_STRATEGIES,
-    )
-    parser.add_argument("--lag_timesteps", type=int, default=10)
-    parser.add_argument("--num_estimators", type=int, default=1)
-    parser.add_argument("--column_shuffle", action="store_true")
-    parser.add_argument("--category_shuffle", action="store_true")
-    parser.add_argument("--class_shuffle", action="store_true")
-    parser.add_argument("--hop_shuffle", action="store_true")
     parser.add_argument("--batch_size", type=int, default=1000)
     parser.add_argument("--max_test_steps", type=int, default=10)
     args = parser.parse_args()
+
+    pair = (args.dataset, args.task)
 
     rfm.init()
     graph = rfm.Graph.from_relbench(args.dataset)
@@ -223,26 +250,24 @@ if __name__ == "__main__":
         model=model,
         dataset=args.dataset,
         task_name=args.task,
-        context_sampling_strategy=args.context_sampling_strategy,
-        context_size=args.context_size,
-        lag_timesteps=args.lag_timesteps,
+        context_sampling_strategy=CONTEXT_SAMPLING_STRATEGY[pair],
+        context_size=CONTEXT_SIZE[pair],
+        lag_timesteps=LAG_TIMESTEPS[pair],
         batch_size=args.batch_size,
         max_test_steps=args.max_test_steps,
     )
 
     inference_config = InferenceConfig.from_task_type(task_table.task_type)
-    inference_config.num_estimators = args.num_estimators
-    inference_config.column_shuffle = args.column_shuffle
-    inference_config.category_shuffle = args.category_shuffle
-    inference_config.hop_shuffle = args.hop_shuffle
-    inference_config.class_shuffle = args.class_shuffle
+    inference_config.num_estimators = NUM_ESTIMATORS[pair]
+    if inference_config.num_estimators > 1:
+        inference_config.column_shuffle = True
+        inference_config.class_shuffle = True
 
     with model.batch_mode():
         result_df = model.predict_task(
             task=task_table,
             run_mode="best",
-            num_neighbors=NUM_NEIGHBORS.get((args.dataset, args.task),
-                                            [16, 16]),
+            num_neighbors=NUM_NEIGHBORS[pair],
             inference_config=inference_config,
         )
 
